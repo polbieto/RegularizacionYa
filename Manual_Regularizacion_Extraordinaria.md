@@ -45,7 +45,7 @@
 
 **❌ FALSO.** Completamente falso. La regularización **NO** tiene un cupo limitado. Lo que tiene es un **PLAZO**. Todas las personas que presenten su solicitud y cumplan con los requisitos **DENTRO DEL PLAZO** establecido (antes del 30 de junio de 2026) podrán regularizarse.
 
-> Redwan Badu, portavoz de Regularización Ya, lo desmintió textualmente:
+> Redwan Baddouh, portavoz de Regularización Ya, lo desmintió textualmente:
 > *"Lo de los seiscientos mil es un bulo que ha estado circulando y tenemos que desmentirlo. No hay cupo, no hay límite. Si presentas tu solicitud el día 29 de junio o el día 30 de junio, va a acceder igual a la regularización, siempre y cuando se cumplan los requisitos establecidos."*
 
 ### BULO 2: "Ya sabemos la fecha exacta de inicio"
@@ -60,7 +60,7 @@ Hay abogados y abogadas privados que están cobrando por "explicar" el procedimi
 - Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: entidades del tercer sector, ONG, organizaciones como Regularización Ya, Sembrar, Bloque Anticolonial de Barcelona, Tic Tac Antirracista, y muchas más están articulando redes de asesoramiento gratuito.
 - Los abogados y abogadas que están vendiendo explicaciones de borradores están **vendiendo humo**. EL TEXTO DEFINITIVO AÚN NO SE HA PUBLICADO.
 
-> Redwan Badu lo expresó así: *"No necesitan abogado para poder presentar la solicitud. Se puede, la puede presentar uno mismo, aunque es verdad que es recomendable asesorarse."*
+> Redwan Baddouh lo expresó así: *"No necesitan abogado para poder presentar la solicitud. Se puede, la puede presentar uno mismo, aunque es verdad que es recomendable asesorarse."*
 
 ### No tomes decisiones irreversibles con borradores
 
@@ -85,7 +85,7 @@ La Regularización Extraordinaria **NO** nace "de un huevo Kinder" ni de la volu
 | **2020** | El movimiento Regularización Ya impulsa una **Proposición No de Ley** en el Congreso de los Diputados. Fue rechazada por los mismos partidos que hoy "se cuelgan la medalla" de haber sacado la regularización. En aquel momento, estos partidos argumentaron que el Pacto Europeo de Migración y Asilo no lo permitía. **ERA MENTIRA.** El movimiento lo sabía y siguió insistiendo. |
 | **2021** | Se presenta la **Iniciativa Legislativa Popular (ILP)** tras un esfuerzo masivo. Se colaron tres textos que no contravenían la Ley Orgánica de Extranjería, aprovechando un artículo con el que se había hecho la primera regularización en 2001. Las portavoces eran trabajadoras del hogar y los cuidados, manteros, jornaleros, temporeros, trabajadoras sexuales: los trabajos a los que la Ley de Extranjería condena a las personas migrantes. Se organizaron **MÁS DE 18 COMITÉS TERRITORIALES** en toda España. Se recogieron **MÁS DE 700.000 FIRMAS** en la calle, en fiestas, en charlas, en todos los eventos posibles. |
 | **2023** | Los partidos que habían dicho apoyar la ILP se olvidaron durante las elecciones; en ninguna plataforma electoral aparecía el apoyo a la ILP. Estos mismos partidos votaron calladamente el traspaso de competencias propuesto por Junts per Catalunya, que definía a las personas migrantes como "peligro para la sociedad" y se sumaba al discurso de la deportación. El movimiento presionó a Podemos para que bloqueara un acuerdo de traspaso de competencias que, en la práctica, significaba traspasar delegaciones para deportar y gestionar CIE (Centros de Internamiento de Extranjeros). |
-| **Acuerdo final** | Se forzó un pacto entre PSOE y Podemos. Al PSOE le interesaba volver a sentarse con Junts para trazar presupuestos. Esta vez, las personas migrantes como "moneda de cambio" salieron a cuenta. El movimiento presionó hasta el último momento. Regularización Ya estuvo redactando hasta el último momento —con Redwan Badu— lo que se le traspasó al Consejo de Estado. |
+| **Acuerdo final** | Se forzó un pacto entre PSOE y Podemos. Al PSOE le interesaba volver a sentarse con Junts para trazar presupuestos. Esta vez, las personas migrantes como "moneda de cambio" salieron a cuenta. El movimiento presionó hasta el último momento. Regularización Ya estuvo redactando hasta el último momento —con Redwan Baddouh— lo que se le traspasó al Consejo de Estado. |
 
 ### Deconstrucción narrativa
 
@@ -285,7 +285,7 @@ Para acreditar esta vía, se necesitará un informe emitido por una entidad regi
 - Los solicitantes de protección internacional **SÍ PUEDEN** acogerse a la regularización extraordinaria.
 - **NO TIENES QUE RENUNCIAR A TU SOLICITUD DE ASILO. NUNCA. JAMÁS.**
 
-> Redwan Badu: *"Renunciar NUNCA. No hay que renunciar a la protección internacional."*
+> Redwan Baddouh: *"Renunciar NUNCA. No hay que renunciar a la protección internacional."*
 
 - Tu solicitud de asilo debe haber sido presentada antes del 31 de diciembre de 2025 (y posiblemente también las presentadas después, pendiente del texto final).
 - Cuando se abra el plazo, podrás solicitar la autorización de residencia aunque seas solicitante de protección internacional.
@@ -463,7 +463,7 @@ Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te p
 
 > [!IMPORTANT]
 > **NO tomes decisiones irreversibles.**
-> Redwan Badu advirtió: *"Como ya venimos diciendo desde el principio, si por si acaso tienes algún proceso o alguna cosa y no sabes si tienes que renunciar o no a eso,"* **NO RENUNCIES.** Espera.
+> Redwan Baddouh advirtió: *"Como ya venimos diciendo desde el principio, si por si acaso tienes algún proceso o alguna cosa y no sabes si tienes que renunciar o no a eso,"* **NO RENUNCIES.** Espera.
 
 ---
 
@@ -691,8 +691,8 @@ No solo entidades grandes: también entidades pequeñas pueden registrarse.
 Este manual ha sido compilado a partir de las siguientes fuentes:
 - Aclaraciones 30 enero 2026 (Regularización Ya)
 - Charla Can Batlló, 5 marzo 2026 (Regularización Ya + Círculo de Migraciones + Aila Ilegal)
-- El Tablero, 6 marzo 2026 (Redwan Badu, Regularización Ya)
-- El Tablero, 27 febrero 2026 (Redwan Badu, Regularización Ya)
+- El Tablero, 6 marzo 2026 (Redwan Baddouh, Regularización Ya)
+- El Tablero, 27 febrero 2026 (Redwan Baddouh, Regularización Ya)
 
 Toda la información se ha cruzado y verificado entre las cuatro fuentes. En caso de aparentes contradicciones, se han integrado las aclaraciones más recientes y se ha indicado cuando un punto está pendiente de confirmación en el BOE.
 
