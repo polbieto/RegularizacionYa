@@ -1,6 +1,5 @@
 # MANUAL SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
 
----
 
 **Fuentes:** Transcripciones de charlas informativas y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero - marzo 2026).
 
