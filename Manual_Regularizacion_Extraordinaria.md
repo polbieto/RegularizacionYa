@@ -1,7 +1,4 @@
-# MANUAL DEFINITIVO Y EXHAUSTIVO SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
-
-**Movimiento Regularización Ya**
-*Círculo de Migraciones - Coòpolis / Aila Ilegal*
+# MANUAL SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
 
 ---
 
