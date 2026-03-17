@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "chatregularizacion"
+version = "0.1.0"
+description = "Asistente para regularización ya"
+authors = ["Pol Bieto <stask.bieto@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+chainlit = "^2.9.6"
+langchain = "^1.2.10"
+langchain-openai = "^1.1.10"
+langgraph = ">=1.0.8,<1.1.0"
+pydantic = "^2.12.5"
+python-dotenv = "^1.1.1"
+langchain-ollama = "^1.0.1"
+langchain-google-genai = "^4.2.0"
+sqlalchemy = "^2.0.48"
+pgvector = "^0.4.2"
+psycopg2-binary = "^2.9.11"
+yoyo-migrations = "^9.0.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+testcontainers = "^4.9.1"
+pre-commit = "^4.0.1"
+mypy = "^1.13.0"
+pytest-cov = "^6.0.0"
+
+[tool.mypy]
+python_version = "3.12"
+
+
+[tool.flake8]
+max-line-length = 88
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
