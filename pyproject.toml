@@ -8,6 +8,7 @@ authors = ["Pol Bieto <stask.bieto@gmail.com>"]
 python = "^3.12"
 chainlit = "^2.9.6"
 langchain = "^1.2.10"
+langchain-community = "^0.4.1"
 langchain-openai = "^1.1.10"
 langgraph = ">=1.0.8,<1.1.0"
 pydantic = "^2.12.5"
