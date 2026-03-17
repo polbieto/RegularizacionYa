@@ -1,6 +1,6 @@
 from typing import Protocol, Sequence
 
-from chatregularizacion.domain.document_knowledge_base import ProductBaseKnowledge
+from domain.document_knowledge_base import ProductBaseKnowledge
 
 
 class DocumentRepositoryPort(Protocol):

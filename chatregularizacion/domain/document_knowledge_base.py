@@ -4,7 +4,7 @@ import uuid
 from dataclasses import dataclass, field
 from datetime import datetime
 
-from chatregularizacion.domain.document import Document
+from domain.document import Document
 
 
 @dataclass(kw_only=True)

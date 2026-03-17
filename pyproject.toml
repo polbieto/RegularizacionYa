@@ -19,6 +19,7 @@ sqlalchemy = "^2.0.48"
 pgvector = "^0.4.2"
 psycopg2-binary = "^2.9.11"
 yoyo-migrations = "^9.0.0"
+asyncpg = "^0.29.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"
@@ -33,6 +34,9 @@ python_version = "3.12"
 
 [tool.flake8]
 max-line-length = 88
+
+[tool.pytest.ini_options]
+pythonpath = ["chatregularizacion"]
 
 [build-system]
 requires = ["poetry-core"]

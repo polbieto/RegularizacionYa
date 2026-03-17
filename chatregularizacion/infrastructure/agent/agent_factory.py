@@ -1,10 +1,10 @@
 from application.agent_orchestrator import AgentOrchestrator as DomainAgentOrchestrator
-from chatregularizacion.infrastructure.repository.sqlalchemy_document_repository import \
+from infrastructure.repository.sqlalchemy_document_repository import \
     SqlAlchemyDocumentRepositoryAdapter
 
-from chatregularizacion.infrastructure.google_embedding_provider import GoogleGenerativeAIEmbeddingProvider
-from chatregularizacion.application.services.document_service import DocumentService
-from chatregularizacion.infrastructure.agent.tools_registry import build_tools
+from infrastructure.google_embedding_provider import GoogleGenerativeAIEmbeddingProvider
+from application.services.document_service import DocumentService
+from infrastructure.agent.tools_registry import build_tools
 
 from infrastructure.agent.langgraph_agent_orchestrator import LangGraphAgentOrchestrator
 from infrastructure.agent.llm_provider import build_ollama_llm_with_tools

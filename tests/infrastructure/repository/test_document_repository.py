@@ -1,13 +1,13 @@
 import uuid
 
-from chatregularizacion.domain.document import Document
-from chatregularizacion.domain.document_knowledge_base import ProductBaseKnowledge
-from chatregularizacion.infrastructure.repository.sqlalchemy_document_repository import (
+from domain.document import Document
+from domain.document_knowledge_base import ProductBaseKnowledge
+from infrastructure.repository.sqlalchemy_document_repository import (
     SqlAlchemyDocumentRepositoryAdapter,
 )
 
 # Important to ensure mappers are active for integration tests
-from chatregularizacion.infrastructure.repository.orm import start_mappers
+from infrastructure.repository.orm import start_mappers
 start_mappers()
 
 def test_search_knowledge_by_embedding(db_session):

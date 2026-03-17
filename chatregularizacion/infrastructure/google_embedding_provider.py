@@ -1,6 +1,6 @@
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
-from chatregularizacion.application.ports.embedding_provider_port import (
+from application.ports.embedding_provider_port import (
     EmbeddingProviderPort,
 )
 
@@ -12,7 +12,8 @@ class GoogleGenerativeAIEmbeddingProvider(EmbeddingProviderPort):
         self.embeddings = GoogleGenerativeAIEmbeddings(model=model_name)
 
     def embed_query(self, text: str) -> list[float]:
-        return self.embeddings.embed_query(text)
-
-    def embed_documents(self, texts: list[str]) -> list[list[float]]:
-        return self.embeddings.embed_documents(texts)
+        return self.embeddings.embed_query(
+            text,
+            task_type="QUESTION_ANSWERING",
+            output_dimensionality=768,
+        )

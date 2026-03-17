@@ -11,7 +11,7 @@ PROJECT_SRC = Path(__file__).resolve().parents[1]
 if str(PROJECT_SRC) not in sys.path:
     sys.path.insert(0, str(PROJECT_SRC))
 
-from chatregularizacion.infrastructure.repository.orm import Base, start_mappers  # noqa: E402
+from infrastructure.repository.orm import Base, start_mappers  # noqa: E402
 
 
 @pytest.fixture(scope="session")

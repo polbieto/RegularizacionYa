@@ -2,7 +2,7 @@ import chainlit as cl
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from chatregularizacion.infrastructure.repository.orm import start_mappers
+from infrastructure.repository.orm import start_mappers
 from infrastructure.agent.agent_factory import build_agent_orchestrator
 from config import (
     DATABASE_URI,

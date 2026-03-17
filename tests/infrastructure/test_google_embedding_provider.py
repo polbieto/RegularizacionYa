@@ -1,13 +1,13 @@
 from unittest.mock import MagicMock, patch
 
-from chatregularizacion.infrastructure.google_embedding_provider import (
+from infrastructure.google_embedding_provider import (
     EMBEDDINGS_MODEL_NAME,
     GoogleGenerativeAIEmbeddingProvider,
 )
 
 
 @patch(
-    "chatregularizacion.infrastructure.google_embedding_provider.GoogleGenerativeAIEmbeddings"
+    "infrastructure.google_embedding_provider.GoogleGenerativeAIEmbeddings"
 )
 def test_google_generative_ai_embedding_provider_initialization(mock_google_embeddings):
     # Act
@@ -19,7 +19,7 @@ def test_google_generative_ai_embedding_provider_initialization(mock_google_embe
 
 
 @patch(
-    "chatregularizacion.infrastructure.google_embedding_provider.GoogleGenerativeAIEmbeddings"
+    "infrastructure.google_embedding_provider.GoogleGenerativeAIEmbeddings"
 )
 def test_google_generative_ai_embedding_provider_embed_query(mock_google_embeddings):
     # Arrange
@@ -36,23 +36,3 @@ def test_google_generative_ai_embedding_provider_embed_query(mock_google_embeddi
     # Assert
     mock_instance.embed_query.assert_called_once_with(test_text)
     assert result == [0.1, 0.2, 0.3]
-
-
-@patch(
-    "chatregularizacion.infrastructure.google_embedding_provider.GoogleGenerativeAIEmbeddings"
-)
-def test_google_generative_ai_embedding_provider_embed_documents(mock_google_embeddings):
-    # Arrange
-    mock_instance = MagicMock()
-    mock_google_embeddings.return_value = mock_instance
-    mock_instance.embed_documents.return_value = [[0.1, 0.2], [0.3, 0.4]]
-
-    provider = GoogleGenerativeAIEmbeddingProvider()
-    test_texts = ["test doc 1", "test doc 2"]
-
-    # Act
-    result = provider.embed_documents(test_texts)
-
-    # Assert
-    mock_instance.embed_documents.assert_called_once_with(test_texts)
-    assert result == [[0.1, 0.2], [0.3, 0.4]]

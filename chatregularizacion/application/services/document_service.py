@@ -1,9 +1,9 @@
 import logging
 
-from chatregularizacion.application.ports.embedding_provider_port import (
+from application.ports.embedding_provider_port import (
     EmbeddingProviderPort,
 )
-from chatregularizacion.domain.ports.document_repository_port import (
+from domain.ports.document_repository_port import (
     DocumentRepositoryPort,
 )
 
@@ -20,7 +20,7 @@ class DocumentService:
         self._embedding_provider = embedding_provider
 
     def search_documents(self, query: str, limit: int = 5) -> str:
-        logger.info(f"Searching for documents semantic match. limit={limit}")
+        logger.info(f"Searching for documents semantic match. limit={limit}, query={query}")
         query_embedding = self._embedding_provider.embed_query(query)
 
         knowledge_results = self._repository.search_knowledge_by_embedding(
@@ -33,5 +33,5 @@ class DocumentService:
                 f"Content: {item.content}\nMetadata: {item.metadata_}"
             )
 
-        logger.debug(f"Retrieved {len(knowledge_results)} documents.")
+        logger.info(f"Retrieved {len(knowledge_results)} documents.")
         return "\n\n".join(formatted_results)

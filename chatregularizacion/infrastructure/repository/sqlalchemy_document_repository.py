@@ -2,8 +2,8 @@ from typing import Any, Sequence, cast
 
 from sqlalchemy import select
 
-from chatregularizacion.domain.document_knowledge_base import ProductBaseKnowledge
-from chatregularizacion.domain.ports.document_repository_port import (
+from domain.document_knowledge_base import ProductBaseKnowledge
+from domain.ports.document_repository_port import (
     DocumentRepositoryPort,
 )
 

@@ -1,12 +1,12 @@
 from sqlalchemy import MetaData
 from sqlalchemy.orm import declarative_base, registry, relationship
 
-from chatregularizacion.domain.document import Document
-from chatregularizacion.domain.document_knowledge_base import ProductBaseKnowledge
-from chatregularizacion.infrastructure.repository.tables.document_knowledge_base_table import (
+from domain.document import Document
+from domain.document_knowledge_base import ProductBaseKnowledge
+from infrastructure.repository.tables.document_knowledge_base_table import (
     table_builder as builder_document_kb,
 )
-from chatregularizacion.infrastructure.repository.tables.document_table import (
+from infrastructure.repository.tables.document_table import (
     table_builder as builder_document,
 )
 

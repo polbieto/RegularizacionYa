@@ -7,7 +7,7 @@ from sqlalchemy.dialects.postgresql import JSONB, UUID
 
 def table_builder(metadata: MetaData) -> Table:
     return Table(
-        "document_knowledge_base",
+        "document_base_knowledge",
         metadata,
         Column("id", UUID(as_uuid=True), primary_key=True, default=uuid.uuid4),
         Column(

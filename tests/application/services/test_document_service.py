@@ -1,7 +1,7 @@
 from unittest.mock import MagicMock
 
-from chatregularizacion.application.services.document_service import DocumentService
-from chatregularizacion.domain.document_knowledge_base import ProductBaseKnowledge
+from application.services.document_service import DocumentService
+from domain.document_knowledge_base import ProductBaseKnowledge
 
 
 def test_document_service_search_documents():

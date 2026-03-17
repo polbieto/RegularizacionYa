@@ -1,4 +1,4 @@
-from chatregularizacion.application.services.document_service import DocumentService
+from application.services.document_service import DocumentService
 from langchain_core.tools import BaseTool
 from langchain_core.tools import tool
 from pydantic import BaseModel, Field
