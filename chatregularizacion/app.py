@@ -10,6 +10,7 @@ from config import (
     ORM_OVERFLOW_SIZE,
     ORM_POOL_SIZE,
 )
+from utils.validators import check_email
 
 start_mappers()
 
@@ -35,10 +36,12 @@ async def start():
             ).send()
             if res:
                 email = res["output"].strip()
-                if email is not None:
-                    cl.user_session.set("user_email", email)
+                normalized_email = check_email(email)
+                
+                if normalized_email:
+                    cl.user_session.set("user_email", normalized_email)
                     await cl.Message(
-                        content=f"Cómo te puedo ayudar hoy, {email}?"
+                        content=f"Cómo te puedo ayudar hoy, {normalized_email}?"
                     ).send()
                     return
                 await cl.Message(content="Porfavor, escribe un email válido").send()
