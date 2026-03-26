@@ -25,9 +25,10 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
     def __init__(
         self,
         llm_with_tools: Any,
-        tool_runtime: ToolRuntimePort,
+        tool_runtime: ToolRuntimePort | None,
         history_mapper: Optional[ChatHistoryMapper] = None,
         system_prompt_builder: Callable[[str], str] | None = None,
+        retriever: Callable[[str], str] | None = None,
     ):
         self.llm_with_tools = llm_with_tools
         self.tool_runtime = tool_runtime
@@ -35,6 +36,7 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
         self.system_prompt_builder = (
             system_prompt_builder or build_default_system_prompt
         )
+        self.retriever = retriever
         self.graph = self._build_graph()
 
     def _build_graph(self):
@@ -60,15 +62,29 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
         return "end"
 
     async def _agent_node(self, state: AgentState) -> dict[str, list[BaseMessage]]:
+        retrieved_context = ""
+        if self.retriever:
+            last_user_message = self._last_user_message(state["messages"])
+            if last_user_message:
+                retrieved_context = self.retriever(last_user_message)
+
         request_messages = [
             SystemMessage(content=self.system_prompt_builder(state["client_id"])),
+            SystemMessage(
+                content=(
+                    "Fragmentos recuperados:\n"
+                    f"{retrieved_context or 'No se encontraron fragmentos relevantes.'}"
+                )
+            ),
             *state["messages"],
         ]
 
         try:
             response = await self.llm_with_tools.ainvoke(request_messages)
             return {"messages": [response]}
-        except Exception:
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
             return {
                 "messages": [
                     AIMessage(
@@ -80,6 +96,9 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
             }
 
     def _tool_node(self, state: AgentState) -> dict[str, list[BaseMessage]]:
+        if self.tool_runtime is None:
+            return {"messages": []}
+
         last_message = state["messages"][-1]
         if not isinstance(last_message, AIMessage) or not last_message.tool_calls:
             return {"messages": []}
@@ -103,6 +122,13 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
                 )
             )
         return {"messages": tool_messages}
+
+    @staticmethod
+    def _last_user_message(messages: list[BaseMessage]) -> str | None:
+        for message in reversed(messages):
+            if isinstance(message, HumanMessage):
+                return message.content
+        return None
 
     async def process_message(
         self,

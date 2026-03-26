@@ -34,5 +34,9 @@ def test_google_generative_ai_embedding_provider_embed_query(mock_google_embeddi
     result = provider.embed_query(test_text)
 
     # Assert
-    mock_instance.embed_query.assert_called_once_with(test_text)
+    mock_instance.embed_query.assert_called_once_with(
+        test_text,
+        task_type="QUESTION_ANSWERING",
+        output_dimensionality=768,
+    )
     assert result == [0.1, 0.2, 0.3]

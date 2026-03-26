@@ -22,6 +22,5 @@ ORM_POOL_SIZE = _env_int("ORM_POOL_SIZE", 30)
 ORM_OVERFLOW_SIZE = _env_int("ORM_OVERFLOW_SIZE", 50)
 ORM_CONNECTION_TIMEOUT = _env_int("ORM_CONNECTION_TIMEOUT", 60)
 
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3.1")
-OLLAMA_BASE_URL = os.environ.get("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_TEMPERATURE = _env_float("OLLAMA_TEMPERATURE", 0.2)
+LLM_MODEL = os.environ.get("LLM_MODEL", "gemini/gemini-2.5-flash-lite")
+LLM_TEMPERATURE = _env_float("LLM_TEMPERATURE", 0.2)
