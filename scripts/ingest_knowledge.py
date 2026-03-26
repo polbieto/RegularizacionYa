@@ -10,7 +10,7 @@ from uuid import UUID
 from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
 
 load_dotenv()
 
@@ -82,6 +82,40 @@ def _load_file(file_path: Path) -> list:
     raise ValueError(f"Unsupported file extension: {extension}")
 
 
+def _split_markdown(source_path: Path, pages: list) -> list:
+    """Two-pass markdown-aware chunking.
+
+    Pass 1: MarkdownHeaderTextSplitter splits the document semantically by header
+            hierarchy (#, ##, ###), preserving section context in metadata.
+    Pass 2: RecursiveCharacterTextSplitter further splits any oversized sections
+            while inheriting the header metadata from pass 1.
+    """
+    headers_to_split_on = [
+        ("#", "section"),
+        ("##", "subsection"),
+        ("###", "subsubsection"),
+    ]
+    md_splitter = MarkdownHeaderTextSplitter(
+        headers_to_split_on=headers_to_split_on,
+        strip_headers=False,
+    )
+    recursive_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1500,
+        chunk_overlap=150,
+    )
+
+    full_text = "\n\n".join(page.page_content for page in pages)
+    semantic_chunks = md_splitter.split_text(full_text)
+
+    final_chunks = recursive_splitter.split_documents(semantic_chunks)
+
+    # Ensure the source filename is always present in metadata.
+    for chunk in final_chunks:
+        chunk.metadata.setdefault("source", source_path.name)
+
+    return final_chunks
+
+
 def ingest_file(
     file_path: str,
     document_id: str,
@@ -105,11 +139,16 @@ def ingest_file(
     pages = _load_file(source_path)
     logger.info("Loaded %s page(s)/section(s)", len(pages))
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
-    chunks = splitter.split_documents(pages)
+    if extension == ".md":
+        logger.info("Using markdown-aware chunking for: %s", source_path)
+        chunks = _split_markdown(source_path, pages)
+    else:
+        splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+        chunks = splitter.split_documents(pages)
     if not chunks:
         logger.warning("No chunks generated from file: %s", source_path)
         return
+
 
     logger.info("Generated %s chunks", len(chunks))
     embeddings_client = GoogleGenerativeAIEmbeddings(
@@ -141,10 +180,14 @@ def ingest_file(
 
     value_rows: list[str] = []
     for chunk, embedding in zip(chunks, embeddings, strict=True):
-        metadata = {
+        metadata: dict = {
             "page": chunk.metadata.get("page"),
             "source": Path(chunk.metadata.get("source", file_path)).name,
         }
+        # Propagate markdown section headers when present.
+        for key in ("section", "subsection", "subsubsection"):
+            if chunk.metadata.get(key):
+                metadata[key] = chunk.metadata[key]
         content_sql = _sql_quote(chunk.page_content)
         embedding_sql = _sql_quote(_vector_to_pg(embedding))
         metadata_sql = _sql_quote(json.dumps(metadata, ensure_ascii=True))
