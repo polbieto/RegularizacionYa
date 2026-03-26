@@ -57,8 +57,6 @@ Hay abogados y abogadas privados que están cobrando por "explicar" el procedimi
 - Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: entidades del tercer sector, ONG, organizaciones como Regularización Ya, Sembrar, Bloque Anticolonial de Barcelona, Tic Tac Antirracista, y muchas más están articulando redes de asesoramiento gratuito.
 - Los abogados y abogadas que están vendiendo explicaciones de borradores están **vendiendo humo**. EL TEXTO DEFINITIVO AÚN NO SE HA PUBLICADO.
 
-> Redwan Baddouh lo expresó así: *"No necesitan abogado para poder presentar la solicitud. Se puede, la puede presentar uno mismo, aunque es verdad que es recomendable asesorarse."*
-
 ### No tomes decisiones irreversibles con borradores
 
 > [!CAUTION]
@@ -97,8 +95,7 @@ Uno de los trabajos más importantes del movimiento fue **DECONSTRUIR LA NARRATI
 
 - Que la regularización **NO** estuviera ligada a un contrato de trabajo.
 - Que no fuera de carácter mercantilista.
-- Que tuviera un espíritu de **JUSTICIA SOCIAL**, no de caridad.
-- *"No estamos pidiendo favores, estamos exigiendo justicia social."*
+- Que tuviera un espíritu de **JUSTICIA SOCIAL**, no de caridad. *"No estamos pidiendo favores, estamos exigiendo justicia social."*
 - Que se reconociera que el padrón es el primer obstáculo para las personas migrantes, y que no fuera el único medio de prueba.
 - Que fuera una regularización por razones humanitarias.
 - Cierre de los **CIE** (Centros de Internamiento de Extranjeros), que son *"cárceles para personas migrantes cuya única falta es una falta administrativa: no tener papeles."*
