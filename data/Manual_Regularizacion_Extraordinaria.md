@@ -1,9 +1,9 @@
 # MANUAL SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
 
 
-**Fuentes:** Transcripciones de charlas informativas y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero - marzo 2026).
+**Fuentes:** Transcripciones de charlas informativas y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero - marzo 2026). Incluye material informativo elaborado por Regularización Ya sobre cancelación de antecedentes penales y policiales.
 
-**Fecha de compilación:** 11 de marzo de 2026.
+**Fecha de compilación:** 26 de marzo de 2026 (actualizado).
 
 > [!CAUTION]
 > **AVISO IMPORTANTE:** Este manual recoge la información disponible hasta la fecha de compilación. El texto legal definitivo será el publicado en el **Boletín Oficial del Estado (BOE)**. Hasta esa publicación, algunos detalles pueden variar. **NO tomes decisiones irreversibles basándote en borradores.**
@@ -18,17 +18,18 @@
 3. [Requisitos generales](#3-requisitos-generales)
 4. [Fechas clave y plazos](#4-fechas-clave-y-plazos)
 5. [Documentación necesaria](#5-documentación-necesaria)
-6. [Las tres vías de acceso (situaciones)](#6-las-tres-vías-de-acceso-situaciones)
-7. [Solicitantes de protección internacional (asilo / tarjeta roja)](#7-solicitantes-de-protección-internacional-asilo--tarjeta-roja)
-8. [El "cluedo" probatorio: cómo demostrar la estancia sin padrón](#8-el-cluedo-probatorio-cómo-demostrar-la-estancia-sin-padrón)
-9. [Procedimiento administrativo: cómo presentar la solicitud](#9-procedimiento-administrativo-cómo-presentar-la-solicitud)
-10. [Admisión a trámite y derecho al trabajo](#10-admisión-a-trámite-y-derecho-al-trabajo)
-11. [Compatibilidad con otros trámites en curso](#11-compatibilidad-con-otros-trámites-en-curso)
-12. [Regularización de menores](#12-regularización-de-menores)
-13. [Casuísticas y ejemplos prácticos](#13-casuísticas-y-ejemplos-prácticos)
-14. [Nota sobre el lenguaje](#14-nota-sobre-el-lenguaje)
-15. [Recursos y acompañamiento](#15-recursos-y-acompañamiento)
-16. [Resumen rápido](#16-resumen-rápido)
+6. [Cancelación de antecedentes penales y policiales en España](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa)
+7. [Las tres vías de acceso (situaciones)](#7-las-tres-vías-de-acceso-situaciones)
+8. [Solicitantes de protección internacional (asilo / tarjeta roja)](#8-solicitantes-de-protección-internacional-asilo--tarjeta-roja)
+9. [El "cluedo" probatorio: cómo demostrar la estancia sin padrón](#9-el-cluedo-probatorio-cómo-demostrar-la-estancia-sin-padrón)
+10. [Procedimiento administrativo: cómo presentar la solicitud](#10-procedimiento-administrativo-cómo-presentar-la-solicitud)
+11. [Admisión a trámite y derecho al trabajo](#11-admisión-a-trámite-y-derecho-al-trabajo)
+12. [Compatibilidad con otros trámites en curso](#12-compatibilidad-con-otros-trámites-en-curso)
+13. [Regularización de menores](#13-regularización-de-menores)
+14. [Casuísticas y ejemplos prácticos](#14-casuísticas-y-ejemplos-prácticos)
+15. [Nota sobre el lenguaje](#15-nota-sobre-el-lenguaje)
+16. [Recursos y acompañamiento](#16-recursos-y-acompañamiento)
+17. [Resumen rápido](#17-resumen-rápido)
 
 ---
 
@@ -148,9 +149,9 @@ Se deben cumplir **TODOS** los siguientes:
    Permanencia continuada de al menos cinco meses en el país. Si entraste el 31 de diciembre de 2025, contando los cinco meses llegarías a finales de mayo de 2026, dentro del plazo de presentación.
 
 3. **NO TENER ANTECEDENTES PENALES**
-   Se requieren antecedentes penales limpios tanto del país de origen como de España (los de España los gestiona directamente la administración, no los tienes que pedir tú).
+   Se requieren antecedentes penales limpios tanto del país de origen como de España (los de España los gestiona directamente la administración, no los tienes que pedir tú). **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** (Ver [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa) para más detalles sobre cómo cancelarlos).
 
-Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 6](#6-las-tres-vías-de-acceso-situaciones)):
+Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 7](#7-las-tres-vías-de-acceso-situaciones)):
 
 - **A)** Tener oferta de empleo o haber trabajado.
 - **B)** Tener familia compuesta por hijos/hijas escolarizados o mayores en situación de discapacidad.
@@ -217,7 +218,10 @@ Si tu país de origen demora más de un mes en expedirlos, se ha negociado que b
 > Si eres de Venezuela pero residiste legalmente en Argentina y tienes DNI argentino, debes pedir antecedentes penales de **AMBOS** países (Venezuela y Argentina). Pero si solo transitaste por un país (por ejemplo, Francia) sin residir legalmente, **NO** necesitas pedirlos de ese país.
 
 **Antecedentes penales de España:**
-Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde).
+Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Consulta la [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa) para el procedimiento detallado de cancelación.
+
+**¿Cómo solicitar los antecedentes penales del país de origen?**
+Depende del país al que se vayan a solicitar. La recomendación es **dirigirse a las autoridades** del país correspondiente — normalmente el consulado o la embajada en España — para informarse del procedimiento específico de cada país. Algunos países permiten la solicitud telemática; otros requieren presencia física o un apoderado.
 
 ### 5.3. Acreditación de la estancia de 5 meses
 
@@ -241,7 +245,52 @@ No solo serán entidades grandes; también entidades pequeñas pueden registrars
 
 ---
 
-## 6. Las tres vías de acceso (situaciones)
+## 6. Cancelación de antecedentes penales y policiales en España
+
+> [!IMPORTANT]
+> Para acceder a la **REGULARIZACIÓN EXTRAORDINARIA** es necesario no tener antecedentes o, en el caso de haberlos tenido, acreditar su cancelación. **¡Solicita la cancelación ANTES de iniciar trámites de extranjería!**
+
+### 6.1. Antecedentes penales
+
+**¿Qué son?** No toda detención o denuncia genera antecedentes penales. Para que existan antecedentes, debe haber una **sentencia condenatoria firme** dictada por un juzgado o tribunal penal en España y aún no haber transcurrido el plazo legal para su cancelación.
+
+Se cancelan ante el **MINISTERIO DE JUSTICIA**, siempre que hayan transcurrido determinados plazos y no se haya vuelto a cometer delito.
+
+**Plazos para solicitar la cancelación** (desde que se ha cumplido completamente la pena):
+
+| Plazo | Tipo de pena |
+|-------|-------------|
+| **6 meses** | Penas leves |
+| **2 años** | Penas que no excedan de 12 meses y delitos imprudentes |
+| **3 años** | Penas menos graves inferiores a 3 años |
+| **5 años** | Penas menos graves iguales o superiores a 3 años |
+| **10 años** | Penas graves |
+
+### 6.2. Antecedentes policiales
+
+**¿Qué son?** Pueden originarse por detenciones, identificaciones o investigaciones policiales. En algunos casos pueden derivar del inicio de un procedimiento penal.
+
+> [!WARNING]
+> **Puedes tener antecedentes policiales sin estar en un proceso penal o sin tener una condena judicial penal.** Es decir, una detención o identificación policial puede generar un registro aunque no haya habido condena.
+
+Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
+
+**Procedimiento para cancelar antecedentes policiales:**
+
+1. **Solicita acceso** a los datos personales registrados en los ficheros policiales.
+2. Una vez recibida la información sobre tus antecedentes policiales, **solicita su cancelación**.
+3. La respuesta en ambos casos suele llegar por correo en **1 o 2 meses**.
+
+### 6.3. Recomendaciones importantes
+
+> [!TIP]
+> - **Solicita la cancelación de tus antecedentes ANTES de iniciar trámites de extranjería.** No esperes a que se abra el plazo.
+> - **Guarda siempre todos los justificantes y las resoluciones** de la cancelación.
+> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito** (ver [sección 16](#16-recursos-y-acompañamiento)).
+
+---
+
+## 7. Las tres vías de acceso (situaciones)
 
 Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas tres situaciones:
 
@@ -273,7 +322,7 @@ Para acreditar esta vía, se necesitará un informe emitido por una entidad regi
 
 ---
 
-## 7. Solicitantes de protección internacional (asilo / tarjeta roja)
+## 8. Solicitantes de protección internacional (asilo / tarjeta roja)
 
 > [!IMPORTANT]
 > Este es un punto **FUNDAMENTAL** que el movimiento puso "en el centro de la negociación".
@@ -308,7 +357,7 @@ Las oficinas que habían estado "mudas" ahora están agilizando muchas denegator
 
 ---
 
-## 8. El "cluedo" probatorio: cómo demostrar la estancia sin padrón
+## 9. El "cluedo" probatorio: cómo demostrar la estancia sin padrón
 
 Si **NO** tienes padrón municipal, debes hacer lo que Omayma (asesora legal del Círculo de Migraciones) llamó *"una especie de CLUEDO"*: recopilar **TODAS** las pruebas posibles de que has estado en España durante los 5 meses requeridos.
 
@@ -370,7 +419,7 @@ Si **NO** tienes padrón municipal, debes hacer lo que Omayma (asesora legal del
 
 ---
 
-## 9. Procedimiento administrativo: cómo presentar la solicitud
+## 10. Procedimiento administrativo: cómo presentar la solicitud
 
 Este es uno de los puntos más innovadores de esta regularización extraordinaria, diseñado para **ESQUIVAR EL COLAPSO DE EXTRANJERÍA**.
 
@@ -415,7 +464,7 @@ El mismo organismo que gestionó la regularización extraordinaria de la DANA en
 
 ---
 
-## 10. Admisión a trámite y derecho al trabajo
+## 11. Admisión a trámite y derecho al trabajo
 
 ### 10.1. Admisión a trámite en 15 días
 
@@ -448,7 +497,7 @@ Personas a cargo de familiares con discapacidad pueden no poder trabajar. La ide
 
 ---
 
-## 11. Compatibilidad con otros trámites en curso
+## 12. Compatibilidad con otros trámites en curso
 
 - **AUNQUE YA TENGAS OTRA SOLICITUD EN CURSO**, puedes acogerte a la regularización extraordinaria.
 - El otro trámite quedará **EN PAUSA** hasta que se resuelva el procedimiento de regularización extraordinaria.
@@ -463,10 +512,10 @@ Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te p
 
 ---
 
-## 12. Regularización de menores
+## 13. Regularización de menores
 
 - El proceso permite la **REGULARIZACIÓN SIMULTÁNEA** de hijos e hijas menores que se encuentren en España.
-- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 6.2](#62-vía-familiar-progenitores-con-menores-a-cargo)).
+- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 7.2](#72-vía-familiar-progenitores-con-menores-a-cargo)).
 
 ### Documentación para la regularización de menores
 
@@ -498,72 +547,96 @@ Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te p
 
 ---
 
-## 13. Casuísticas y ejemplos prácticos
+## 14. Casuísticas y ejemplos prácticos
 
-### 13.1. Venezolano/a con DNI de Argentina
+### 14.1. Venezolano/a con DNI de Argentina
 
 > **Pregunta:** *"Si soy de Venezuela pero tengo DNI de Argentina y resido aquí, ¿de dónde pido los antecedentes penales?"*
 >
 > **Respuesta:** De **AMBOS** países. De Venezuela (país de origen) y de Argentina (país de residencia legal previa).
 
-### 13.2. Ruta migratoria larga (tránsito por varios países)
+### 14.2. Ruta migratoria larga (tránsito por varios países)
 
 > **Pregunta:** *"He pasado por varios países en mi ruta migratoria, ¿necesito antecedentes de todos?"*
 >
 > **Respuesta:** **NO.** Solo de los países donde hayas **RESIDIDO LEGALMENTE**. Si solo transitaste (por ejemplo, por Francia), **NO** necesitas pedirlos. *"Una persona que ha hecho una ruta migratoria muy larga no se va a poner a pedir los antecedentes penales de todos los países."*
 
-### 13.3. Llegada en patera
+### 14.3. Llegada en patera
 
 > **Pregunta:** *"Si he venido en patera, ¿puedo acogerme?"*
 >
 > **Respuesta:** **SÍ.** Lo único importante es acreditar haber entrado en España antes del 1 de enero de 2026. La forma de entrada no importa.
 
-### 13.4. Solicitante de asilo con tarjeta roja
+### 14.4. Solicitante de asilo con tarjeta roja
 
-(Ver [sección 7](#7-solicitantes-de-protección-internacional-asilo--tarjeta-roja) para el desarrollo completo)
+(Ver [sección 8](#8-solicitantes-de-protección-internacional-asilo--tarjeta-roja) para el desarrollo completo)
 
 **Resumen:** SÍ puede acogerse. **NO** debe renunciar al asilo. **NUNCA.**
 
-### 13.5. Arraigo denegado
+### 14.5. Arraigo denegado
 
 > **Pregunta:** *"Me han denegado el arraigo sociolaboral y me piden que salga del país. Llevo casi 4 años. ¿Qué hago?"*
 >
 > **Respuesta:** Acogerte a la regularización extraordinaria cuando se abra el plazo. Los requisitos son más flexibles y probablemente los cumpla.
 
-### 13.6. Estancia por estudios
+### 14.6. Estancia por estudios
 
 > **Pregunta:** *"Soy estudiante con estancia por estudios, ¿puedo acogerme?"*
 >
 > **Respuesta:** **NO.** Las personas con estancia por estudios en trámite, en vigor o en curso **NO** pueden acogerse.
 
-### 13.7. Madre soltera con padre que chantajea
+### 14.7. Madre soltera con padre que chantajea
 
-(Ver [sección 12, Caso B](#caso-b--madre-soltera-pero-hijo-inscrito-también-con-el-apellido-del-padre))
+(Ver [sección 13, Caso B](#caso-b--madre-soltera-pero-hijo-inscrito-también-con-el-apellido-del-padre))
 
 Es una situación frecuente y denunciada. Padres que exigen dinero (hasta 1.000€) por firmar la autorización para que el menor se regularice. El movimiento lo denuncia como expresión del patriarcado.
 
-### 13.8. Persona con discapacidad o a cargo de persona con discapacidad
+### 14.8. Persona con discapacidad o a cargo de persona con discapacidad
 
 - Personas que no pueden trabajar porque cuidan a familiares con discapacidad:
   - Se espera que durante el año de vigencia de la autorización se vaya aprobando documentación (informes de Servicios Sociales, etc.) para la prórroga.
   - Existe el trámite de "enfermedad sobrevenida" que puede aplicarse.
-- Hijos/hijas mayores en situación de discapacidad a cargo de la persona solicitante son una de las tres vías de acceso ([sección 6.2](#62-vía-familiar-progenitores-con-menores-a-cargo)).
+- Hijos/hijas mayores en situación de discapacidad a cargo de la persona solicitante son una de las tres vías de acceso ([sección 7.2](#72-vía-familiar-progenitores-con-menores-a-cargo)).
 
-### 13.9. Persona en trámite activo (arraigo en curso)
+### 14.9. Persona en trámite activo (arraigo en curso)
 
-Si ya estás en un trámite de arraigo activo, tu situación es "un poco ambigua": no puedes trabajar, no puedes salir del país, te dicen que estás "en trámite." En principio, puedes acogerte a la regularización extraordinaria y tu trámite de arraigo queda en pausa (ver [sección 11](#11-compatibilidad-con-otros-trámites-en-curso)).
+Si ya estás en un trámite de arraigo activo, tu situación es "un poco ambigua": no puedes trabajar, no puedes salir del país, te dicen que estás "en trámite." En principio, puedes acogerte a la regularización extraordinaria y tu trámite de arraigo queda en pausa (ver [sección 12](#12-compatibilidad-con-otros-trámites-en-curso)).
+
+### 14.10. Persona con asilo denegado y recurso de reposición 
+
+> **Pregunta:** *"Tengo el asilo denegado, interpuse un recurso de reposición en agosto de 2025 y una solicitud de acto presunto de suspensión. ¿Puedo acogerme a la regularización?"*
+>
+> **Respuesta:** **SÍ.** No hay que renunciar a nada, porque la solicitud de protección internacional es **totalmente compatible** con la regularización extraordinaria. Puedes mantener tu recurso de reposición y al mismo tiempo solicitar la regularización.
+
+### 14.11. Estudiante que ha pedido cambio a visa de trabajo 
+
+> **Pregunta:** *"Vine a España con una estancia por estudios con derecho a trabajo de treinta horas y en septiembre solicité el cambio a visa de trabajo por cuenta ajena y aún no tengo respuesta. ¿Puedo acogerme?"*
+>
+> **Respuesta:** **Depende.** Si la resolución del cambio a visa de trabajo resulta **negativa**, entonces sí podrás acogerte a la regularización extraordinaria. Sin embargo, las personas que tengan una solicitud de estancia activa, que tengan la estancia concedida o que estén en situación de estancia por estudios vigente **NO** pueden acogerse.
+
+### 14.12. Persona con casi dos años en España y asilo denegado 
+
+> **Pregunta:** *"Llevo casi dos años en España y en noviembre de 2025 me denegaron la petición de asilo. ¿Puedo acogerme?"*
+>
+> **Respuesta:** **SÍ.** Las personas que sean solicitantes de protección internacional o que lo hayan sido **antes del 1 de enero de 2026** podrán acogerse a la regularización extraordinaria.
+
+### 14.13. Estudiante con tarjeta de residencia caducada 
+
+> **Pregunta:** *"Entré a España con un visado de estudiante. Cuando llegué me dieron una tarjeta de residencia válida por un año. ¿Podría acogerme a la regularización extraordinaria, ya que para solicitar un arraigo tengo que pasar dos años más en España?"*
+>
+> **Respuesta:** Las personas con una solicitud de arraigo en trámite pueden compatibilizar su trámite con la regularización extraordinaria: lo que se ha dispuesto es que el trámite de arraigo quede en pausa. En cuanto a la estancia por estudios: si la estancia ya ha expirado y no se ha renovado, la persona pasa a estar en situación irregular y podría acogerse. Si la estancia sigue vigente, **NO** puede acogerse.
 
 ---
 
-## 14. Nota sobre el lenguaje
+## 15. Nota sobre el lenguaje
 
 El movimiento Regularización Ya ha trabajado en deconstruir narrativas discriminatorias. Este manual respeta ese espíritu:
 
-| ❌ Prohibido | ✅ Correcto |
-|---|---|
-| "Trabajo en negro" | **"Economía en B"** o **"trabajo en blanco"** |
+| ❌ Prohibido | ✅ Correcto                                                  |
+|---|-------------------------------------------------------------|
+| "Trabajo en negro" | **"Economía en B"** o **"trabajo sin contrato"**            |
 | "Personas ilegales" | **"Personas en situación de irregularidad administrativa"** |
-| "Regularización masiva" | **"Regularización EXTRAORDINARIA"** |
+| "Regularización masiva" | **"Regularización EXTRAORDINARIA"**                         |
 
 > *"No hay nada más blanco que la economía en B. Así que dejemos de llamar trabajo en negro. Es trabajo en blanco. Así crece la blanquitud, con la explotación, con el extractivismo, con el saqueo y con la invisibilización de las personas."*
 
@@ -573,7 +646,7 @@ El movimiento Regularización Ya ha trabajado en deconstruir narrativas discrimi
 
 ---
 
-## 15. Recursos y acompañamiento
+## 16. Recursos y acompañamiento
 
 ### 15.1. Organizaciones y entidades de referencia
 
@@ -628,35 +701,36 @@ No solo entidades grandes: también entidades pequeñas pueden registrarse.
 
 ---
 
-## 16. Resumen rápido
+## 17. Resumen rápido
 
 ### ✅ Requisitos básicos (debes cumplir TODOS)
 
 1. Entrar en España **ANTES** o el 31/12/2025
 2. Llevar al menos **5 meses SEGUIDOS** viviendo en España
-3. **No** tener antecedentes penales
+3. **No** tener antecedentes penales (si los has tenido, deben estar cancelados; ver [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa))
 
 **+ Estar en al menos UNA de estas situaciones:**
 
-| Vía | Descripción |
-|-----|-------------|
-| **A** | Oferta de empleo / haber trabajado |
-| **B** | Tener hijos/as escolarizados o mayores con discapacidad |
+| Vía | Descripción                                                            |
+|-----|------------------------------------------------------------------------|
+| **A** | Oferta de empleo / haber trabajado (con contrato o sin el)             |
+| **B** | Tener hijos/as escolarizados o mayores con discapacidad                |
 | **C** | Situación de vulnerabilidad (incluida la irregularidad administrativa) |
 
 ### 📅 Plazos
 
-| Concepto | Fecha |
-|----------|-------|
-| Fecha de corte | 31 de diciembre de 2025 |
-| Presentación | Abril – 30 de junio de 2026 |
-| Admisión a trámite | 15 días desde la presentación |
-| Duración del permiso | 1 año (prorrogable) |
+| Concepto | Fecha                                            |
+|----------|--------------------------------------------------|
+| Fecha de corte | 31 de diciembre de 2025                          |
+| Presentación | Abril – 30 de junio de 2026 (**NO OFICIAL AÚN**) |
+| Admisión a trámite | 15 días desde la presentación                    |
+| Duración del permiso | 1 año (prorrogable)                              |
 
 ### 📄 Documentos mínimos
 
 - Pasaporte **COMPLETO** (o cédula de inscripción)
 - Antecedentes penales del país de origen (apostillados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**)
+- Cancelación de antecedentes penales/policiales en España si procede (ver [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa))
 - Padrón histórico **O** pruebas de estancia (el "cluedo")
 - Informe de vulnerabilidad (para la vía C)
 - Oferta de empleo (para la vía A)
@@ -666,16 +740,15 @@ No solo entidades grandes: también entidades pequeñas pueden registrarse.
 
 - Renunciar a tu solicitud de asilo
 - Pagar a abogados por explicaciones de borradores
-- Creer en cupos de 600.000 solicitudes
+- Dar crédito a bulos que circular por internet.
 - Tomar decisiones irreversibles antes del BOE
-- Decir "trabajo en negro" (es "economía en B")
-- Decir "personas ilegales" (es "irregularidad administrativa")
 
 ### ✅ Lo que SÍ debes hacer YA
 
 - Pedir cita para el padrón histórico
 - Recopilar pruebas de estancia (el "cluedo")
 - Solicitar antecedentes penales del país de origen
+- Si tienes antecedentes penales o policiales en España, solicitar su cancelación YA
 - Verificar que el traductor jurado esté reconocido en España
 - Informarte solo por canales oficiales
 - Contactar con entidades de confianza para asesoramiento
@@ -689,8 +762,10 @@ Este manual ha sido compilado a partir de las siguientes fuentes:
 - Charla Can Batlló, 5 marzo 2026 (Regularización Ya + Círculo de Migraciones + Aila Ilegal)
 - El Tablero, 6 marzo 2026 (Redwan Baddouh, Regularización Ya)
 - El Tablero, 27 febrero 2026 (Redwan Baddouh, Regularización Ya)
+- El Tablero, 13-14 marzo 2026 (Redwan Baddouh, Regularización Ya)
+- Material informativo: "Cómo cancelar antecedentes penales y policiales" (Regularización Ya)
 
-Toda la información se ha cruzado y verificado entre las cuatro fuentes. En caso de aparentes contradicciones, se han integrado las aclaraciones más recientes y se ha indicado cuando un punto está pendiente de confirmación en el BOE.
+Toda la información se ha cruzado y verificado entre las seis fuentes. En caso de aparentes contradicciones, se han integrado las aclaraciones más recientes y se ha indicado cuando un punto está pendiente de confirmación en el BOE.
 
 ---
 
