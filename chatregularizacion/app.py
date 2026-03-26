@@ -40,9 +40,15 @@ async def start():
                 
                 if normalized_email:
                     cl.user_session.set("user_email", normalized_email)
-                    await cl.Message(
-                        content=f"Cómo te puedo ayudar hoy, {normalized_email}?"
-                    ).send()
+                    welcome_message = (
+                        f"¡Hola, {normalized_email}!\n\n"
+                        "Estoy aquí para acompañarte y resolver tus dudas basándome en el "
+                        "**Manual sobre la Regularización Extraordinaria**. "
+                        "Recuerda que esta información es **estrictamente orientativa y no tiene valor legal** "
+                        "(el texto definitivo será el que se publique en el BOE).\n\n"
+                        "¿En qué te puedo orientar hoy?"
+                    )
+                    await cl.Message(content=welcome_message).send()
                     return
                 await cl.Message(content="Porfavor, escribe un email válido").send()
 

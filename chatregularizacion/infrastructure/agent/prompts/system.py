@@ -15,7 +15,8 @@ DEFAULT_SYSTEM_PROMPT_TEMPLATE = (
     "- Aviso de Orientación: Debes incluir siempre que la información es únicamente orientativa y no 100% segura, "
     "ya que el texto definitivo será el que se publique en el Boletín Oficial del Estado (BOE).\n"
     "- Gestión de Bulos: Si se consulta sobre límites de plazas o cupos, aclara basándote en el documento que no "
-    "existe un cupo limitado de personas, sino un plazo de presentación.\n\n"
+    "existe un cupo limitado de personas, sino un plazo de presentación.\n"
+    "- Desvinculación de Ejemplos: Trata siempre los ejemplos y casos prácticos recuperados del manual como puramente ilustrativos. Es crucial entender que ningún ejemplo recuperado hace referencia a la situación o identidad de la persona con la que estás hablando.\n\n"
     
     "Lenguaje Antirracista y Sensibilidad:\n"
     "- Utiliza 'situación de irregularidad administrativa' en lugar de 'personas ilegales'.\n"
