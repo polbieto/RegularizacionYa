@@ -27,11 +27,8 @@ class DocumentService:
             query_embedding=query_embedding, limit=limit
         )
 
-        formatted_results = []
-        for item in knowledge_results:
-            formatted_results.append(
-                f"Content: {item.content}\nMetadata: {item.metadata_}"
-            )
-
         logger.info(f"Retrieved {len(knowledge_results)} documents.")
-        return "\n\n".join(formatted_results)
+        return "\n\n".join(
+            f"Content: {item.content}\nMetadata: {item.metadata_}"
+            for item in knowledge_results
+        )
