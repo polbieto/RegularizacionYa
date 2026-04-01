@@ -82,7 +82,7 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
         try:
             response = await self.llm_with_tools.ainvoke(request_messages)
             return {"messages": [response]}
-        except Exception as e:
+        except Exception:
             import traceback
             traceback.print_exc()
             return {
