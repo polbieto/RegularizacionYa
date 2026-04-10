@@ -17,7 +17,6 @@ fuente: Movimiento Regularización Ya
 > [!CAUTION]
 > **AVISO IMPORTANTE:** Este manual recoge la información disponible hasta la fecha de compilación. El texto legal definitivo será el publicado en el **Boletín Oficial del Estado (BOE)**. Hasta esa publicación, algunos detalles pueden variar. **NO tomes decisiones irreversibles basándote en borradores.**
 
----
 
 ---
 
@@ -57,55 +56,9 @@ A fecha 30 de marzo de 2026, el texto se encontraba en el Consejo de Estado a la
 
 ---
 
-## 1. Contexto sociopolítico y lucha del movimiento
+## 1. ¿Quién puede acogerse a la regularización extraordinaria?
 
-La Regularización Extraordinaria **NO** nace "de un huevo Kinder" ni de la voluntad de los partidos políticos. Nace de más de **cinco años de lucha continuada, autoorganizada, anticolonial y antirracista** del movimiento Regularización Ya y de las comunidades migrantes.
-
-### Cronología de la lucha
-
-| Año | Hito |
-|-----|------|
-| **2020** | El movimiento Regularización Ya impulsa una **Proposición No de Ley** en el Congreso de los Diputados. Fue rechazada por los mismos partidos que hoy "se cuelgan la medalla" de haber sacado la regularización. En aquel momento, estos partidos argumentaron que el Pacto Europeo de Migración y Asilo no lo permitía. **ERA MENTIRA.** El movimiento lo sabía y siguió insistiendo. |
-| **2021** | Se presenta la **Iniciativa Legislativa Popular (ILP)** tras un esfuerzo masivo. Se colaron tres textos que no contravenían la Ley Orgánica de Extranjería, aprovechando un artículo con el que se había hecho la primera regularización en 2001. Las portavoces eran trabajadoras del hogar y los cuidados, manteros, jornaleros, temporeros, trabajadoras sexuales: los trabajos a los que la Ley de Extranjería condena a las personas migrantes. Se organizaron **MÁS DE 18 COMITÉS TERRITORIALES** en toda España. Se recogieron **MÁS DE 700.000 FIRMAS** en la calle, en fiestas, en charlas, en todos los eventos posibles. |
-| **2023** | Los partidos que habían dicho apoyar la ILP se olvidaron durante las elecciones; en ninguna plataforma electoral aparecía el apoyo a la ILP. Estos mismos partidos votaron calladamente el traspaso de competencias propuesto por Junts per Catalunya, que definía a las personas migrantes como "peligro para la sociedad" y se sumaba al discurso de la deportación. El movimiento presionó a Podemos para que bloqueara un acuerdo de traspaso de competencias que, en la práctica, significaba traspasar delegaciones para deportar y gestionar CIE (Centros de Internamiento de Extranjeros). |
-| **2026** | Se forzó un pacto entre PSOE y Podemos. Al PSOE le interesaba volver a sentarse con Junts para trazar presupuestos. Esta vez, las personas migrantes como "moneda de cambio" salieron a cuenta. El movimiento presionó hasta el último momento. Regularización Ya estuvo redactando hasta el último momento lo que se le traspasó al Consejo de Estado. |
-
-### Deconstrucción narrativa
-
-Uno de los trabajos más importantes del movimiento fue **DECONSTRUIR LA NARRATIVA** que hablaba de "personas legales" o "ilegales":
-
-- Se empezó a hablar de **IRREGULARIDAD ADMINISTRATIVA**, poniendo la responsabilidad en las ADMINISTRACIONES y en el ESTADO.
-- *"Es el Estado el que no quiere que las personas tengan una regularización, no son las personas ilegales."*
-- El grito **"REGULARIZACIÓN YA"** fue un grito de exigencia, de guerra contra un sistema cada vez más endurecido contra las personas migrantes.
-- *"Nuestra regularización es EXTRAORDINARIA, no masiva."*
-
-### Reivindicaciones centrales del movimiento
-
-- Que la regularización **NO** estuviera ligada a un contrato de trabajo.
-- Que no fuera de carácter mercantilista.
-- Que tuviera un espíritu de **JUSTICIA SOCIAL**, no de caridad. *"No estamos pidiendo favores, estamos exigiendo justicia social."*
-- Que se reconociera que el padrón es el primer obstáculo para las personas migrantes, y que no fuera el único medio de prueba.
-- Que fuera una regularización por razones humanitarias.
-- Cierre de los **CIE** (Centros de Internamiento de Extranjeros), que son *"cárceles para personas migrantes cuya única falta es una falta administrativa: no tener papeles."*
-- Acabar con las redadas racistas, con el racismo institucional.
-- Incorporar la lucha migrante en la agenda feminista.
-- Poner en la agenda la quita de custodia de hijos e hijas a madres migrantes como cuestión sistemática.
-
-### Denuncia a la DGAIA (DGPPIA)
-
-El movimiento denuncia explícitamente a la **DGAIA** (Dirección General de Atención a la Infancia y la Adolescencia de Cataluña, ahora DGPPIA):
-
-- La DGAIA deja a jóvenes con pasaportes de menores y decretos de Fiscalía **EN LA CALLE Y SIN PAPELES**.
-- Los jóvenes extutelados llenan los parques y son expulsados de espacios públicos por el "progresista Colboni".
-- Los CIE son *"el paso previo a una deportación y un castigo por desafiar el orden colonial de las fronteras."*
-- El tutelaje de menores migrantes es denunciado como *"el negocio más grande que tiene Cataluña."*
-- El interés superior del menor está por encima de ser migrante: *"La infancia no es un problema del departamento tal de la Generalitat. Es un problema de todas."*
-
----
-
-## 2. ¿Quién puede acogerse a la regularización extraordinaria?
-
-Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sección 3) y que se encuentren en **AL MENOS UNA** de las tres situaciones descritas en la sección 6.
+Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sección 2) y que se encuentren en **AL MENOS UNA** de las tres situaciones descritas en la sección 6.
 
 ### Personas que SÍ pueden acogerse ✅
 
@@ -119,11 +72,11 @@ Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sec
 ### Personas que NO pueden acogerse ❌
 
 - Personas con **estancia por estudios** en trámite, en vigor o en curso.
-- Personas que ya están en un trámite de arraigo activo (sociolaboral, socioformativo, social) en el momento de la solicitud — si bien la regularización extraordinaria permite pausar esos otros trámites y acogerse a esta vía. El trámite en pausa no se pierde y se resolverá favorablemente si se cumplen los requisitos (ver Sección 12).
+- Personas que ya están en un trámite de arraigo activo (sociolaboral, socioformativo, social) en el momento de la solicitud — si bien la regularización extraordinaria permite pausar esos otros trámites y acogerse a esta vía. El trámite en pausa no se pierde y se resolverá favorablemente si se cumplen los requisitos (ver Sección 9).
 
 ---
 
-## 3. Requisitos generales
+## 2. Requisitos generales
 
 Se deben cumplir **TODOS** los siguientes:
 
@@ -134,13 +87,13 @@ Se deben cumplir **TODOS** los siguientes:
    Permanencia continuada de al menos cinco meses en el país. Si entraste el 31 de diciembre de 2025, contando los cinco meses llegarías a finales de mayo de 2026, dentro del plazo de presentación.
 
 3. **NO TENER ANTECEDENTES PENALES**
-   Se requieren antecedentes penales limpios tanto del país de origen como de España (los de España los gestiona directamente la administración, no los tienes que pedir tú).   **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** Los antecedentes penales se cancelan ante el **Ministerio de Justicia**; los policiales, ante el cuerpo policial correspondiente (ver Sección 6 para el procedimiento completo).
+   Se requieren antecedentes penales limpios tanto del país de origen como de España (los de España los gestiona directamente la administración, no los tienes que pedir tú).   **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** Los antecedentes penales se cancelan ante el **Ministerio de Justicia**; los policiales, ante el cuerpo policial correspondiente (ver Sección 7 para el procedimiento completo).
    - Los antecedentes de terceros países solo se exigen si se ha **residido con autorización** en ese país en los últimos 5 años.
    - **Si llevas más de 5 años en España, no es necesario aportar antecedentes de terceros países.**
    - Los antecedentes de terceros países deben estar **traducidos** (si no son en español) y **legalizados o apostillados**.
 
 4. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI EN TRÁMITE**
-   Si ya tienes una autorización vigente o un trámite activo, no puedes acogerte (con excepciones para arraigos en trámite, ver [sección 12](#12-compatibilidad-con-otros-trámites-en-curso)).
+   Si ya tienes una autorización vigente o un trámite activo, no puedes acogerte (con excepciones para arraigos en trámite, ver [sección 6](#9-compatibilidad-con-otros-trámites-en-curso)).
 
 5. **NO REPRESENTAR AMENAZA AL ORDEN PÚBLICO**
    Se revisa caso por caso a través de antecedentes policiales.
@@ -154,11 +107,56 @@ Se deben cumplir **TODOS** los siguientes:
 
 9. **ABONAR LA TASA CORRESPONDIENTE**
 
-Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 7](#7-las-tres-vías-de-acceso-situaciones)):
+Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 2](#3-las-tres-vías-de-acceso-situaciones)):
 
 - **A)** Tener oferta de empleo o haber trabajado.
 - **B)** Tener familia compuesta por hijos/hijas menores, mayores en situación de discapacidad, o **ascendientes de primer grado** con quienes se conviva.
 - **C)** Encontrarse en situación de vulnerabilidad (teniendo en cuenta que la PROPIA situación administrativa irregular ya se considera vulnerable).
+
+---
+
+## 3. Las tres vías de acceso (situaciones)
+
+Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas tres situaciones:
+
+### 3.1. Vía laboral: oferta de empleo o haber trabajado
+
+Si tienes una oferta de empleo, puedes presentar tu solicitud acompañada de dicha oferta. También si puedes acreditar que has trabajado (en la economía formal o "en B").
+
+**Requisitos específicos (según borrador):**
+- Haber trabajado por cuenta ajena o propia, **o** acreditar intención de trabajar presentando:
+  - Una **oferta o contrato de trabajo** (duración superior a **90 días** en un año), o
+  - Una **declaración responsable** (para trabajo por cuenta propia).
+- Ejemplo: personas que tuvieron una autorización inicial de residencia, la perdieron, pero pueden acreditar que han trabajado.
+
+### 3.2. Vía familiar: unidad familiar
+
+Personas progenitoras que tienen menores a su cargo y están en situación irregular. También personas que convivan con **ascendientes de primer grado**.
+
+**Composición de la unidad familiar (según borrador):**
+- Hijos/as menores de edad.
+- Hijos/as mayores con discapacidad.
+- **Ascendientes de primer grado** con quienes se conviva.
+
+**Beneficios de esta vía:**
+- **EXENTAS** de demostrar medios económicos.
+- **EXENTAS** de presentar el costoso informe de habitabilidad.
+
+Se aplica también a:
+- Padre o madre de un menor que aún no había cumplido los 2 años necesarios para hacer un arraigo social: también están exentos de demostrar medios económicos e informe de habitabilidad.
+
+**Documentación especial para menores:**
+- Certificado de nacimiento de cada menor, apostillado (y traducido si procede). Misma validez que otros documentos: si el país da 90 días, 90 días.
+- Padrón de convivencia histórico.
+- Si ambos progenitores están irregulares y quieren regularizar al menor: documentación de **AMBOS** (CIE que tengan y pasaportes).
+
+### 3.3. Vía de vulnerabilidad (la más amplia)
+
+Encontrarse en situación de vulnerabilidad. **IMPORTANTE:** la propia situación administrativa irregular **YA SE CONSIDERA** vulnerable. Todas las personas en situación administrativa irregular se consideran en situación de vulnerabilidad.
+
+Para acreditar esta vía, se necesitará un informe emitido por:
+- **Servicios sociales municipales**, **o**
+- **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
 
 ---
 
@@ -223,7 +221,7 @@ Si tu país de origen demora más de un mes en expedirlos, se ha negociado que b
 > Si eres de Venezuela pero residiste legalmente en Argentina y tienes DNI argentino, debes pedir antecedentes penales de **AMBOS** países (Venezuela y Argentina). Pero si solo transitaste por un país (por ejemplo, Francia) sin residir legalmente, **NO** necesitas pedirlos de ese país.
 
 **Antecedentes penales de España:**
-Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Consulta la [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa) para el procedimiento detallado de cancelación.
+Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Consulta la [sección 3](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa) para el procedimiento detallado de cancelación.
 
 **¿Cómo solicitar los antecedentes penales del país de origen?**
 Depende del país al que se vayan a solicitar. La recomendación es **dirigirse a las autoridades** del país correspondiente — normalmente el consulado o la embajada en España — para informarse del procedimiento específico de cada país. Algunos países permiten la solicitud telemática; otros requieren presencia física o un apoderado.
@@ -238,15 +236,9 @@ Si no consigues cita para la Apostilla de La Haya antes de la fecha límite (30 
 
 ### 5.3. Acreditación de la estancia de 5 meses
 
-Se puede demostrar con:
-- Padrón histórico (ver sección 5.4)
-- Cualquier documentación que acredite la permanencia continuada (ver Sección 9 "El Cluedo Probatorio" para el listado completo: transporte, remesas, citas médicas, contratos de suministros, compras documentadas, etc.)
+La forma principal de acreditar la estancia es el **padrón histórico**. Si tienes padrón, solícitalo lo antes posible, ya que las citas son difíciles de conseguir. **¡Empieza a pedir cita ya!** Para familias se necesita el **padrón de convivencia histórico**, aún más difícil de obtener.
 
-### 5.4. Padrón histórico
-
-- Si tienes padrón, solicita el **PADRÓN HISTÓRICO** lo más cerca posible de la fecha de presentación de la solicitud.
-- Las citas para el padrón histórico son difíciles de conseguir: **¡EMPIEZA A PEDIR CITA YA!**
-- Para familias: se necesita el **PADRÓN DE CONVIVENCIA HISTÓRICO**, que es aún **MÁS** difícil de conseguir. ¡Empieza ya!
+Si **no tienes padrón**, puedes acreditar la estancia con cualquier combinación de documentos alternativos: tarjetas de transporte, remesas, citas médicas, contratos de suministros, compras con tarjeta, documentación de entidades sociales, etc. (ver Sección 6 — El Cluedo Probatorio — para el listado completo).
 
 ### 5.5. Informe de vulnerabilidad / integración social
 
@@ -265,141 +257,7 @@ No solo serán entidades grandes; también entidades pequeñas pueden registrars
 
 ---
 
-## 6. Cancelación de antecedentes penales y policiales en España
-
-> [!IMPORTANT]
-> Para acceder a la **REGULARIZACIÓN EXTRAORDINARIA** es necesario no tener antecedentes o, en el caso de haberlos tenido, acreditar su cancelación. **¡Solicita la cancelación ANTES de iniciar trámites de extranjería!**
-
-### 6.1. Antecedentes penales
-
-**¿Qué son?** No toda detención o denuncia genera antecedentes penales. Para que existan antecedentes, debe haber una **sentencia condenatoria firme** dictada por un juzgado o tribunal penal en España y aún no haber transcurrido el plazo legal para su cancelación.
-
-Se cancelan ante el **MINISTERIO DE JUSTICIA**, siempre que hayan transcurrido determinados plazos y no se haya vuelto a cometer delito.
-
-**Plazos para solicitar la cancelación** (desde que se ha cumplido completamente la pena):
-
-| Plazo | Tipo de pena |
-|-------|-------------|
-| **6 meses** | Penas leves |
-| **2 años** | Penas que no excedan de 12 meses y delitos imprudentes |
-| **3 años** | Penas menos graves inferiores a 3 años |
-| **5 años** | Penas menos graves iguales o superiores a 3 años |
-| **10 años** | Penas graves |
-
-### 6.2. Antecedentes policiales
-
-**¿Qué son?** Pueden originarse por detenciones, identificaciones o investigaciones policiales. En algunos casos pueden derivar del inicio de un procedimiento penal.
-
-> [!WARNING]
-> **Puedes tener antecedentes policiales sin estar en un proceso penal o sin tener una condena judicial penal.** Es decir, una detención o identificación policial puede generar un registro aunque no haya habido condena.
-
-Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
-
-**Procedimiento para cancelar antecedentes policiales:**
-
-1. **Solicita acceso** a los datos personales registrados en los ficheros policiales.
-2. Una vez recibida la información sobre tus antecedentes policiales, **solicita su cancelación**.
-3. La respuesta en ambos casos suele llegar por correo en **1 o 2 meses**.
-
-### 6.3. Recomendaciones importantes
-
-> [!TIP]
-> - **Solicita la cancelación de tus antecedentes ANTES de iniciar trámites de extranjería.** No esperes a que se abra el plazo.
-> - **Guarda siempre todos los justificantes y las resoluciones** de la cancelación.
-> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito** (ver [sección 16](#16-recursos-y-acompañamiento)).
-
----
-
-## 7. Las tres vías de acceso (situaciones)
-
-Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas tres situaciones:
-
-### 7.1. Vía laboral: oferta de empleo o haber trabajado
-
-Si tienes una oferta de empleo, puedes presentar tu solicitud acompañada de dicha oferta. También si puedes acreditar que has trabajado (en la economía formal o "en B").
-
-**Requisitos específicos (según borrador):**
-- Haber trabajado por cuenta ajena o propia, **o** acreditar intención de trabajar presentando:
-  - Una **oferta o contrato de trabajo** (duración superior a **90 días** en un año), o
-  - Una **declaración responsable** (para trabajo por cuenta propia).
-- Ejemplo: personas que tuvieron una autorización inicial de residencia, la perdieron, pero pueden acreditar que han trabajado.
-
-### 7.2. Vía familiar: unidad familiar
-
-Personas progenitoras que tienen menores a su cargo y están en situación irregular. También personas que convivan con **ascendientes de primer grado**.
-
-**Composición de la unidad familiar (según borrador):**
-- Hijos/as menores de edad.
-- Hijos/as mayores con discapacidad.
-- **Ascendientes de primer grado** con quienes se conviva.
-
-**Beneficios de esta vía:**
-- **EXENTAS** de demostrar medios económicos.
-- **EXENTAS** de presentar el costoso informe de habitabilidad.
-
-Se aplica también a:
-- Padre o madre de un menor que aún no había cumplido los 2 años necesarios para hacer un arraigo social: también están exentos de demostrar medios económicos e informe de habitabilidad.
-
-**Documentación especial para menores:**
-- Certificado de nacimiento de cada menor, apostillado (y traducido si procede). Misma validez que otros documentos: si el país da 90 días, 90 días.
-- Padrón de convivencia histórico.
-- Si ambos progenitores están irregulares y quieren regularizar al menor: documentación de **AMBOS** (CIE que tengan y pasaportes).
-
-### 7.3. Vía de vulnerabilidad (la más amplia)
-
-Encontrarse en situación de vulnerabilidad. **IMPORTANTE:** la propia situación administrativa irregular **YA SE CONSIDERA** vulnerable. Todas las personas en situación administrativa irregular se consideran en situación de vulnerabilidad.
-
-Para acreditar esta vía, se necesitará un informe emitido por:
-- **Servicios sociales municipales**, **o**
-- **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
-
----
-
-## 8. Solicitantes de protección internacional / apatridia (asilo / tarjeta roja)
-
-Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularización extraordinaria **sin renunciar** a su solicitud en trámite. Ambos procedimientos son compatibles: la solicitud de asilo queda en pausa durante la tramitación y se reactiva si la regularización es denegada.
-
-> [!IMPORTANT]
-> Este es un punto **FUNDAMENTAL** que el movimiento puso "en el centro de la negociación".
-
-- Los solicitantes de protección internacional o **apatridia** **SÍ PUEDEN** acogerse a la regularización extraordinaria.
-- **NO TIENES QUE RENUNCIAR A TU SOLICITUD DE ASILO. NUNCA. JAMÁS.**
-- **No hay que renunciar** a las solicitudes que ya se tengan en trámite; ambas solicitudes son **compatibles**.
-
-> Redwan Baddouh: *"Renunciar NUNCA. No hay que renunciar a la protección internacional."*
-
-- Tu solicitud de asilo o apatridia debe haber sido presentada o manifestada la voluntad de presentarla **antes del 1 de enero de 2026** (y posiblemente también las presentadas después, pendiente del texto final).
-- Cuando se abra el plazo, podrás solicitar la autorización de residencia aunque seas solicitante de protección internacional.
-
-### ¿Qué ocurre con la solicitud de protección internacional?
-
-- La solicitud de protección internacional quedará **en pausa** hasta la resolución de la regularización extraordinaria.
-- **Si la regularización es favorable:** la solicitud de protección internacional decaería (salvo cambio en el texto final).
-- **Si la regularización es denegada:** la solicitud de protección internacional se reactivaría.
-
-### Caso práctico — Persona con tarjeta roja
-
-> *"Mi hermano vino hace tres años, pidió asilo, tiene tarjeta roja, lleva dos años trabajando con contrato indefinido, piso arrendado, carné de conducir, casi tres años empadronado. ¿Debe renunciar al asilo?"*
->
-> **RESPUESTA: NO.** No tiene que renunciar. Cuando se abra el plazo, podrá solicitar la regularización extraordinaria **SIN** renunciar a la protección internacional.
-
-### Caso práctico — Colombiana con hijo y tarjeta roja
-
-> *"Somos colombianos, tengo mi hijo de 10 años conmigo, estamos desde enero de 2024 con solicitud de asilo, tengo tarjeta roja aún. ¿Puedo acogerme?"*
->
-> **RESPUESTA: SÍ,** por supuesto. Los solicitantes de protección internacional se podrán acoger a la regularización extraordinaria.
-
-### Advertencia importante
-
-> [!WARNING]
-> Esta regularización extraordinaria **NO** garantiza que, una vez otorgada, se pueda seguir con la protección internacional. Esto es un riesgo: sería una pena que personas que pudieran acogerse a la protección internacional y a sus beneficios se queden con una regularización que al año siguiente se tenga que renovar solo probando que se ha trabajado. Hay que estar *"muy expectantes"* con este punto.
-
-**Contexto sobre denegaciones de asilo:**
-Las oficinas que habían estado "mudas" ahora están agilizando muchas denegatorias de solicitudes de asilo, aprovechando la existencia de esta vía extraordinaria. Las personas con denegatoria **SÍ** podrán acogerse a la regularización extraordinaria.
-
----
-
-## 9. El "cluedo" probatorio: cómo demostrar la estancia sin padrón
+## 6. El "cluedo" probatorio: cómo demostrar la estancia sin padrón
 
 Si **NO** tienes padrón municipal, la estrategia consiste en construir un expediente con el máximo de pruebas documentales posibles que, en conjunto, demuestren tu presencia continuada en España durante los 5 meses requeridos. Ningún documento por sí solo es suficiente: lo que cuenta es el conjunto de evidencias que cubra el período de estancia.
 
@@ -461,109 +319,95 @@ Si **NO** tienes padrón municipal, la estrategia consiste en construir un exped
 
 ---
 
-## 10. Procedimiento administrativo: cómo presentar la solicitud
-
-Este es uno de los puntos más innovadores de esta regularización extraordinaria, diseñado para **ESQUIVAR EL COLAPSO DE EXTRANJERÍA**.
-
-### 10.1. ¿Por dónde se presenta?
-
-La solicitud se podrá presentar por **MÚLTIPLES VÍAS**:
-
-**a) Plataforma MERCURIO (telemática):**
-- A través de entidades del tercer sector inscritas como registradoras / colaboradoras con Extranjería.
-- A través de abogados/as y profesionales de extranjería.
-- *Nota:* Para presentar por Mercurio normalmente se necesita certificado digital; con pasaporte no se puede obtener el certificado digital fácilmente. Por eso se han habilitado las otras vías.
-
-**b) Presencialmente en puntos habilitados:**
-- **Oficinas de la Seguridad Social.**
-- **Oficinas de Correos.**
-- **Ayuntamientos** (en algunos casos).
-- Registros presenciales habituales.
-- Las oficinas concretas se conocerán con la publicación en el BOE.
-
-**c) A través de un abogado/a.**
-
-**d) Entidades del tercer sector:**
-- Las entidades inscritas en el registro de colaboradoras podrán presentar la documentación por Mercurio en nombre de las personas solicitantes.
-- Deben ser **entidades sin fines de lucro** inscritas en el Registro de Colaboradores con Extranjería.
-- Ejemplos de entidades: Red Acoge, Redes, Coordinadora de Barrios, y muchas organizaciones que trabajan con migración.
-
-### 10.2. No pasará por oficinas de Extranjería
-
-**ESTO ES UN ALIVIO ENORME.** Este procedimiento va directamente al:
-- Ministerio de Migración
-- Secretaría de Estado de Migraciones de España
-
-> *"Va a tener poco tránsito por las oficinas de Extranjería."* Las oficinas de Extranjería estaban colapsadas, vendían citas en un mercado paralelo (los locutorios), y ponían trabas. Este procedimiento evita ese cuello de botella.
-
-El mismo organismo que gestionó la regularización extraordinaria de la DANA en Valencia será el que gestione este procedimiento, lo que da mayor confianza en los tiempos prometidos.
-
-### 10.3. Recomendación: presentar el expediente completo
+## 7. Cancelación de antecedentes penales y policiales en España
 
 > [!IMPORTANT]
-> La recomendación de las asesoras legales es **PRESENTAR TODO COMPLETO** desde el primer momento:
-> - No dejes documentos para después.
-> - Si te requieren algo después, no sabes cuánto tiempo te darán (10 días, 15 días) y si pides ampliación y no te la dan, lo pierdes.
+> Para acceder a la **REGULARIZACIÓN EXTRAORDINARIA** es necesario no tener antecedentes o, en el caso de haberlos tenido, acreditar su cancelación. **¡Solicita la cancelación ANTES de iniciar trámites de extranjería!**
 
-> *"La recomendación es que se presente todo completo, porque realmente después, si te requieren algo, no sabemos si te lo van a requerir por diez días, te van a dar quince, si después tú pides una ampliación, no te la dan y ya lo has perdido."*
+### 7.1. Antecedentes penales
 
----
+**¿Qué son?** No toda detención o denuncia genera antecedentes penales. Para que existan antecedentes, debe haber una **sentencia condenatoria firme** dictada por un juzgado o tribunal penal en España y aún no haber transcurrido el plazo legal para su cancelación.
 
-## 11. Admisión a trámite y derecho al trabajo
+Se cancelan ante el **MINISTERIO DE JUSTICIA**, siempre que hayan transcurrido determinados plazos y no se haya vuelto a cometer delito.
 
-### 11.1. Admisión a trámite en 15 días hábiles
+**Plazos para solicitar la cancelación** (desde que se ha cumplido completamente la pena):
 
-- Una vez presentada la solicitud, la **ADMISIÓN A TRÁMITE** se produce en un plazo de **15 DÍAS HÁBILES**.
-- Esto ha sido **GARANTIZADO** por el Ministerio.
-- La admisión a trámite tiene **CARÁCTER RETROACTIVO**.
+| Plazo | Tipo de pena |
+|-------|-------------|
+| **6 meses** | Penas leves |
+| **2 años** | Penas que no excedan de 12 meses y delitos imprudentes |
+| **3 años** | Penas menos graves inferiores a 3 años |
+| **5 años** | Penas menos graves iguales o superiores a 3 años |
+| **10 años** | Penas graves |
 
-### 11.2. ¿Qué recibes con la admisión a trámite?
+### 7.2. Antecedentes policiales
 
-Recibes un **DOCUMENTO** donde consta tu **NÚMERO DE IDENTIDAD DE EXTRANJERO (NIE)**. Con ese documento:
+**¿Qué son?** Pueden originarse por detenciones, identificaciones o investigaciones policiales. En algunos casos pueden derivar del inicio de un procedimiento penal.
 
-1. Puedes sacarte un **NÚMERO DE LA SEGURIDAD SOCIAL**.
-2. Con ese número, **YA TE PUEDEN DAR DE ALTA**.
-3. **YA PUEDES TRABAJAR LEGALMENTE.**
-4. **Puedes acceder a la SANIDAD.**
+> [!WARNING]
+> **Puedes tener antecedentes policiales sin estar en un proceso penal o sin tener una condena judicial penal.** Es decir, una detención o identificación policial puede generar un registro aunque no haya habido condena.
 
-> [!IMPORTANT]
-> **No esperar a la resolución favorable para buscar trabajo.** Desde la admisión a trámite ya se tiene autorización provisional de trabajo. Empezar a trabajar y cotizar cuanto antes es clave para la renovación.
+Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
 
-### 11.3. Obtener el número de Seguridad Social
+**Procedimiento para cancelar antecedentes policiales:**
 
-**Posibles dificultades:**
-En la práctica, para autentificarte telemáticamente necesitas la tarjeta vigente, lo que a veces genera "un laberinto" hasta que te dejan hacerlo con la cara del pasaporte. El movimiento está trabajando para facilitar estos mecanismos y preparar instrucciones claras (*"vale, tienes que decir tal, tal, tal, y a la tercera ya la tienes"*).
+1. **Solicita acceso** a los datos personales registrados en los ficheros policiales.
+2. Una vez recibida la información sobre tus antecedentes policiales, **solicita su cancelación**.
+3. La respuesta en ambos casos suele llegar por correo en **1 o 2 meses**.
 
-### 11.4. Duración de la autorización
-
-- La autorización de residencia tendrá una **DURACIÓN DE 1 AÑO**. El año empieza a contar desde la admisión a trámite, **no** desde la resolución favorable.
-- Podrá **PRORROGARSE** o **MODIFICARSE** a una autorización de **4 años**.
-- Para la prórroga/renovación, es fundamental haber trabajado y cotizado durante ese año. Se estiman al menos **3 meses mínimos de cotización** como requisito básico.
-- También se contempla la situación especial de cuidado de personas con discapacidad.
-
-### 11.5. Personas que no pueden trabajar
-
-Personas a cargo de familiares con discapacidad pueden no poder trabajar. La idea es que durante el año de vigencia de la autorización se vaya aprobando la documentación necesaria (informes de identidad, informes de Servicios Sociales, etc.) para que puedan prorrogar o renovar su permiso, posiblemente vía "enfermedad sobrevenida" del familiar a cargo.
-
-### 11.6. ¿Cómo se reciben las notificaciones?
-
-- Si se presenta **por cuenta propia** → se notifica por la vía indicada en la solicitud (correo postal, etc.).
-- Si se presenta **a través de abogado/a** → se le notifica al profesional.
-- Si se presenta **a través de entidad colaboradora** → se notifica a la entidad, que avisa al solicitante.
-
-### 11.7. Domicilio en la solicitud
 
 > [!TIP]
-> Es muy importante que el domicilio indicado en la solicitud sea **donde se vive realmente**, aunque no coincida con el del padrón, para que las notificaciones lleguen correctamente.
-
-### 11.8. Toma de huellas
-
-- Una vez obtenida resolución favorable, se solicita cita para la **toma de huellas** en el mes siguiente.
-- **No se exigirá estar empadronado** para la toma de huellas. Si no se tiene padrón, se puede aportar cualquier documento válido que acredite nombre y dirección.
+> - **Solicita la cancelación de tus antecedentes ANTES de iniciar trámites de extranjería.** No esperes a que se abra el plazo.
+> - **Guarda siempre todos los justificantes y las resoluciones** de la cancelación.
+> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito** (ver Sección 16).
 
 ---
 
-## 12. Compatibilidad con otros trámites en curso
+## 8. Solicitantes de protección internacional / apatridia (asilo / tarjeta roja)
+
+Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularización extraordinaria **sin renunciar** a su solicitud en trámite. Ambos procedimientos son compatibles: la solicitud de asilo queda en pausa durante la tramitación y se reactiva si la regularización es denegada.
+
+> [!IMPORTANT]
+> Este es un punto **FUNDAMENTAL** que el movimiento puso "en el centro de la negociación".
+
+- Los solicitantes de protección internacional o **apatridia** **SÍ PUEDEN** acogerse a la regularización extraordinaria.
+- **NO TIENES QUE RENUNCIAR A TU SOLICITUD DE ASILO. NUNCA. JAMÁS.**
+- **No hay que renunciar** a las solicitudes que ya se tengan en trámite; ambas solicitudes son **compatibles**.
+
+> Redwan Baddouh: *"Renunciar NUNCA. No hay que renunciar a la protección internacional."*
+
+- Tu solicitud de asilo o apatridia debe haber sido presentada o manifestada la voluntad de presentarla **antes del 1 de enero de 2026** (y posiblemente también las presentadas después, pendiente del texto final).
+- Cuando se abra el plazo, podrás solicitar la autorización de residencia aunque seas solicitante de protección internacional.
+
+### ¿Qué ocurre con la solicitud de protección internacional?
+
+- La solicitud de protección internacional quedará **en pausa** hasta la resolución de la regularización extraordinaria.
+- **Si la regularización es favorable:** la solicitud de protección internacional decaería (salvo cambio en el texto final).
+- **Si la regularización es denegada:** la solicitud de protección internacional se reactivaría.
+
+### Caso práctico — Persona con tarjeta roja
+
+> *"Mi hermano vino hace tres años, pidió asilo, tiene tarjeta roja, lleva dos años trabajando con contrato indefinido, piso arrendado, carné de conducir, casi tres años empadronado. ¿Debe renunciar al asilo?"*
+>
+> **RESPUESTA: NO.** No tiene que renunciar. Cuando se abra el plazo, podrá solicitar la regularización extraordinaria **SIN** renunciar a la protección internacional.
+
+### Caso práctico — Colombiana con hijo y tarjeta roja
+
+> *"Somos colombianos, tengo mi hijo de 10 años conmigo, estamos desde enero de 2024 con solicitud de asilo, tengo tarjeta roja aún. ¿Puedo acogerme?"*
+>
+> **RESPUESTA: SÍ,** por supuesto. Los solicitantes de protección internacional se podrán acoger a la regularización extraordinaria.
+
+### Advertencia importante
+
+> [!WARNING]
+> Esta regularización extraordinaria **NO** garantiza que, una vez otorgada, se pueda seguir con la protección internacional. Esto es un riesgo: sería una pena que personas que pudieran acogerse a la protección internacional y a sus beneficios se queden con una regularización que al año siguiente se tenga que renovar solo probando que se ha trabajado. Hay que estar *"muy expectantes"* con este punto.
+
+**Contexto sobre denegaciones de asilo:**
+Las oficinas que habían estado "mudas" ahora están agilizando muchas denegatorias de solicitudes de asilo, aprovechando la existencia de esta vía extraordinaria. Las personas con denegatoria **SÍ** podrán acogerse a la regularización extraordinaria.
+
+---
+
+## 9. Compatibilidad con otros trámites en curso
 
 Si tienes otro trámite de extranjería activo (arraigo, asilo, etc.), puedes acogerte igualmente a la regularización extraordinaria. El trámite activo queda **en pausa** — no se pierde — y se resolverá favorablemente si se cumplen los requisitos de la regularización extraordinaria.
 
@@ -579,29 +423,16 @@ Si tienes otro trámite de extranjería activo (arraigo, asilo, etc.), puedes ac
 **Caso del arraigo denegado:**
 Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te piden que salgas del país, puedes acogerte a esta regularización extraordinaria cuando se abra el plazo. Los requisitos son *"mucho más flexibles."*
 
-### 12.1. Multas por estancia irregular y procedimientos de expulsión
-
-> **Pregunta:** *"Me han aplicado una multa por estancia irregular. ¿Eso afectará a mi proceso de regularización extraordinaria?"*
->
-> **Respuesta: NO debería afectar.** El texto previsto indica que los procedimientos de expulsión o devolución iniciados por estancia irregular **quedarán archivados automáticamente** una vez que se conceda la autorización de residencia.
-
-### 12.2. Independencia del Congreso
-
-> [!NOTE]
-> Esta regularización se aprobará mediante un **Real Decreto (Reglamento)**, lo cual es potestad exclusiva del Gobierno. Al no ser un Real Decreto-Ley, **no necesita pasar por el Congreso** de los Diputados para su convalidación o votación. Lo que se vote en el Congreso no tiene ninguna implicación en este Real Decreto: hay una vía legislativa (donde quedó la ILP) y hay una vía del Real Decreto (lo que el Gobierno publicará en el BOE).
-
-> [!IMPORTANT]
-> **NO tomes decisiones irreversibles.**
-> Redwan Baddouh advirtió: *"Como ya venimos diciendo desde el principio, si por si acaso tienes algún proceso o alguna cosa y no sabes si tienes que renunciar o no a eso,"* **NO RENUNCIES.** Espera.
 
 ---
 
-## 13. Regularización de menores
+
+## 10. Regularización de menores
 
 La regularización extraordinaria permite regularizar simultáneamente a los hijos e hijas menores en situación irregular. Los menores obtienen una autorización de **5 años** (frente a 1 año para adultos). Los progenitores que acceden por vía familiar están **exentos** de acreditar medios económicos e informe de habitabilidad.
 
 - El proceso permite la **REGULARIZACIÓN SIMULTÁNEA** de hijos e hijas menores que se encuentren en España.
-- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 7.2](#72-vía-familiar-unidad-familiar)).
+- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 3.2](#32-vía-familiar-unidad-familiar)).
 - **NO** se exigen los 2 años de permanencia ni los requisitos de medios económicos y alojamiento del procedimiento ordinario.
 - Los menores obtienen una autorización de residencia de **5 AÑOS** (no 1 año como los adultos).
 - Si solo hay un progenitor presente y no tiene la patria potestad completa, se necesita **autorización del otro progenitor** para residir en España.
@@ -638,11 +469,90 @@ La regularización extraordinaria permite regularizar simultáneamente a los hij
 
 ---
 
-## 14. Casuísticas y ejemplos prácticos
+## 11. Procedimiento administrativo: cómo presentar la solicitud
+
+Este es uno de los puntos más innovadores de esta regularización extraordinaria, diseñado para **ESQUIVAR EL COLAPSO DE EXTRANJERÍA**.
+
+
+
+La solicitud se podrá presentar por **MÚLTIPLES VÍAS**:
+
+**a) Plataforma MERCURIO (telemática):**
+- A través de entidades del tercer sector inscritas como registradoras / colaboradoras con Extranjería.
+- A través de abogados/as y profesionales de extranjería.
+- *Nota:* Para presentar por Mercurio normalmente se necesita certificado digital; con pasaporte no se puede obtener el certificado digital fácilmente. Por eso se han habilitado las otras vías.
+
+**b) Presencialmente en puntos habilitados:**
+- **Oficinas de la Seguridad Social.**
+- **Oficinas de Correos.**
+- **Ayuntamientos** (en algunos casos).
+- Registros presenciales habituales.
+- Las oficinas concretas se conocerán con la publicación en el BOE.
+
+**c) A través de un abogado/a.**
+
+**d) Entidades del tercer sector:**
+- Las entidades inscritas en el registro de colaboradoras podrán presentar la documentación por Mercurio en nombre de las personas solicitantes.
+- Deben ser **entidades sin fines de lucro** inscritas en el Registro de Colaboradores con Extranjería.
+- Ejemplos de entidades: Red Acoge, Redes, Coordinadora de Barrios, y muchas organizaciones que trabajan con migración.
+
+Este procedimiento va directamente al Ministerio de Migración y la Secretaría de Estado de Migraciones, evitando el colapso de las oficinas de Extranjería. El mismo organismo que gestionó la regularización de la DANA en Valencia será el responsable, lo que da confianza en los plazos prometidos.
+
+> [!IMPORTANT]
+> La recomendación es **PRESENTAR TODO COMPLETO** desde el primer momento. Si te requieren algo después, no sabes cuánto tiempo te darán (10 días, 15 días), y si pides ampliación y no te la dan, lo pierdes.
+
+---
+
+## 12. Admisión a trámite y derecho al trabajo
+
+### 12.1. Admisión a trámite y derechos inmediatos
+
+Una vez presentada la solicitud, la **admisión a trámite** se produce en un plazo de **15 DÍAS HÁBILES**, garantizado por el Ministerio, y tiene carácter retroactivo.
+
+Tras la admisión recibes un documento con tu **NÚMERO DE IDENTIDAD DE EXTRANJERO (NIE)**, con el que puedes:
+
+1. Obtener un **NÚMERO DE LA SEGURIDAD SOCIAL**.
+2. **Ser dado/a de alta** por un empleador.
+3. **Trabajar legalmente** desde ese mismo momento.
+4. **Acceder a la sanidad.**
+
+> [!IMPORTANT]
+> No esperes a la resolución favorable para buscar trabajo. Desde la admisión a trámite ya tienes autorización provisional de trabajo. Empezar a trabajar y cotizar cuanto antes es clave para la renovación.
+
+### 12.2. Obtener el número de Seguridad Social
+
+**Posibles dificultades:**
+En la práctica, para autentificarte telemáticamente necesitas la tarjeta vigente, lo que a veces genera "un laberinto" hasta que te dejan hacerlo con la cara del pasaporte. El movimiento está trabajando para facilitar estos mecanismos y preparar instrucciones claras (*"vale, tienes que decir tal, tal, tal, y a la tercera ya la tienes"*).
+
+### 12.3. Duración de la autorización
+
+- La autorización de residencia tendrá una **DURACIÓN DE 1 AÑO**. El año empieza a contar desde la admisión a trámite, **no** desde la resolución favorable.
+- Podrá **PRORROGARSE** o **MODIFICARSE** a una autorización de **4 años**.
+- Para la prórroga/renovación, es fundamental haber trabajado y cotizado durante ese año. Se estiman al menos **3 meses mínimos de cotización** como requisito básico.
+- También se contempla la situación especial de cuidado de personas con discapacidad.
+
+
+### 12.4. Notificaciones y domicilio en la solicitud
+
+- Si se presenta **por cuenta propia** → se notifica por la vía indicada en la solicitud (correo postal, etc.).
+- Si se presenta **a través de abogado/a** → se le notifica al profesional.
+- Si se presenta **a través de entidad colaboradora** → se notifica a la entidad, que avisa al solicitante.
+
+> [!TIP]
+> Es muy importante que el domicilio indicado en la solicitud sea **donde se vive realmente**, aunque no coincida con el del padrón, para que las notificaciones lleguen correctamente.
+
+### 12.5. Toma de huellas
+
+- Una vez obtenida resolución favorable, se solicita cita para la **toma de huellas** en el mes siguiente.
+- **No se exigirá estar empadronado** para la toma de huellas. Si no se tiene padrón, se puede aportar cualquier documento válido que acredite nombre y dirección.
+
+---
+
+## 13. Casuísticas y ejemplos prácticos
 
 Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección es autónoma y puede consultarse de forma independiente.
 
-### 14.1. Venezolano/a con DNI de Argentina
+### 13.1. Venezolano/a con DNI de Argentina
 
 **Perfil:** Persona nacida en Venezuela que ha residido legalmente en Argentina (tiene DNI argentino) y ahora vive en España en situación irregular.
 
@@ -652,7 +562,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Debes aportar antecedentes penales de Venezuela (país de origen) y de Argentina (país de residencia legal previa). No es necesario pedir antecedentes de países por los que hayas transitado sin residencia legal.
 
-### 14.2. Ruta migratoria larga (tránsito por varios países)
+### 13.2. Ruta migratoria larga (tránsito por varios países)
 
 **Perfil:** Persona que ha pasado por múltiples países antes de llegar a España, sin haber residido legalmente en todos ellos.
 
@@ -662,7 +572,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Solo se requieren antecedentes penales de los países donde se haya residido legalmente (con permiso de residencia, DNI, etc.). Los países de tránsito sin residencia legal no cuentan. Una persona con ruta migratoria larga no tiene que pedir antecedentes de todos los países de paso.
 
-### 14.3. Llegada en patera
+### 13.3. Llegada en patera
 
 **Perfil:** Persona que entró en España de forma irregular por vía marítima (patera u similar) antes del 31 de diciembre de 2025.
 
@@ -670,9 +580,9 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ.**
 
-**Explicación:** La forma de entrada en España no importa. Lo único necesario es acreditar haber entrado antes del 1 de enero de 2026. Puede hacerse con cualquier documento que sitúe a la persona en territorio español en esa fecha (ver Sección 9 — El Cluedo Probatorio — para el listado de pruebas válidas).
+**Explicación:** La forma de entrada en España no importa. Lo único necesario es acreditar haber entrado antes del 1 de enero de 2026. Puede hacerse con cualquier documento que sitúe a la persona en territorio español en esa fecha (ver Sección 6 — El Cluedo Probatorio — para el listado de pruebas válidas).
 
-### 14.4. Solicitante de asilo con tarjeta roja
+### 13.4. Solicitante de asilo con tarjeta roja
 
 **Perfil:** Persona con solicitud de protección internacional activa y tarjeta roja en vigor, que lleva varios años en España trabajando y empadronada.
 
@@ -682,7 +592,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar a su solicitud de asilo. Ambos procedimientos son totalmente compatibles. La solicitud de asilo quedará en pausa mientras se tramita la regularización y se reactivará si esta es denegada. (Ver Sección 8 para el desarrollo completo de esta situación.)
 
-### 14.5. Arraigo denegado
+### 13.5. Arraigo denegado
 
 **Perfil:** Persona a quien se le ha denegado recientemente un arraigo sociolaboral, socioformativo o social, y se le requiere que abandone el país.
 
@@ -692,7 +602,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Una denegatoria de arraigo no impide acceder a la regularización extraordinaria. Los requisitos de esta vía son más flexibles que los del arraigo ordinario. La denegatoria previa no penaliza tu nueva solicitud.
 
-### 14.6. Estancia por estudios
+### 13.6. Estancia por estudios
 
 **Perfil:** Persona con autorización de estancia por estudios activa, en trámite o en vigor en el momento de la solicitud.
 
@@ -702,7 +612,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Las personas con estancia por estudios en trámite, en vigor o en curso están expresamente excluidas. Si la estancia caduca y no se renueva, la persona pasa a situación irregular y podría entonces acogerse.
 
-### 14.7. Madre soltera con padre que chantajea
+### 13.7. Madre soltera con padre que chantajea
 
 **Perfil:** Madre soltera cuyo hijo/a está inscrito/a también con el apellido del padre, y este se niega a otorgar la autorización salvo a cambio de dinero (casos documentados de hasta 1.000€).
 
@@ -710,9 +620,9 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** Es una situación frecuente y denunciada.
 
-**Explicación:** Si el/la hijo/a está inscrito/a con el apellido del padre, se necesita un poder de este autorizando la regularización. El chantaje económico es denunciable. Si el padre está ausente o desaparecido, se puede intentar un procedimiento de búsqueda. Ver Sección 13 (Caso B) para los pasos concretos según cada situación familiar.
+**Explicación:** Si el/la hijo/a está inscrito/a con el apellido del padre, se necesita un poder de este autorizando la regularización. El chantaje económico es denunciable. Si el padre está ausente o desaparecido, se puede intentar un procedimiento de búsqueda. Ver Sección 10 (Caso B) para los pasos concretos según cada situación familiar.
 
-### 14.8. Persona con discapacidad o a cargo de persona con discapacidad
+### 13.8. Persona con discapacidad o a cargo de persona con discapacidad
 
 **Perfil:** Persona que no puede trabajar porque cuida a un familiar con discapacidad, o persona con discapacidad propia.
 
@@ -722,7 +632,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Durante el año de vigencia de la autorización se tramita la documentación necesaria (informes de Servicios Sociales, etc.) para prorrogar el permiso. Existe el trámite de "enfermedad sobrevenida" aplicable a este caso. Además, los hijos/hijas mayores con discapacidad a cargo del/la solicitante son una de las vías de acceso (Vía B — unidad familiar), lo que exime de acreditar medios económicos e informe de habitabilidad.
 
-### 14.9. Persona en trámite activo de arraigo
+### 13.9. Persona en trámite activo de arraigo
 
 **Perfil:** Persona con arraigo en curso (sociolaboral, socioformativo o social), sin poder trabajar ni salir del país mientras espera resolución.
 
@@ -730,9 +640,9 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ**, en principio.
 
-**Explicación:** Puedes acogerte a la regularización extraordinaria aunque tengas un arraigo en curso. El trámite de arraigo quedará en pausa — no se pierde. Las solicitudes de arraigo en trámite se resolverán favorablemente si se cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación (ver Sección 12).
+**Explicación:** Puedes acogerte a la regularización extraordinaria aunque tengas un arraigo en curso. El trámite de arraigo quedará en pausa — no se pierde. Las solicitudes de arraigo en trámite se resolverán favorablemente si se cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación (ver Sección 9).
 
-### 14.10. Persona con asilo denegado y recurso de reposición
+### 13.10. Persona con asilo denegado y recurso de reposición
 
 **Perfil:** Persona cuya solicitud de asilo fue denegada y que ha interpuesto un recurso de reposición, posiblemente también con solicitud de acto presunto de suspensión.
 
@@ -742,7 +652,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** La solicitud de protección internacional y los recursos derivados son totalmente compatibles con la regularización extraordinaria. Puedes mantener el recurso de reposición y solicitar la regularización al mismo tiempo. No hay que renunciar a ningún procedimiento en curso.
 
-### 14.11. Estudiante que ha pedido cambio a visa de trabajo
+### 13.11. Estudiante que ha pedido cambio a visa de trabajo
 
 **Perfil:** Persona que tenía estancia por estudios con derecho a trabajo de 30 horas y solicitó en septiembre de 2025 el cambio a visa de trabajo por cuenta ajena, con resolución aún pendiente.
 
@@ -752,7 +662,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Si la resolución resulta **negativa**, sí podrás acogerte. Si la estancia por estudios sigue activa, está concedida o se produce el cambio de visa, **no** podrás acogerte. Las personas con cualquier tipo de estancia activa o concedida quedan excluidas.
 
-### 14.12. Persona con casi dos años en España y asilo denegado
+### 13.12. Persona con casi dos años en España y asilo denegado
 
 **Perfil:** Persona que lleva casi dos años en España y recibió la denegación de su solicitud de asilo en noviembre de 2025.
 
@@ -762,7 +672,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** Las personas que presentaron solicitud de protección internacional antes del 1 de enero de 2026, o que la han tenido, pueden acogerse a la regularización extraordinaria. La denegación no impide el acceso. Con casi dos años en España, es probable que también se cumpla el requisito de 5 meses de estancia continuada.
 
-### 14.13. Estudiante con tarjeta de residencia caducada
+### 13.13. Estudiante con tarjeta de residencia caducada
 
 **Perfil:** Persona que entró con visado de estudiante, recibió una tarjeta de residencia válida por un año que ya ha caducado y no ha sido renovada.
 
@@ -770,9 +680,9 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **DEPENDE** de si la estancia sigue o no vigente.
 
-**Explicación:** Si la tarjeta ha caducado y no se ha renovado, la persona está en situación irregular y puede acogerse. Si la estancia sigue vigente, no puede acogerse. Sobre el arraigo: las personas con arraigo en trámite pueden compatibilizar ese trámite con la regularización extraordinaria — el arraigo quedará en pausa sin perderse (ver Sección 12).
+**Explicación:** Si la tarjeta ha caducado y no se ha renovado, la persona está en situación irregular y puede acogerse. Si la estancia sigue vigente, no puede acogerse. Sobre el arraigo: las personas con arraigo en trámite pueden compatibilizar ese trámite con la regularización extraordinaria — el arraigo quedará en pausa sin perderse (ver Sección 9).
 
-### 14.14. Hijos menores de padres ya regularizados
+### 13.14. Hijos menores de padres ya regularizados
 
 **Perfil:** Progenitor/a con residencia regular en España que tiene un/a hijo/a menor de edad en situación irregular.
 
@@ -782,9 +692,29 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Explicación:** La regularización extraordinaria flexibiliza los requisitos para hijos/as de padres ya regularizados. A diferencia del reglamento ordinario (que exige 2 años de permanencia en España y condiciones económicas), con esta regularización no es necesario cumplir dichas condiciones.
 
+### 13.15. Multa por estancia irregular
+
+**Perfil:** Persona en proceso de regularización a quien se le ha aplicado una multa por estancia irregular.
+
+**Pregunta:** "Esta mañana me aplicaron una multa por estancia irregular. ¿Afectará eso a mi proceso de regularización extraordinaria?"
+
+**Respuesta:** **NO debería afectar.**
+
+**Explicación:** El texto previsto indica que los procedimientos de expulsión o devolución iniciados por estancia irregular quedarán **archivados automáticamente** una vez que se conceda la autorización de residencia. La multa no bloquea la solicitud ni la resolución.
+
+### 13.16. ¿Hay que esperar a que el Congreso vote?
+
+**Perfil:** Persona que ha visto noticias sobre intentos parlamentarios de enmendar o frenar la regularización.
+
+**Pregunta:** "He visto que en el Congreso se está intentando enmendar o frenar la regularización. ¿Debemos esperar a que se vote antes de conseguir los documentos?"
+
+**Respuesta:** **NO. No depende del Congreso.**
+
+**Explicación:** Esta regularización se aprueba mediante un **Real Decreto (Reglamento)**, que es potestad exclusiva del Gobierno. Al no ser un Real Decreto-Ley, no necesita pasar por el Congreso para su convalidación ni votación. Lo que se vote en el Congreso no tiene implicación directa en este Real Decreto. Puedes empezar a reunir documentación ahora sin esperar.
+
 ---
 
-## 15. Nota sobre el lenguaje
+## 14. Nota sobre el lenguaje
 
 El movimiento Regularización Ya ha trabajado en deconstruir narrativas discriminatorias. Este manual respeta ese espíritu:
 
@@ -799,6 +729,52 @@ El movimiento Regularización Ya ha trabajado en deconstruir narrativas discrimi
 > *"No son las personas ilegales. Es el Estado el que no quiere que las personas tengan una regularización."*
 
 > *"Nuestra regularización es extraordinaria, no masiva."*
+
+---
+
+## 15. Contexto sociopolítico y lucha del movimiento
+
+La Regularización Extraordinaria **NO** nace "de un huevo Kinder" ni de la voluntad de los partidos políticos. Nace de más de **cinco años de lucha continuada, autoorganizada, anticolonial y antirracista** del movimiento Regularización Ya y de las comunidades migrantes.
+
+### Cronología de la lucha
+
+| Año | Hito |
+|-----|------|
+| **2020** | El movimiento Regularización Ya impulsa una **Proposición No de Ley** en el Congreso de los Diputados. Fue rechazada por los mismos partidos que hoy "se cuelgan la medalla" de haber sacado la regularización. En aquel momento, estos partidos argumentaron que el Pacto Europeo de Migración y Asilo no lo permitía. **ERA MENTIRA.** El movimiento lo sabía y siguió insistiendo. |
+| **2021** | Se presenta la **Iniciativa Legislativa Popular (ILP)** tras un esfuerzo masivo. Se colaron tres textos que no contravenían la Ley Orgánica de Extranjería, aprovechando un artículo con el que se había hecho la primera regularización en 2001. Las portavoces eran trabajadoras del hogar y los cuidados, manteros, jornaleros, temporeros, trabajadoras sexuales: los trabajos a los que la Ley de Extranjería condena a las personas migrantes. Se organizaron **MÁS DE 18 COMITÉS TERRITORIALES** en toda España. Se recogieron **MÁS DE 700.000 FIRMAS** en la calle, en fiestas, en charlas, en todos los eventos posibles. |
+| **2023** | Los partidos que habían dicho apoyar la ILP se olvidaron durante las elecciones; en ninguna plataforma electoral aparecía el apoyo a la ILP. Estos mismos partidos votaron calladamente el traspaso de competencias propuesto por Junts per Catalunya, que definía a las personas migrantes como "peligro para la sociedad" y se sumaba al discurso de la deportación. El movimiento presionó a Podemos para que bloqueara un acuerdo de traspaso de competencias que, en la práctica, significaba traspasar delegaciones para deportar y gestionar CIE (Centros de Internamiento de Extranjeros). |
+| **2026** | Se forzó un pacto entre PSOE y Podemos. Al PSOE le interesaba volver a sentarse con Junts para trazar presupuestos. Esta vez, las personas migrantes como "moneda de cambio" salieron a cuenta. El movimiento presionó hasta el último momento. Regularización Ya estuvo redactando hasta el último momento lo que se le traspasó al Consejo de Estado. |
+
+### Deconstrucción narrativa
+
+Uno de los trabajos más importantes del movimiento fue **DECONSTRUIR LA NARRATIVA** que hablaba de "personas legales" o "ilegales":
+
+- Se empezó a hablar de **IRREGULARIDAD ADMINISTRATIVA**, poniendo la responsabilidad en las ADMINISTRACIONES y en el ESTADO.
+- *"Es el Estado el que no quiere que las personas tengan una regularización, no son las personas ilegales."*
+- El grito **"REGULARIZACIÓN YA"** fue un grito de exigencia, de guerra contra un sistema cada vez más endurecido contra las personas migrantes.
+- *"Nuestra regularización es EXTRAORDINARIA, no masiva."*
+
+### Reivindicaciones centrales del movimiento
+
+- Que la regularización **NO** estuviera ligada a un contrato de trabajo.
+- Que no fuera de carácter mercantilista.
+- Que tuviera un espíritu de **JUSTICIA SOCIAL**, no de caridad. *"No estamos pidiendo favores, estamos exigiendo justicia social."*
+- Que se reconociera que el padrón es el primer obstáculo para las personas migrantes, y que no fuera el único medio de prueba.
+- Que fuera una regularización por razones humanitarias.
+- Cierre de los **CIE** (Centros de Internamiento de Extranjeros), que son *"cárceles para personas migrantes cuya única falta es una falta administrativa: no tener papeles."*
+- Acabar con las redadas racistas, con el racismo institucional.
+- Incorporar la lucha migrante en la agenda feminista.
+- Poner en la agenda la quita de custodia de hijos e hijas a madres migrantes como cuestión sistemática.
+
+### Denuncia a la DGAIA (DGPPIA)
+
+El movimiento denuncia explícitamente a la **DGAIA** (Dirección General de Atención a la Infancia y la Adolescencia de Cataluña, ahora DGPPIA):
+
+- La DGAIA deja a jóvenes con pasaportes de menores y decretos de Fiscalía **EN LA CALLE Y SIN PAPELES**.
+- Los jóvenes extutelados llenan los parques y son expulsados de espacios públicos por el "progresista Colboni".
+- Los CIE son *"el paso previo a una deportación y un castigo por desafiar el orden colonial de las fronteras."*
+- El tutelaje de menores migrantes es denunciado como *"el negocio más grande que tiene Cataluña."*
+- El interés superior del menor está por encima de ser migrante: *"La infancia no es un problema del departamento tal de la Generalitat. Es un problema de todas."*
 
 ---
 
@@ -889,7 +865,7 @@ Regularización Ya tiene coordinaciones activas en:
 
 1. Entrar en España **ANTES** o el 31/12/2025
 2. Llevar al menos **5 meses SEGUIDOS** viviendo en España
-3. **No** tener antecedentes penales (si los has tenido, deben estar cancelados; ver [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa))
+3. **No** tener antecedentes penales (si los has tenido, deben estar cancelados; ver [sección 3](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
 
 **+ Estar en al menos UNA de estas situaciones:**
 
@@ -912,7 +888,7 @@ Regularización Ya tiene coordinaciones activas en:
 
 - Pasaporte **COMPLETO** (o cédula de inscripción o título de viaje)
 - Antecedentes penales del país de origen (apostillados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**)
-- Cancelación de antecedentes penales/policiales en España si procede (ver [sección 6](#6-cancelación-de-antecedentes-penales-y-policiales-en-españa))
+- Cancelación de antecedentes penales/policiales en España si procede (ver [sección 3](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
 - Padrón histórico **O** pruebas de estancia (el "cluedo")
 - Informe de vulnerabilidad (para la vía C)
 - Oferta de empleo (para la vía A)
