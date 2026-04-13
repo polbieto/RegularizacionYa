@@ -56,9 +56,22 @@ A fecha 30 de marzo de 2026, el texto se encontraba en el Consejo de Estado a la
 
 ---
 
-## 1. ¿Quién puede acogerse a la regularización extraordinaria?
+## 1. Fechas clave y plazos
 
-Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sección 2) y que se encuentren en **AL MENOS UNA** de las tres situaciones descritas en la sección 6.
+| Concepto | Fecha / Plazo |
+|----------|---------------|
+| **Fecha de corte** | 31 de diciembre de 2025 (debes haber entrado en España antes o en esta misma fecha) |
+| **Plazo de presentación** | Desde abril hasta el **30 de junio de 2026** (fecha exacta de apertura pendiente de publicación en el BOE) |
+| **Estancia mínima** | 5 meses continuados antes de la presentación |
+| **Publicación en el BOE** | Prevista tras la votación del Consejo de Ministros, estimada entre el **7 y el 14 de abril de 2026** |
+| **Admisión a trámite** | 15 días hábiles desde la presentación de la solicitud |
+| **Duración de la autorización** | 1 año, prorrogable o modificable |
+
+---
+
+## 2. ¿Quién puede acogerse a la regularización extraordinaria?
+
+Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sección 3) y que se encuentren en **AL MENOS UNA** de las tres situaciones descritas en la sección 4.
 
 ### Personas que SÍ pueden acogerse ✅
 
@@ -76,7 +89,7 @@ Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sec
 
 ---
 
-## 2. Requisitos generales
+## 3. Requisitos generales
 
 Se deben cumplir **TODOS** los siguientes:
 
@@ -93,7 +106,7 @@ Se deben cumplir **TODOS** los siguientes:
    - Los antecedentes de terceros países deben estar **traducidos** (si no son en español) y **legalizados o apostillados**.
 
 4. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI EN TRÁMITE**
-   Si ya tienes una autorización vigente o un trámite activo, no puedes acogerte (con excepciones para arraigos en trámite, ver [sección 6](#9-compatibilidad-con-otros-trámites-en-curso)).
+   Si ya tienes una autorización vigente o un trámite activo, no puedes acogerte (con excepciones para arraigos en trámite, ver [sección 9](#9-compatibilidad-con-otros-trámites-en-curso)).
 
 5. **NO REPRESENTAR AMENAZA AL ORDEN PÚBLICO**
    Se revisa caso por caso a través de antecedentes policiales.
@@ -107,7 +120,7 @@ Se deben cumplir **TODOS** los siguientes:
 
 9. **ABONAR LA TASA CORRESPONDIENTE**
 
-Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 2](#3-las-tres-vías-de-acceso-situaciones)):
+Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 4](#4-las-tres-vías-de-acceso-situaciones)):
 
 - **A)** Tener oferta de empleo o haber trabajado.
 - **B)** Tener familia compuesta por hijos/hijas menores, mayores en situación de discapacidad, o **ascendientes de primer grado** con quienes se conviva.
@@ -115,11 +128,11 @@ Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres sit
 
 ---
 
-## 3. Las tres vías de acceso (situaciones)
+## 4. Las tres vías de acceso (situaciones)
 
 Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas tres situaciones:
 
-### 3.1. Vía laboral: oferta de empleo o haber trabajado
+### 4.1. Vía laboral: oferta de empleo o haber trabajado
 
 Si tienes una oferta de empleo, puedes presentar tu solicitud acompañada de dicha oferta. También si puedes acreditar que has trabajado (en la economía formal o "en B").
 
@@ -129,7 +142,7 @@ Si tienes una oferta de empleo, puedes presentar tu solicitud acompañada de dic
   - Una **declaración responsable** (para trabajo por cuenta propia).
 - Ejemplo: personas que tuvieron una autorización inicial de residencia, la perdieron, pero pueden acreditar que han trabajado.
 
-### 3.2. Vía familiar: unidad familiar
+### 4.2. Vía familiar: unidad familiar
 
 Personas progenitoras que tienen menores a su cargo y están en situación irregular. También personas que convivan con **ascendientes de primer grado**.
 
@@ -150,26 +163,13 @@ Se aplica también a:
 - Padrón de convivencia histórico.
 - Si ambos progenitores están irregulares y quieren regularizar al menor: documentación de **AMBOS** (CIE que tengan y pasaportes).
 
-### 3.3. Vía de vulnerabilidad (la más amplia)
+### 4.3. Vía de vulnerabilidad (la más amplia)
 
 Encontrarse en situación de vulnerabilidad. **IMPORTANTE:** la propia situación administrativa irregular **YA SE CONSIDERA** vulnerable. Todas las personas en situación administrativa irregular se consideran en situación de vulnerabilidad.
 
 Para acreditar esta vía, se necesitará un informe emitido por:
 - **Servicios sociales municipales**, **o**
 - **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
-
----
-
-## 4. Fechas clave y plazos
-
-| Concepto | Fecha / Plazo |
-|----------|---------------|
-| **Fecha de corte** | 31 de diciembre de 2025 (debes haber entrado en España antes o en esta misma fecha) |
-| **Plazo de presentación** | Desde abril hasta el **30 de junio de 2026** (fecha exacta de apertura pendiente de publicación en el BOE) |
-| **Estancia mínima** | 5 meses continuados antes de la presentación |
-| **Publicación en el BOE** | Prevista tras la votación del Consejo de Ministros, estimada entre el **7 y el 14 de abril de 2026** |
-| **Admisión a trámite** | 15 días hábiles desde la presentación de la solicitud |
-| **Duración de la autorización** | 1 año, prorrogable o modificable |
 
 ---
 
@@ -221,7 +221,7 @@ Si tu país de origen demora más de un mes en expedirlos, se ha negociado que b
 > Si eres de Venezuela pero residiste legalmente en Argentina y tienes DNI argentino, debes pedir antecedentes penales de **AMBOS** países (Venezuela y Argentina). Pero si solo transitaste por un país (por ejemplo, Francia) sin residir legalmente, **NO** necesitas pedirlos de ese país.
 
 **Antecedentes penales de España:**
-Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Consulta la [sección 3](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa) para el procedimiento detallado de cancelación.
+Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Consulta la [sección 7](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa) para el procedimiento detallado de cancelación.
 
 **¿Cómo solicitar los antecedentes penales del país de origen?**
 Depende del país al que se vayan a solicitar. La recomendación es **dirigirse a las autoridades** del país correspondiente — normalmente el consulado o la embajada en España — para informarse del procedimiento específico de cada país. Algunos países permiten la solicitud telemática; otros requieren presencia física o un apoderado.
@@ -432,7 +432,7 @@ Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te p
 La regularización extraordinaria permite regularizar simultáneamente a los hijos e hijas menores en situación irregular. Los menores obtienen una autorización de **5 años** (frente a 1 año para adultos). Los progenitores que acceden por vía familiar están **exentos** de acreditar medios económicos e informe de habitabilidad.
 
 - El proceso permite la **REGULARIZACIÓN SIMULTÁNEA** de hijos e hijas menores que se encuentren en España.
-- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 3.2](#32-vía-familiar-unidad-familiar)).
+- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 4.2](#42-vía-familiar-unidad-familiar)).
 - **NO** se exigen los 2 años de permanencia ni los requisitos de medios económicos y alojamiento del procedimiento ordinario.
 - Los menores obtienen una autorización de residencia de **5 AÑOS** (no 1 año como los adultos).
 - Si solo hay un progenitor presente y no tiene la patria potestad completa, se necesita **autorización del otro progenitor** para residir en España.
@@ -865,7 +865,7 @@ Regularización Ya tiene coordinaciones activas en:
 
 1. Entrar en España **ANTES** o el 31/12/2025
 2. Llevar al menos **5 meses SEGUIDOS** viviendo en España
-3. **No** tener antecedentes penales (si los has tenido, deben estar cancelados; ver [sección 3](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
+3. **No** tener antecedentes penales (si los has tenido, deben estar cancelados; ver [sección 7](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
 
 **+ Estar en al menos UNA de estas situaciones:**
 
@@ -888,7 +888,7 @@ Regularización Ya tiene coordinaciones activas en:
 
 - Pasaporte **COMPLETO** (o cédula de inscripción o título de viaje)
 - Antecedentes penales del país de origen (apostillados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**)
-- Cancelación de antecedentes penales/policiales en España si procede (ver [sección 3](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
+- Cancelación de antecedentes penales/policiales en España si procede (ver [sección 7](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
 - Padrón histórico **O** pruebas de estancia (el "cluedo")
 - Informe de vulnerabilidad (para la vía C)
 - Oferta de empleo (para la vía A)
