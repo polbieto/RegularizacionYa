@@ -16,7 +16,7 @@ def _env_float(name: str, default: float) -> float:
 
 
 DATABASE_URI = os.environ.get(
-    "DATABASE_URL", "postgresql://user:password@db:5432/regularizaion_ya"
+    "APP_DATABASE_URL", "postgresql://user:password@db:5432/regularizaion_ya"
 )
 ORM_POOL_SIZE = _env_int("ORM_POOL_SIZE", 30)
 ORM_OVERFLOW_SIZE = _env_int("ORM_OVERFLOW_SIZE", 50)
