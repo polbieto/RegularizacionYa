@@ -5,5 +5,8 @@ from domain.document_knowledge_base import ProductBaseKnowledge
 
 class DocumentRepositoryPort(Protocol):
     def search_knowledge_by_embedding(
-        self, query_embedding: list[float], limit: int
+        self,
+        query_embedding: list[float],
+        limit: int,
+        max_distance: float = 0.35,
     ) -> Sequence[ProductBaseKnowledge]: ...

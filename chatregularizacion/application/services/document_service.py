@@ -3,6 +3,7 @@ import logging
 from application.ports.embedding_provider_port import (
     EmbeddingProviderPort,
 )
+from domain.document_knowledge_base import ProductBaseKnowledge
 from domain.ports.document_repository_port import (
     DocumentRepositoryPort,
 )
@@ -20,18 +21,28 @@ class DocumentService:
         self._embedding_provider = embedding_provider
 
     def search_documents(self, query: str, limit: int = 5) -> str:
-        logger.info(f"Searching for documents semantic match. limit={limit}, query={query}")
+        logger.info("Searching for documents. limit=%s, query=%s", limit, query)
         query_embedding = self._embedding_provider.embed_query(query)
 
         knowledge_results = self._repository.search_knowledge_by_embedding(
             query_embedding=query_embedding, limit=limit
         )
 
-        formatted_results = []
-        for item in knowledge_results:
-            formatted_results.append(
-                f"Content: {item.content}\nMetadata: {item.metadata_}"
-            )
+        formatted_results = [
+            self._format_result(item) for item in knowledge_results
+        ]
 
-        logger.info(f"Retrieved {len(knowledge_results)} documents.")
-        return "\n\n".join(formatted_results)
+        logger.info("Retrieved %s documents.", len(knowledge_results))
+        return "\n\n---\n\n".join(formatted_results) if formatted_results else ""
+
+    @staticmethod
+    def _format_result(item: ProductBaseKnowledge) -> str:
+        meta = item.metadata_ or {}
+        breadcrumb_parts = []
+        for key in ("section", "subsection", "subsubsection", "subsubsubsection"):
+            value = meta.get(key)
+            if value:
+                breadcrumb_parts.append(value)
+        breadcrumb = " > ".join(breadcrumb_parts)
+        header = f"[Fuente: {breadcrumb}]\n" if breadcrumb else ""
+        return f"{header}{item.content}"

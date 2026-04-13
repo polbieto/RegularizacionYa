@@ -16,11 +16,11 @@ def test_document_service_search_documents():
     # Mock the repository response
     mock_knowledge_1 = MagicMock(spec=ProductBaseKnowledge)
     mock_knowledge_1.content = "Content 1"
-    mock_knowledge_1.metadata_ = {"key": "value1"}
+    mock_knowledge_1.metadata_ = {"section": "Section 1", "subsection": "Sub 1"}
 
     mock_knowledge_2 = MagicMock(spec=ProductBaseKnowledge)
     mock_knowledge_2.content = "Content 2"
-    mock_knowledge_2.metadata_ = {"key": "value2"}
+    mock_knowledge_2.metadata_ = {"section": "Section 2"}
 
     mock_repository.search_knowledge_by_embedding.return_value = [
         mock_knowledge_1,
@@ -45,8 +45,8 @@ def test_document_service_search_documents():
     )
 
     expected_string = (
-        "Content: Content 1\nMetadata: {'key': 'value1'}\n\n"
-        "Content: Content 2\nMetadata: {'key': 'value2'}"
+        "[Fuente: Section 1 > Sub 1]\nContent 1\n\n---\n\n"
+        "[Fuente: Section 2]\nContent 2"
     )
 
     assert result == expected_string

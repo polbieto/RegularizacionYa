@@ -13,13 +13,18 @@ class SqlAlchemyDocumentRepositoryAdapter(DocumentRepositoryPort):
         self.session_factory = session_factory
 
     def search_knowledge_by_embedding(
-        self, query_embedding: list[float], limit: int
+        self,
+        query_embedding: list[float],
+        limit: int,
+        max_distance: float = 0.35,
     ) -> Sequence[ProductBaseKnowledge]:
         with self.session_factory() as session:
             embedding = cast(Any, ProductBaseKnowledge.embedding)
+            distance = embedding.cosine_distance(query_embedding)
 
             return session.scalars(
                 select(ProductBaseKnowledge)
-                .order_by(embedding.l2_distance(query_embedding))
+                .where(distance < max_distance)
+                .order_by(distance)
                 .limit(limit)
             ).all()

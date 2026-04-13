@@ -15,6 +15,24 @@ from langchain_core.messages import (
 from langgraph.graph import END, START, StateGraph
 from langgraph.graph.message import add_messages
 
+import logging
+
+logger = logging.getLogger(__name__)
+
+_REWRITE_PROMPT = (
+    "Eres un reformulador de consultas de búsqueda. "
+    "Dado el contexto de una conversación sobre la Regularización Extraordinaria "
+    "de personas migrantes en España, reformula la última pregunta del usuario "
+    "como una consulta de búsqueda precisa y autónoma.\n\n"
+    "Reglas:\n"
+    "- Usa terminología técnica del ámbito de extranjería: arraigo, protección "
+    "internacional, vía familiar, vía laboral, vía de vulnerabilidad, antecedentes "
+    "penales, antecedentes policiales, padrón, NIE, asilo, tarjeta roja, unidad "
+    "familiar, cédula de inscripción, apostilla, Mercurio, BOE, etc.\n"
+    "- La consulta debe ser comprensible sin la conversación previa.\n"
+    "- Devuelve SOLO la consulta reformulada, sin explicaciones ni comillas.\n"
+)
+
 
 class AgentState(TypedDict):
     client_id: str
@@ -61,21 +79,65 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
             return "tools"
         return "end"
 
+    async def _rewrite_query(
+        self, user_message: str, messages: list[BaseMessage]
+    ) -> str:
+        """Rewrite user message into a precise search query using conversation context."""
+        recent_turns = []
+        for msg in messages[-6:]:
+            if isinstance(msg, HumanMessage):
+                recent_turns.append(f"Usuario: {msg.content}")
+            elif isinstance(msg, AIMessage) and msg.content:
+                # Truncate long AI responses to save tokens
+                snippet = msg.content[:300]
+                recent_turns.append(f"Asistente: {snippet}")
+
+        # First message in conversation — no rewriting needed
+        human_count = sum(1 for m in messages if isinstance(m, HumanMessage))
+        if human_count <= 1:
+            return user_message
+
+        conversation_context = "\n".join(recent_turns)
+        rewrite_input = (
+            f"Conversación reciente:\n{conversation_context}\n\n"
+            f"Última pregunta del usuario: {user_message}"
+        )
+
+        try:
+            response = await self.llm_with_tools.ainvoke([
+                SystemMessage(content=_REWRITE_PROMPT),
+                HumanMessage(content=rewrite_input),
+            ])
+            rewritten = response.content.strip()
+            if rewritten:
+                logger.info(
+                    "Query rewritten: '%s' -> '%s'", user_message, rewritten
+                )
+                return rewritten
+        except Exception:
+            logger.warning("Query rewriting failed, using original message.")
+
+        return user_message
+
     async def _agent_node(self, state: AgentState) -> dict[str, list[BaseMessage]]:
         retrieved_context = ""
         if self.retriever:
             last_user_message = self._last_user_message(state["messages"])
             if last_user_message:
-                retrieved_context = self.retriever(last_user_message)
+                retrieval_query = await self._rewrite_query(
+                    last_user_message, state["messages"]
+                )
+                retrieved_context = self.retriever(retrieval_query)
+
+        system_content = self.system_prompt_builder(state["client_id"])
+        system_content += (
+            "\n\n---\nFRAGMENTOS RECUPERADOS DEL MANUAL:\n"
+            f"{retrieved_context or 'No se encontraron fragmentos relevantes.'}"
+            "\n---"
+        )
 
         request_messages = [
-            SystemMessage(content=self.system_prompt_builder(state["client_id"])),
-            SystemMessage(
-                content=(
-                    "Fragmentos recuperados:\n"
-                    f"{retrieved_context or 'No se encontraron fragmentos relevantes.'}"
-                )
-            ),
+            SystemMessage(content=system_content),
             *state["messages"],
         ]
 

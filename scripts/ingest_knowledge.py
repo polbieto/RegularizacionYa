@@ -20,6 +20,14 @@ SUPPORTED_EXTENSIONS = {".pdf", ".txt", ".md"}
 
 logger = logging.getLogger(__name__)
 
+# Regex patterns for cleaning markdown noise before embedding
+_ADMONITION_RE = re.compile(r">\s*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*\n?")
+_DECORATIVE_EMOJI_RE = re.compile(
+    r"[🚇💸🏥🏠🛒📋📄📎📅✅❌]"
+)
+_HORIZONTAL_RULE_RE = re.compile(r"^-{3,}\s*$", re.MULTILINE)
+_YAML_FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
+
 
 def _require_env(value: str | None, name: str) -> str:
     if not value:
@@ -35,6 +43,20 @@ def _sql_quote(value: str) -> str:
     return "'" + value.replace("'", "''") + "'"
 
 
+def _clean_for_embedding(text: str) -> str:
+    """Strip markdown formatting noise that doesn't carry semantic meaning.
+
+    Keeps the text readable but removes admonition markers, decorative emojis,
+    and horizontal rules that would waste embedding dimensions.
+    """
+    text = _ADMONITION_RE.sub("", text)
+    text = _DECORATIVE_EMOJI_RE.sub("", text)
+    text = _HORIZONTAL_RULE_RE.sub("", text)
+    # Collapse multiple blank lines
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
 def _embed_documents(
     client: GoogleGenerativeAIEmbeddings, texts: list[str]
 ) -> list[list[float]]:
@@ -46,7 +68,7 @@ def _embed_documents(
             try:
                 batch_embeddings = client.embed_documents(
                     batch,
-                    task_type="QUESTION_ANSWERING",
+                    task_type="RETRIEVAL_DOCUMENT",
                     output_dimensionality=768,
                 )
                 embeddings.extend(batch_embeddings)
@@ -86,7 +108,7 @@ def _split_markdown(source_path: Path, pages: list) -> list:
     """Two-pass markdown-aware chunking.
 
     Pass 1: MarkdownHeaderTextSplitter splits the document semantically by header
-            hierarchy (#, ##, ###), preserving section context in metadata.
+            hierarchy (#, ##, ###, ####), preserving section context in metadata.
     Pass 2: RecursiveCharacterTextSplitter further splits any oversized sections
             while inheriting the header metadata from pass 1.
     """
@@ -94,17 +116,22 @@ def _split_markdown(source_path: Path, pages: list) -> list:
         ("#", "section"),
         ("##", "subsection"),
         ("###", "subsubsection"),
+        ("####", "subsubsubsection"),
     ]
     md_splitter = MarkdownHeaderTextSplitter(
         headers_to_split_on=headers_to_split_on,
         strip_headers=False,
     )
     recursive_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1500,
-        chunk_overlap=150,
+        chunk_size=800,
+        chunk_overlap=100,
     )
 
     full_text = "\n\n".join(page.page_content for page in pages)
+
+    # Strip YAML frontmatter — it adds noise without retrieval value.
+    full_text = _YAML_FRONTMATTER_RE.sub("", full_text)
+
     semantic_chunks = md_splitter.split_text(full_text)
 
     final_chunks = recursive_splitter.split_documents(semantic_chunks)
@@ -155,8 +182,11 @@ def ingest_file(
         model="models/gemini-embedding-001",
         google_api_key=google_api_key,
     )
-    texts = [chunk.page_content for chunk in chunks]
-    embeddings = _embed_documents(embeddings_client, texts)
+
+    # Clean chunks for embedding while preserving original content for storage.
+    raw_texts = [chunk.page_content for chunk in chunks]
+    cleaned_texts = [_clean_for_embedding(text) for text in raw_texts]
+    embeddings = _embed_documents(embeddings_client, cleaned_texts)
 
     logger.info("Generated %s embeddings", len(embeddings))
     if len(embeddings) != len(chunks):
@@ -185,9 +215,10 @@ def ingest_file(
             "source": Path(chunk.metadata.get("source", file_path)).name,
         }
         # Propagate markdown section headers when present.
-        for key in ("section", "subsection", "subsubsection"):
+        for key in ("section", "subsection", "subsubsection", "subsubsubsection"):
             if chunk.metadata.get(key):
                 metadata[key] = chunk.metadata[key]
+        # Store original (unclean) content for display to the LLM.
         content_sql = _sql_quote(chunk.page_content)
         embedding_sql = _sql_quote(_vector_to_pg(embedding))
         metadata_sql = _sql_quote(json.dumps(metadata, ensure_ascii=True))

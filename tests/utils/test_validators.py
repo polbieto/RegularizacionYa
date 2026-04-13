@@ -1,5 +1,5 @@
 import pytest
-from chatregularizacion.utils.validators import check_email
+from utils.validators import check_email
 
 def test_check_email_valid():
     # Valid email syntax and domain

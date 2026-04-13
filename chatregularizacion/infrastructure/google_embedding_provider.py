@@ -14,6 +14,6 @@ class GoogleGenerativeAIEmbeddingProvider(EmbeddingProviderPort):
     def embed_query(self, text: str) -> list[float]:
         return self.embeddings.embed_query(
             text,
-            task_type="QUESTION_ANSWERING",
+            task_type="RETRIEVAL_QUERY",
             output_dimensionality=768,
         )
