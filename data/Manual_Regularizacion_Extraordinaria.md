@@ -1,12 +1,3 @@
----
-titulo: Manual sobre la Regularización Extraordinaria
-idioma: es
-temas: regularización, extranjería, migración, irregularidad administrativa, España
-fecha_compilacion: 2026-04-10
-versión: 2.0
-fuente: Movimiento Regularización Ya
----
-
 # MANUAL SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
 
 
