@@ -10,7 +10,7 @@ from config import (
     ORM_OVERFLOW_SIZE,
     ORM_POOL_SIZE,
 )
-from utils.validators import check_email
+import uuid
 
 start_mappers()
 
@@ -29,33 +29,22 @@ SessionLocal = sessionmaker(bind=engine)
 async def start():
     cl.user_session.set("agent_orchestrator", build_agent_orchestrator(SessionLocal))
     cl.user_session.set("chat_history", [])
+    cl.user_session.set("user_id", str(uuid.uuid4()))
 
-    while cl.user_session.get("user_id") is None:
-            res = await cl.AskUserMessage(
-                content="Porfavor, introduce tu email para empezar la conversación", timeout=60
-            ).send()
-            if res:
-                email = res["output"].strip()
-                normalized_email = check_email(email)
-                
-                if normalized_email:
-                    cl.user_session.set("user_email", normalized_email)
-                    welcome_message = (
-                        f"¡Hola, {normalized_email}!\n\n"
-                        "Estoy aquí para acompañarte y resolver tus dudas basándome en el "
-                        "**Manual sobre la Regularización Extraordinaria**. "
-                        "Recuerda que esta información es **estrictamente orientativa y no tiene valor legal** "
-                        "(el texto definitivo será el que se publique en el BOE).\n\n"
-                        "¿En qué te puedo orientar hoy?"
-                    )
-                    await cl.Message(content=welcome_message).send()
-                    return
-                await cl.Message(content="Porfavor, escribe un email válido").send()
+    welcome_message = (
+        "¡Hola!\n\n"
+        "Estoy aquí para acompañarte y resolver tus dudas basándome en el "
+        "**Manual sobre la Regularización Extraordinaria**. "
+        "Recuerda que esta información es **estrictamente orientativa y no tiene valor legal** "
+        "(el texto definitivo será el que se publique en el BOE).\n\n"
+        "¿En qué te puedo orientar hoy?"
+    )
+    await cl.Message(content=welcome_message).send()
 
 
 @cl.on_message
 async def main(message: cl.Message):
-    user_id = cl.user_session.get("user_email")
+    user_id = cl.user_session.get("user_id")
     if not user_id:
         await cl.Message(content="Session expired. Please restart.").send()
         return
