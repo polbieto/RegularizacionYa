@@ -56,4 +56,5 @@ coverage.xml
 
 # Chainlit
 .chainlit/
+!.chainlit/config.toml
 .files/
