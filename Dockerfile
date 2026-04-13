@@ -16,4 +16,4 @@ RUN poetry install --no-root --without dev
 COPY . /app
 
 EXPOSE 8080
-CMD ["sh", "-c", "yoyo apply --database \"$DATABASE_URL\" --batch ./migrations && chainlit run chatregularizacion/app.py -w --host 0.0.0.0 --port ${PORT:-8000}"]
+CMD ["sh", "-c", "yoyo apply --database \"$APP_DATABASE_URL\" --batch ./migrations && chainlit run chatregularizacion/app.py -w --host 0.0.0.0 --port ${PORT:-8000}"]
