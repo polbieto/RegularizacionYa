@@ -1,12 +1,12 @@
 # MANUAL SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
 
 
-**Fuentes:** Transcripciones de charlas informativas, webinars y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero - marzo 2026). Incluye material informativo elaborado por Regularización Ya sobre cancelación de antecedentes penales y policiales.
+**Fuentes:** Transcripciones de charlas informativas, webinars y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero – marzo 2026). Hojas informativas oficiales del Ministerio de Inclusión, Seguridad Social y Migraciones (28 bis — DA20ª y 28 Ter — DA21ª). Página oficial de preguntas frecuentes del Gobierno de España (abril 2026). Material informativo elaborado por Regularización Ya sobre cancelación de antecedentes penales y policiales.
 
-**Fecha de compilación:** 10 de abril de 2026 (actualizado).
+**Fecha de compilación:** 18 de abril de 2026 (actualizado conforme al **Real Decreto 316/2026, de 14 de abril**, publicado en el BOE el 15 de abril de 2026).
 
-> [!CAUTION]
-> **AVISO IMPORTANTE:** Este manual recoge la información disponible hasta la fecha de compilación. El texto legal definitivo será el publicado en el **Boletín Oficial del Estado (BOE)**. Hasta esa publicación, algunos detalles pueden variar. **NO tomes decisiones irreversibles basándote en borradores.**
+> [!IMPORTANT]
+> **Este manual ha sido actualizado con la información oficial publicada.** El Real Decreto 316/2026 fue publicado en el BOE el 15 de abril de 2026 y entró en vigor el 16 de abril de 2026. Las referencias previas a "borradores" o "pendiente de confirmación en el BOE" han sido sustituidas por la normativa definitiva.
 
 
 ---
@@ -23,27 +23,27 @@
 > Redwan Baddouh, portavoz de Regularización Ya, lo desmintió textualmente:
 > *"Lo de los seiscientos mil es un bulo que ha estado circulando y tenemos que desmentirlo. No hay cupo, no hay límite. Si presentas tu solicitud el día 29 de junio o el día 30 de junio, va a acceder igual a la regularización, siempre y cuando se cumplan los requisitos establecidos."*
 
-### BULO 2: "Ya sabemos la fecha exacta de inicio"
+### BULO 2: "No se sabe la fecha de inicio"
 
-A fecha de compilación de este manual **NO** se conoce la fecha exacta de apertura del plazo. Se sabe que será en **ABRIL de 2026**, pero no se sabe si será el 1, el 10 o el 15 de abril. Muchas personas en redes sociales afirman conocer la fecha exacta: **ES MENTIRA**. La fecha se conocerá con la publicación en el BOE.
+**❌ YA RESUELTO.** El Real Decreto 316/2026 fue publicado en el BOE el **15 de abril de 2026**. El plazo de solicitud se abrió el **16 de abril de 2026** y permanecerá abierto hasta el **30 de junio de 2026**.
 
 ### Estafas de abogados privados
 
-Hay abogados y abogadas privados que están cobrando por "explicar" el procedimiento basándose en el primer borrador o en el segundo borrador. **CUIDADO:**
+Hay abogados y abogadas privados que están cobrando cantidades abusivas por "gestionar" el procedimiento. **CUIDADO:**
 
 - **NO** es necesario contratar un abogado para presentar la solicitud. Puedes presentarla tú mismo/a.
 - Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: entidades del tercer sector, ONG, organizaciones como Regularización Ya, Sembrar, Bloque Anticolonial de Barcelona, Tic Tac Antirracista, y muchas más están articulando redes de asesoramiento gratuito.
-- Los abogados y abogadas que están vendiendo explicaciones de borradores están **vendiendo humo**. EL TEXTO DEFINITIVO AÚN NO SE HA PUBLICADO.
-
-### No tomes decisiones irreversibles con borradores
+- Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
 
 > [!CAUTION]
-> - **NO** renuncies a una solicitud de asilo/protección internacional basándote en un borrador.
+> **⚠️ Las citas presenciales son GRATUITAS.** Nadie puede cobrarte por reservar o disponer de una cita presencial. Si alguien te pide dinero por gestionar la cita, es un fraude.
+
+### No tomes decisiones irreversibles
+
+> [!CAUTION]
+> - **NO** renuncies a una solicitud de asilo/protección internacional.
 > - **NO** abandones otros trámites en curso sin estar seguro/a.
 > - **NO** firmes nada ni pagues a nadie por "asegurar tu plaza" (no hay cupo).
-> - **ESPERA** al texto definitivo del BOE.
-
-A fecha 30 de marzo de 2026, el texto se encontraba en el Consejo de Estado a la espera de la realización de un informe. Posteriormente pasará al Consejo de Ministros, cuya votación estaba prevista entre el **7 y el 14 de abril de 2026**.
 
 ---
 
@@ -52,23 +52,35 @@ A fecha 30 de marzo de 2026, el texto se encontraba en el Consejo de Estado a la
 | Concepto | Fecha / Plazo |
 |----------|---------------|
 | **Fecha de corte** | 31 de diciembre de 2025 (debes haber entrado en España antes o en esta misma fecha) |
-| **Plazo de presentación** | Desde abril hasta el **30 de junio de 2026** (fecha exacta de apertura pendiente de publicación en el BOE) |
-| **Estancia mínima** | 5 meses continuados antes de la presentación |
-| **Publicación en el BOE** | Prevista tras la votación del Consejo de Ministros, estimada entre el **7 y el 14 de abril de 2026** |
-| **Admisión a trámite** | 15 días hábiles desde la presentación de la solicitud |
-| **Duración de la autorización** | 1 año, prorrogable o modificable |
+| **Publicación en el BOE** | **15 de abril de 2026** — Real Decreto 316/2026, de 14 de abril |
+| **Apertura del plazo de solicitud** | **16 de abril de 2026** (solicitudes telemáticas y obtención de cita previa) |
+| **Atención presencial** | Desde el **20 de abril de 2026** (con cita previa) |
+| **Fin del plazo de solicitud** | **30 de junio de 2026** |
+| **Estancia mínima** | 5 meses continuados antes de la presentación de la solicitud |
+| **Plazo máximo de resolución** | **3 meses** desde la entrada en el registro del órgano competente |
+| **Duración de la autorización** | 1 año, modificable o prorrogable |
+
+> [!IMPORTANT]
+> La vía **telemática** está disponible de forma ininterrumpida, **24 horas al día, 7 días a la semana** durante todo el plazo de solicitud. No es necesario esperar a la atención presencial.
 
 ---
 
 ## 2. ¿Quién puede acogerse a la regularización extraordinaria?
 
-Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sección 3) y que se encuentren en **AL MENOS UNA** de las tres situaciones descritas en la sección 4.
+Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (ser mayor de edad, haber entrado en España antes del 1 de enero de 2026, encontrarse en España al presentar la solicitud, llevar al menos 5 meses seguidos viviendo en España, no tener antecedentes penales, no tener autorización vigente ni trámite en curso, no suponer amenaza al orden público, no figurar como rechazable en Schengen, no estar en periodo de compromiso de no retorno, no ser titular de protección temporal de Ucrania, y abonar la tasa) y que se encuentren en **AL MENOS UNA** de las dos vías de acceso: vía laboral (oferta de empleo o haber trabajado), vía familiar (hijos menores, mayores con discapacidad o ascendientes de primer grado) o vía de vulnerabilidad (la propia irregularidad administrativa ya se considera vulnerable).
+
+El RD 316/2026 establece **dos disposiciones adicionales** al Reglamento de Extranjería:
+
+| Disposición | Dirigida a | Formulario | Hoja informativa |
+|---|---|---|---|
+| **DA 20ª** | Solicitantes de **Protección Internacional** (asilo / apatridia) | EX-31 | [28 bis](https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) |
+| **DA 21ª** | Personas en **situación administrativa irregular** | EX-32 | [28 Ter](https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) |
 
 ### Personas que SÍ pueden acogerse ✅
 
-- Personas en situación administrativa irregular que hayan entrado en España **antes del 31 de diciembre de 2025**.
-- Solicitantes de protección internacional (asilo) cuya solicitud se presentó antes del 31 de diciembre de 2025, y posiblemente también aquellas que la presentaron después (pendiente del texto final del BOE).
-- Menores en situación irregular.
+- Personas en situación administrativa irregular que hayan entrado en España **antes del 1 de enero de 2026**.
+- Solicitantes de protección internacional (asilo) o apatridia cuya solicitud se presentó **antes del 1 de enero de 2026**.
+- Menores en situación irregular (a través de la solicitud simultánea de sus progenitores).
 - Personas que hayan llegado en patera (u otra vía de entrada irregular), siempre que puedan acreditar haber entrado antes del 1 de enero de 2026.
 - Personas a las que se les ha denegado un arraigo (sociolaboral, socioformativo, social), siempre que cumplan los requisitos de esta regularización extraordinaria.
 - Personas con denegatorias recientes de solicitudes de asilo pueden acogerse.
@@ -76,7 +88,9 @@ Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sec
 ### Personas que NO pueden acogerse ❌
 
 - Personas con **estancia por estudios** en trámite, en vigor o en curso.
-- Personas que ya están en un trámite de arraigo activo (sociolaboral, socioformativo, social) en el momento de la solicitud — si bien la regularización extraordinaria permite pausar esos otros trámites y acogerse a esta vía. El trámite en pausa no se pierde y se resolverá favorablemente si se cumplen los requisitos (ver Sección 9).
+- Personas que ya sean titulares de una autorización de estancia o residencia vigente.
+- Personas que ya ostenten la condición de interesadas en procedimientos de concesión, prórroga, renovación o modificación de autorizaciones de estancia o residencia.
+- Personas titulares o que hayan sido titulares de autorización de residencia por **protección temporal para desplazados de Ucrania** (Decisión de Ejecución UE 2022/382).
 
 ---
 
@@ -84,34 +98,44 @@ Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (sec
 
 Se deben cumplir **TODOS** los siguientes:
 
-1. **HABER ENTRADO EN ESPAÑA ANTES DEL 31 DE DICIEMBRE DE 2025**
+1. **SER MAYOR DE EDAD**
+   Es un requisito explícito del Real Decreto. Los menores se regularizan a través de la solicitud simultánea de sus progenitores, quienes pueden solicitar una autorización de residencia para ellos conforme a los artículos 159 o 160 del Reglamento de Extranjería. Los menores obtienen una autorización de hasta 5 años. Los progenitores que acceden por vía familiar están exentos de acreditar medios económicos e informe de habitabilidad.
+
+2. **HABER ENTRADO EN ESPAÑA ANTES DEL 1 DE ENERO DE 2026**
    Es decir, estar presente en territorio español a fecha 31/12/2025 o antes. Si entraste el mismo 31 de diciembre, también cuentas.
 
-2. **HABER VIVIDO EN ESPAÑA AL MENOS 5 MESES SEGUIDOS**
-   Permanencia continuada de al menos cinco meses en el país. Si entraste el 31 de diciembre de 2025, contando los cinco meses llegarías a finales de mayo de 2026, dentro del plazo de presentación.
+3. **ENCONTRARSE EN ESPAÑA EN EL MOMENTO DE PRESENTAR LA SOLICITUD**
 
-3. **NO TENER ANTECEDENTES PENALES**
-   Se requieren antecedentes penales limpios tanto del país de origen como de España (los de España los gestiona directamente la administración, no los tienes que pedir tú).   **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** Los antecedentes penales se cancelan ante el **Ministerio de Justicia**; los policiales, ante el cuerpo policial correspondiente (ver Sección 7 para el procedimiento completo).
-   - Los antecedentes de terceros países solo se exigen si se ha **residido con autorización** en ese país en los últimos 5 años.
+4. **HABER VIVIDO EN ESPAÑA AL MENOS 5 MESES SEGUIDOS**
+   Permanencia continuada de al menos cinco meses anteriores a la presentación de la solicitud. Si entraste el 31 de diciembre de 2025, contando los cinco meses llegarías a finales de mayo de 2026, dentro del plazo de presentación. La estancia puede acreditarse mediante **cualquier prueba válida en derecho** que incluya datos personales que permitan acreditar la identidad: padrón histórico, tarjetas de transporte, recibos de envíos de dinero (remesas), citas médicas, contratos de suministros, compras documentadas, certificados de entidades y organizaciones, documentación previa de extranjería, fotografías geolocalizadas, correspondencia, contratos de alquiler, etc. Cuantas más pruebas se aporten, mejor.
+
+5. **NO TENER ANTECEDENTES PENALES**
+   Se requieren antecedentes penales limpios en España, en el país de origen y en los países donde se haya residido durante los **cinco últimos años anteriores a la fecha de entrada en España**, por delitos existentes en el ordenamiento español. **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** Los antecedentes penales se cancelan ante el **Ministerio de Justicia** (plazos según gravedad: desde 6 meses para penas leves hasta 10 años para penas graves, contados desde el cumplimiento completo de la pena); los policiales se cancelan por vía administrativa solicitando acceso y posterior cancelación al cuerpo policial correspondiente (respuesta en 1-2 meses). **Solicita la cancelación ANTES de iniciar trámites de extranjería.**
+   - Los antecedentes de España **NO** los tienes que pedir tú; los solicita directamente la Administración.
    - **Si llevas más de 5 años en España, no es necesario aportar antecedentes de terceros países.**
-   - Los antecedentes de terceros países deben estar **traducidos** (si no son en español) y **legalizados o apostillados**.
+   - Los antecedentes de terceros países deben estar **traducidos** por traductor jurado reconocido en España y **legalizados o apostillados**.
 
-4. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI EN TRÁMITE**
-   Si ya tienes una autorización vigente o un trámite activo, no puedes acogerte (con excepciones para arraigos en trámite, ver [sección 9](#9-compatibilidad-con-otros-trámites-en-curso)).
+   **Excepcionalidad — Antecedentes no recibidos a tiempo:**
+   Si se ha solicitado el certificado de antecedentes penales y transcurre **un mes sin recibirlo**, la Unidad de Tramitación de Expedientes de Extranjería solicitará al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes que lo recabe **por vía diplomática** a través de las Misiones Diplomáticas de España. Para ello, se deben presentar el **Anexo I-1** y el **Anexo I-2** adjuntos al formulario.
 
-5. **NO REPRESENTAR AMENAZA AL ORDEN PÚBLICO**
+6. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI ENCONTRARSE EN TRÁMITE DE UNA**
+   Si ya tienes una autorización vigente o un trámite activo de concesión, prórroga, renovación o modificación, no puedes acogerte. Excepción: las personas con un arraigo en trámite (sociolaboral, socioformativo, etc.) no deben renunciar; sus solicitudes se resolverán favorablemente si cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación. El trámite de arraigo queda en pausa, no se pierde.
+
+7. **NO REPRESENTAR AMENAZA AL ORDEN PÚBLICO, LA SEGURIDAD PÚBLICA O LA SALUD PÚBLICA**
    Se revisa caso por caso a través de antecedentes policiales.
 
-6. **NO FIGURAR COMO RECHAZABLE EN EL ESPACIO SCHENGEN**
+8. **NO FIGURAR COMO RECHAZABLE EN EL ESPACIO SCHENGEN**
+   Ni tener prohibida la entrada en España.
 
-7. **NO ESTAR EN PERIODO DE COMPROMISO DE NO RETORNO A ESPAÑA**
+9. **NO ESTAR EN PERIODO DE COMPROMISO DE NO RETORNO A ESPAÑA**
 
-8. **EXCLUSIÓN UCRANIA**
-   No aplica a personas titulares de autorización por conflicto en Ucrania.
+10. **EXCLUSIÓN UCRANIA**
+    No aplica a personas titulares o que hayan sido titulares de autorización por protección temporal por conflicto en Ucrania (Decisión de Ejecución UE 2022/382).
 
-9. **ABONAR LA TASA CORRESPONDIENTE**
+11. **ABONAR LA TASA CORRESPONDIENTE**
+    La tasa se devenga en el momento de admisión a trámite y debe abonarse en el plazo de **diez días hábiles**. El modelo de tasa para la solicitud inicial es el **790 código 052**, epígrafe 2.3.1 («Autorización de residencia temporal por circunstancias excepcionales por arraigo»), a cargo de la persona extranjera.
 
-Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres situaciones (desarrolladas en la [sección 4](#4-las-tres-vías-de-acceso-situaciones)):
+Además, debes acreditar que te encuentras en **AL MENOS UNA** de las siguientes situaciones — **vías de acceso**:
 
 - **A)** Tener oferta de empleo o haber trabajado.
 - **B)** Tener familia compuesta por hijos/hijas menores, mayores en situación de discapacidad, o **ascendientes de primer grado** con quienes se conviva.
@@ -119,27 +143,29 @@ Además, debes acreditar que te encuentras en **AL MENOS UNA** de estas tres sit
 
 ---
 
-## 4. Las tres vías de acceso (situaciones)
+## 4. Las vías de acceso (situaciones)
 
-Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas tres situaciones:
+Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas situaciones:
 
 ### 4.1. Vía laboral: oferta de empleo o haber trabajado
 
 Si tienes una oferta de empleo, puedes presentar tu solicitud acompañada de dicha oferta. También si puedes acreditar que has trabajado (en la economía formal o "en B").
 
-**Requisitos específicos (según borrador):**
-- Haber trabajado por cuenta ajena o propia, **o** acreditar intención de trabajar presentando:
-  - Una **oferta o contrato de trabajo** (duración superior a **90 días** en un año), o
-  - Una **declaración responsable** (para trabajo por cuenta propia).
-- Ejemplo: personas que tuvieron una autorización inicial de residencia, la perdieron, pero pueden acreditar que han trabajado.
+**Requisitos específicos (confirmados por RD 316/2026):**
+- Haber trabajado por cuenta ajena o propia **durante su permanencia en España**, **o** acreditar intención de trabajar presentando:
+  - Una **oferta de trabajo** (o compromiso de actividad laboral), o
+  - Una **declaración responsable** (para trabajo por cuenta propia), presentada a través de modelo específico incorporado a la solicitud.
+
+**Documentación específica para esta vía:**
+- Documentación acreditativa de haber tenido actividad laboral, oferta de empleo o compromiso de actividad.
 
 ### 4.2. Vía familiar: unidad familiar
 
 Personas progenitoras que tienen menores a su cargo y están en situación irregular. También personas que convivan con **ascendientes de primer grado**.
 
-**Composición de la unidad familiar (según borrador):**
+**Composición de la unidad familiar (confirmada):**
 - Hijos/as menores de edad.
-- Hijos/as mayores con discapacidad.
+- Hijos/as mayores con discapacidad que requieran de apoyo o que no sean objetivamente capaces de proveer a sus propias necesidades.
 - **Ascendientes de primer grado** con quienes se conviva.
 
 **Beneficios de esta vía:**
@@ -149,16 +175,23 @@ Personas progenitoras que tienen menores a su cargo y están en situación irreg
 Se aplica también a:
 - Padre o madre de un menor que aún no había cumplido los 2 años necesarios para hacer un arraigo social: también están exentos de demostrar medios económicos e informe de habitabilidad.
 
+**Documentación específica para esta vía:**
+- Documentación acreditativa del vínculo familiar.
+- Documentación acreditativa de convivencia con la unidad familiar.
+
 **Documentación especial para menores:**
 - Certificado de nacimiento de cada menor, apostillado (y traducido si procede). Misma validez que otros documentos: si el país da 90 días, 90 días.
 - Padrón de convivencia histórico.
 - Si ambos progenitores están irregulares y quieren regularizar al menor: documentación de **AMBOS** (CIE que tengan y pasaportes).
 
+> [!IMPORTANT]
+> **Solicitud simultánea de familiares:** En los supuestos en los que el solicitante tenga **ascendientes de primer grado, cónyuge o pareja registrada** que formen parte de la unidad de convivencia, estos podrán solicitar la autorización **simultáneamente** y se resolverá de manera conjunta.
+
 ### 4.3. Vía de vulnerabilidad (la más amplia)
 
 Encontrarse en situación de vulnerabilidad. **IMPORTANTE:** la propia situación administrativa irregular **YA SE CONSIDERA** vulnerable. Todas las personas en situación administrativa irregular se consideran en situación de vulnerabilidad.
 
-Para acreditar esta vía, se necesitará un informe emitido por:
+Para acreditar esta vía, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido en el modelo incorporado como **Anexo II** en la solicitud. Puede ser emitido por:
 - **Servicios sociales municipales**, **o**
 - **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
 
@@ -166,15 +199,18 @@ Para acreditar esta vía, se necesitará un informe emitido por:
 
 ## 5. Documentación necesaria
 
+> [!TIP]
+> **RECOMENDACIÓN OFICIAL:** Se recomienda la aportación de **cualquier documentación previa** del solicitante que acredite su estancia en territorio nacional, **aunque sea denegatoria**, lo que permitiría **agilizar** la tramitación de su autorización. Ejemplos: solicitudes previas, acuerdos de devolución, certificados de estancia en Centros Temporales de Internamiento, Cartas de Invitación, denegaciones de solicitudes de protección internacional previas, expedientes de expulsión por estancia irregular…
+
 ### 5.1. Pasaporte (o cédula de inscripción o título de viaje)
 
-- Se debe presentar el pasaporte **COMPLETO**: **TODAS** las páginas, no solo la página con la foto y los datos. Extranjería necesita revisar página por página para comprobar sellos de entrada y salida, especialmente para verificar los 5 meses de estancia.
+- Se debe presentar el pasaporte **COMPLETO**: **TODAS** las páginas (todas sus hojas), no solo la página con la foto y los datos. Extranjería necesita revisar página por página para comprobar sellos de entrada y salida, especialmente para verificar los 5 meses de estancia.
 
-- Además del pasaporte, se aceptan como documentos de identidad válidos la **cédula de inscripción** y el **título de viaje**.
+- Además del pasaporte, se aceptan como documentos de identidad válidos la **cédula de inscripción** y el **título de viaje**, reconocido como válido en España.
 
-- **PASAPORTE NO VIGENTE:** Se está negociando que para este procedimiento extraordinario no sea obligatorio que el pasaporte esté vigente, ya que renovar un pasaporte en muchos países lleva mucho tiempo y no todos pueden trasladarse a Madrid (donde están la mayoría de consulados y embajadas). Esto forma parte del acuerdo principal, pendiente de confirmación en el BOE.
+- **PASAPORTE CADUCADO:** El Real Decreto **confirma** que se acepta el pasaporte **en vigor o caducado**, así como la cédula de inscripción en vigor o caducada, o el título de viaje en vigor o caducado.
 
-- **SOLICITANTES DE ASILO:** Pueden tener dificultades con el pasaporte. Se espera que se contemple su situación especial.
+- **SOLICITANTES DE ASILO:** Pueden tener dificultades con el pasaporte. El RD contempla la aceptación de documentos caducados, lo que facilita esta situación.
 
 - **SI NO TIENES PASAPORTE:** Se puede obtener una **CÉDULA DE INSCRIPCIÓN**. El procedimiento es:
   1. Acudir a un notario.
@@ -185,13 +221,13 @@ Para acreditar esta vía, se necesitará un informe emitido por:
 
 ### 5.2. Antecedentes penales del país de origen
 
-- Deben estar **APOSTILLADOS** (Apostilla de La Haya).
-- Deben estar **TRADUCIDOS** por un/una traductor/a jurado/a **RECONOCIDO/A EN ESPAÑA**.
+- Deben estar **APOSTILLADOS** (Apostilla de La Haya) o legalizados por la Oficina Consular de España con jurisdicción en el país en el que se ha expedido.
+- Deben estar **TRADUCIDOS** por un/una traductor/a jurado/a **RECONOCIDO/A EN ESPAÑA** al castellano o a la lengua cooficial del territorio donde se presente la solicitud.
 
 > [!WARNING]
 > **¡¡CUIDADO CON LOS TRADUCTORES JURADOS!!**
 > Hay traductores que ofrecen precios bajos pero **NO** están reconocidos en España. Puede que sean traductores jurados en su país de origen, pero eso no vale. **VERIFICA:**
-> - Entra en Google y busca **"lista de traductores jurados"** del Ministerio de Asuntos Exteriores de España.
+> - Consulta la **lista oficial de traductores jurados** del Ministerio de Asuntos Exteriores de España.
 > - Comprueba que la persona está en esa lista **antes de pagar**.
 
 **Validez de los antecedentes penales:**
@@ -200,19 +236,22 @@ Para acreditar esta vía, se necesitará un informe emitido por:
 - Dado que el plazo de presentación es abril-junio (3 meses), en principio los 6 meses de validez no deberían vencer.
 - Si los antecedentes tienen validez de 90 días y los metes antes de que caduquen, quedan registrados. Si después te requieren algo, se verá en ese momento. La recomendación es presentarlos **ANTES** de que venzan.
 
-**Declaración responsable:**
-Si tu país de origen demora más de un mes en expedirlos, se ha negociado que baste con una **DECLARACIÓN RESPONSABLE** (declaración jurada) en la que tú afirmes: *"Yo lo pedí a mi país, pero se están demorando."* Con este inicio de trámite, España se encargará de solicitar el certificado al país correspondiente. Esto se pidió en el primer acuerdo, se mantuvo en el segundo borrador y es lo que se entregó al Consejo de Estado. *Pendiente de confirmación en BOE.*
+**Excepcionalidad — Antecedentes no recibidos (mecanismo oficial del RD 316/2026):**
+Si tu país de origen demora más de un mes en expedirlos, se activa el mecanismo oficial:
+1. La persona acredita haber solicitado el certificado de antecedentes penales.
+2. Transcurrido **un mes** sin haberlo recibido, la Unidad de Tramitación de Expedientes de Extranjería lo solicita por **vía diplomática** (Misiones Diplomáticas de España).
+3. Debe presentar el **Anexo I-1** (justificante de la solicitud y declaración responsable de no haber recibido respuesta) y el **Anexo I-2** (autorización a las autoridades españolas para recabar los antecedentes), adjuntos al formulario. El Anexo I-2 debe presentarse en **español y en el idioma del país** en que deba surtir efecto.
 
 **¿De qué países pedir antecedentes?**
 - De tu **PAÍS DE ORIGEN** obligatoriamente.
-- De países donde hayas **RESIDIDO LEGALMENTE** (con permiso de residencia, DNI, etc.).
-- **NO** de países por los que solo hayas **TRANSITADO** durante tu ruta migratoria sin residencia legal.
+- De países donde hayas **RESIDIDO** (con residencia legal o de hecho) **durante los cinco últimos años anteriores a la fecha de entrada en España**.
+- **NO** de países por los que solo hayas **TRANSITADO** durante tu ruta migratoria sin residencia.
 
 > **Ejemplo práctico — Caso Venezuela/Argentina:**
 > Si eres de Venezuela pero residiste legalmente en Argentina y tienes DNI argentino, debes pedir antecedentes penales de **AMBOS** países (Venezuela y Argentina). Pero si solo transitaste por un país (por ejemplo, Francia) sin residir legalmente, **NO** necesitas pedirlos de ese país.
 
 **Antecedentes penales de España:**
-Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Consulta la [sección 7](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa) para el procedimiento detallado de cancelación.
+Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjería (en este caso, el Ministerio de Inclusión y la Secretaría de Estado de Migraciones). Pero si tienes antecedentes en España, debes "limpiarlos" antes (cancelarlos si corresponde). Los antecedentes penales se cancelan ante el **Ministerio de Justicia** (plazos según gravedad: desde 6 meses para penas leves hasta 10 años para penas graves, contados desde el cumplimiento de la pena). Los antecedentes policiales se cancelan por vía administrativa ante el cuerpo policial correspondiente, solicitando primero acceso a los datos y luego su cancelación (respuesta en 1-2 meses). **Solicita la cancelación ANTES de iniciar trámites de extranjería.**
 
 **¿Cómo solicitar los antecedentes penales del país de origen?**
 Depende del país al que se vayan a solicitar. La recomendación es **dirigirse a las autoridades** del país correspondiente — normalmente el consulado o la embajada en España — para informarse del procedimiento específico de cada país. Algunos países permiten la solicitud telemática; otros requieren presencia física o un apoderado.
@@ -225,26 +264,61 @@ Si no consigues cita para la Apostilla de La Haya antes de la fecha límite (30 
 2. **Justifica la ausencia:** Aporta un justificante que demuestre que no pudiste adjuntar el documento en esa primera presentación porque fue imposible conseguir cita.
 3. **Entrégalo a posteriori:** Aporta el documento al expediente en cuanto lo tengas listo, o espera a que la administración te envíe un requerimiento solicitándolo.
 
+> [!NOTE]
+> **Alternativa a la Apostilla:** Los documentos públicos extranjeros también pueden ser **legalizados por la Oficina Consular de España** con jurisdicción en el país emisor, o por el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. Si el documento está exento de legalización en virtud de Convenio Internacional, no es necesaria ni la apostilla ni la legalización.
+
 ### 5.3. Acreditación de la estancia de 5 meses
 
 La forma principal de acreditar la estancia es el **padrón histórico**. Si tienes padrón, solícitalo lo antes posible, ya que las citas son difíciles de conseguir. **¡Empieza a pedir cita ya!** Para familias se necesita el **padrón de convivencia histórico**, aún más difícil de obtener.
 
-Si **no tienes padrón**, puedes acreditar la estancia con cualquier combinación de documentos alternativos: tarjetas de transporte, remesas, citas médicas, contratos de suministros, compras con tarjeta, documentación de entidades sociales, etc. (ver Sección 6 — El Cluedo Probatorio — para el listado completo).
+Si **no tienes padrón**, puedes acreditar la estancia con **cualquier prueba válida en derecho**, siempre que incluya datos personales que permitan acreditar tu identidad. Esto incluye cualquier combinación de documentos alternativos: tarjetas de transporte público (metro, bus, historial de uso), recibos de envíos de dinero/remesas (puedes pedir historial en el locutorio), citas médicas y documentación sanitaria, contratos de suministros (luz, agua, gas, internet), compras documentadas y extractos bancarios, certificados de asistencia a entidades y ONG, documentación oficial o semioficial (servicios sociales, citaciones administrativas), documentación previa de extranjería (solicitudes, acuerdos de devolución, certificados de CIE, cartas de invitación, denegaciones previas), fotografías geolocalizadas, correspondencia a tu nombre, contratos de alquiler. **Cada prueba suma; cuantas más, mejor.**
 
-### 5.5. Informe de vulnerabilidad / integración social
+### 5.4. Informe de vulnerabilidad
 
-Para la vía de vulnerabilidad, se necesitará un informe emitido por:
+Para la vía de vulnerabilidad, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido conforme al modelo incorporado como **Anexo II** a la solicitud. Puede ser emitido por:
 - **Servicios sociales municipales** de la zona de residencia, **o**
 - **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
 
 Se ha habilitado un **REGISTRO DE ENTIDADES COLABORADORAS** (publicado en el BOE como orden ministerial el 5 de marzo de 2026) para que estas entidades puedan:
-- Emitir informes de "buena habitabilidad"
+- Emitir informes / certificados de vulnerabilidad
 - Presentar expedientes
 
 No solo serán entidades grandes; también entidades pequeñas pueden registrarse. También podrán emitirlos abogados/as que presenten expedientes.
 
 > [!WARNING]
-> **Sobre el informe de vulnerabilidad:** Aunque el borrador establece que todas las personas en situación irregular se presumen vulnerables, **Regularización Ya recomienda intentar obtener el informe igualmente**. Si la administración lo requiere posteriormente, solo dará un plazo de **10 días hábiles** para aportarlo. Es mejor tenerlo preparado que arriesgarse a no poder conseguirlo en ese plazo.
+> **Sobre el informe de vulnerabilidad:** Aunque la situación administrativa irregular se presume vulnerable, **Regularización Ya recomienda intentar obtener el certificado igualmente**. Si la administración lo requiere posteriormente, solo dará un plazo de **10 días hábiles** para aportarlo. Es mejor tenerlo preparado que arriesgarse a no poder conseguirlo en ese plazo. El modelo de certificado de vulnerabilidad se puede descargar aquí: https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf
+
+### 5.5. Documentación para solicitantes de protección internacional (DA 20ª — Formulario EX-31)
+
+Si eres solicitante de protección internacional o apatridia, la documentación específica es:
+
+1. Impreso de solicitud **EX-31**, debidamente cumplimentado y firmado.
+2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
+3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o Anexo I-1 y I-2 si no se ha recibido en un mes).
+4. Documentación acreditativa de haber presentado solicitud de protección internacional antes del 1 de enero de 2026.
+5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
+6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
+
+### 5.6. Documentación para arraigo extraordinario (DA 21ª — Formulario EX-32)
+
+Si estás en situación administrativa irregular, la documentación depende de la vía de acceso elegida:
+
+**Común a todas las vías:**
+1. Impreso de solicitud **EX-32**, debidamente cumplimentado y firmado.
+2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
+3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o Anexo I-1 y I-2).
+4. Justificante del abono de la tasa.
+
+**Adicional según vía:**
+
+| Vía | Documentación adicional |
+|-----|------------------------|
+| **A — Laboral** | Documentación acreditativa de actividad laboral, oferta de empleo o compromiso de actividad |
+| **B — Familiar** | Documentación del vínculo familiar + documentación de convivencia con la unidad familiar |
+| **C — Vulnerabilidad** | Documentación acreditativa de permanencia 5 meses + certificado de vulnerabilidad (**Anexo II**) |
+| **Familiar de solicitante de arraigo** | Documentación del vínculo familiar + convivencia + permanencia 5 meses |
+
+5. En su caso, **informe sobre escolarización de menores** a cargo en España.
 
 ---
 
@@ -287,16 +361,24 @@ Si **NO** tienes padrón municipal, la estrategia consiste en construir un exped
    - Cualquier citación administrativa.
    - Documentación escolar de menores a tu cargo.
 
-8. **📎 OTROS**
+8. **📁 DOCUMENTACIÓN PREVIA DE EXTRANJERÍA (RECOMENDADA OFICIALMENTE)**
+   - Solicitudes previas de cualquier tipo.
+   - Acuerdos de devolución.
+   - Certificados de estancia en Centros Temporales de Internamiento.
+   - Cartas de Invitación.
+   - Denegaciones de solicitudes de protección internacional previas.
+   - Expedientes de expulsión por estancia irregular.
+
+9. **📎 OTROS**
    - Fotografías geolocalizadas con fecha.
    - Correspondencia recibida a tu nombre en una dirección en España.
    - Contratos de alquiler (aunque no estés como titular).
    - Declaraciones de testigos (aunque esto es lo **MENOS** recomendable: *"no vale que Pepito se lo diga a Pepita"*; debe ser un documento real).
 
-### Consejo práctico: ¡empieza a recopilar ya!
+### Consejo práctico: ¡recopila todo ya!
 
 > [!TIP]
-> No esperes a que se abra el plazo. **Empieza HOY** a:
+> **Empieza HOY** a:
 > - Recopilar todos los papeles, tickets, recibos que tengas.
 > - Ir al locutorio donde envías dinero y pedir historial de envíos.
 > - Si tienes tarjeta sanitaria, pedir cita médica y guardar el justificante.
@@ -350,13 +432,13 @@ Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
 > [!TIP]
 > - **Solicita la cancelación de tus antecedentes ANTES de iniciar trámites de extranjería.** No esperes a que se abra el plazo.
 > - **Guarda siempre todos los justificantes y las resoluciones** de la cancelación.
-> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito** (ver Sección 16).
+> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito**: Regularización Ya, Círculo de Migraciones, AILA Ilegal, Sembrar, Bloque Anticolonial de Barcelona, Tic Tac Antirracista, Red Acoge, entre otras. Consulta el listado actualizado de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
 
 ---
 
 ## 8. Solicitantes de protección internacional / apatridia (asilo / tarjeta roja)
 
-Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularización extraordinaria **sin renunciar** a su solicitud en trámite. Ambos procedimientos son compatibles: la solicitud de asilo queda en pausa durante la tramitación y se reactiva si la regularización es denegada.
+Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularización extraordinaria **sin renunciar** a su solicitud en trámite. El RD 316/2026 establece una **vía específica** para ellos a través de la **Disposición Adicional 20ª** (formulario EX-31).
 
 > [!IMPORTANT]
 > Este es un punto **FUNDAMENTAL** que el movimiento puso "en el centro de la negociación".
@@ -367,20 +449,20 @@ Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularizaci�
 
 > Redwan Baddouh: *"Renunciar NUNCA. No hay que renunciar a la protección internacional."*
 
-- Tu solicitud de asilo o apatridia debe haber sido presentada o manifestada la voluntad de presentarla **antes del 1 de enero de 2026** (y posiblemente también las presentadas después, pendiente del texto final).
-- Cuando se abra el plazo, podrás solicitar la autorización de residencia aunque seas solicitante de protección internacional.
+- Tu solicitud de asilo o apatridia debe haber sido presentada **antes del 1 de enero de 2026** (confirmado por el RD 316/2026).
+- El plazo de solicitud ya está abierto: desde el **16 de abril** hasta el **30 de junio de 2026**.
 
 ### ¿Qué ocurre con la solicitud de protección internacional?
 
 - La solicitud de protección internacional quedará **en pausa** hasta la resolución de la regularización extraordinaria.
-- **Si la regularización es favorable:** la solicitud de protección internacional decaería (salvo cambio en el texto final).
+- **Si la regularización es favorable:** la solicitud de protección internacional decaería.
 - **Si la regularización es denegada:** la solicitud de protección internacional se reactivaría.
 
 ### Caso práctico — Persona con tarjeta roja
 
 > *"Mi hermano vino hace tres años, pidió asilo, tiene tarjeta roja, lleva dos años trabajando con contrato indefinido, piso arrendado, carné de conducir, casi tres años empadronado. ¿Debe renunciar al asilo?"*
 >
-> **RESPUESTA: NO.** No tiene que renunciar. Cuando se abra el plazo, podrá solicitar la regularización extraordinaria **SIN** renunciar a la protección internacional.
+> **RESPUESTA: NO.** No tiene que renunciar. Puede solicitar la regularización extraordinaria **SIN** renunciar a la protección internacional.
 
 ### Caso práctico — Colombiana con hijo y tarjeta roja
 
@@ -412,7 +494,7 @@ Si tienes otro trámite de extranjería activo (arraigo, asilo, etc.), puedes ac
 > Las personas con un arraigo en trámite (sociolaboral, socioformativo, etc.) **no deben renunciar**. Sus solicitudes se resolverán **favorablemente** si cumplen los requisitos de la regularización extraordinaria. **No hay que volver a presentar documentación.**
 
 **Caso del arraigo denegado:**
-Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te piden que salgas del país, puedes acogerte a esta regularización extraordinaria cuando se abra el plazo. Los requisitos son *"mucho más flexibles."*
+Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te piden que salgas del país, puedes acogerte a esta regularización extraordinaria. Los requisitos son *"mucho más flexibles."*
 
 
 ---
@@ -420,14 +502,20 @@ Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te p
 
 ## 10. Regularización de menores
 
-La regularización extraordinaria permite regularizar simultáneamente a los hijos e hijas menores en situación irregular. Los menores obtienen una autorización de **5 años** (frente a 1 año para adultos). Los progenitores que acceden por vía familiar están **exentos** de acreditar medios económicos e informe de habitabilidad.
+La regularización extraordinaria permite regularizar simultáneamente a los hijos e hijas menores en situación irregular. Los menores obtienen una autorización de **hasta 5 años** (frente a 1 año para adultos). Los progenitores que acceden por vía familiar están **exentos** de acreditar medios económicos e informe de habitabilidad.
 
-- El proceso permite la **REGULARIZACIÓN SIMULTÁNEA** de hijos e hijas menores que se encuentren en España.
-- Para ello, madres/padres que tengan menores a su cargo están exentos de demostrar medios económicos e informe de habitabilidad (ver [sección 4.2](#42-vía-familiar-unidad-familiar)).
-- **NO** se exigen los 2 años de permanencia ni los requisitos de medios económicos y alojamiento del procedimiento ordinario.
-- Los menores obtienen una autorización de residencia de **5 AÑOS** (no 1 año como los adultos).
+**Confirmado por el RD 316/2026 y las hojas informativas oficiales:**
+
+- La persona solicitante que tenga hijas o hijos menores de edad, o mayores con discapacidad que requieran apoyo, podrá solicitar **simultáneamente** una autorización de residencia para ellos conforme a los artículos **159** o **160** del Reglamento de Extranjería, resolviéndose ambas solicitudes de **manera conjunta**.
+- **Flexibilizaciones durante la vigencia de esta medida:**
+  - Art. 159: Se exime del requisito de presentar la solicitud dentro de los **6 meses posteriores al nacimiento**.
+  - Art. 160: Se exime del requisito de **permanencia previa de 2 años**, así como de la acreditación de **medios económicos y vivienda adecuados** exigidos para la reagrupación familiar.
+- Estas autorizaciones se concederán teniendo en cuenta el **interés superior del menor** y podrán tener una vigencia de **hasta cinco años**, conforme a la normativa aplicable a menores extranjeros.
+- Esta flexibilización **también** podrá aplicarse a hijos e hijas cuyos progenitores **ya sean titulares de una autorización de residencia** (es decir, padres ya regularizados con hijos sin papeles).
 - Si solo hay un progenitor presente y no tiene la patria potestad completa, se necesita **autorización del otro progenitor** para residir en España.
-- El proceso también flexibiliza los requisitos para los casos en que los padres **ya están regularizados** y los hijos no: con la regularización extraordinaria no será necesario cumplir las condiciones del reglamento actual.
+
+> [!NOTE]
+> Las **hojas informativas 41 y 42** del Ministerio de Inclusión detallan el procedimiento de autorización de residencia de menores (artículos 159 y 160 del Reglamento de Extranjería), incluyendo requisitos de documentación, plazos de solicitud y condiciones de vigencia de la autorización.
 
 ### Documentación para la regularización de menores
 
@@ -464,41 +552,100 @@ La regularización extraordinaria permite regularizar simultáneamente a los hij
 
 Este es uno de los puntos más innovadores de esta regularización extraordinaria, diseñado para **ESQUIVAR EL COLAPSO DE EXTRANJERÍA**.
 
+### 11.1. Vías de presentación
 
+La solicitud se puede presentar por **DOS VÍAS** principales:
 
-La solicitud se podrá presentar por **MÚLTIPLES VÍAS**:
-
-**a) Plataforma MERCURIO (telemática):**
-- A través de entidades del tercer sector inscritas como registradoras / colaboradoras con Extranjería.
+**a) Vía telemática — Plataforma MERCURIO:**
+- Disponible de forma ininterrumpida, **24 horas al día, 7 días a la semana** durante todo el plazo de solicitud.
+- A través de la sede electrónica del Ministerio de Política Territorial y Memoria Democrática.
+- Requiere certificado digital o Cl@ve.
+- Puede realizarla un apoderado inscrito en el Registro Electrónico de Apoderamiento.
+- A través de entidades del tercer sector inscritas como colaboradoras con Extranjería.
 - A través de abogados/as y profesionales de extranjería.
-- *Nota:* Para presentar por Mercurio normalmente se necesita certificado digital; con pasaporte no se puede obtener el certificado digital fácilmente. Por eso se han habilitado las otras vías.
+- **Enlace de la plataforma MERCURIO:** https://mercurio.delegaciondelgobierno.gob.es/mercurio/inicioMercurio.html
 
-**b) Presencialmente en puntos habilitados:**
-- **Oficinas de la Seguridad Social.**
+**b) Vía presencial (con cita previa):**
+Se habilitarán oficinas públicas en todo el territorio nacional, incluidas:
 - **Oficinas de Correos.**
-- **Ayuntamientos** (en algunos casos).
-- Registros presenciales habituales.
-- Las oficinas concretas se conocerán con la publicación en el BOE.
+- **Oficinas de la Seguridad Social.**
+- **Oficinas de Extranjería** que se determinen.
+- En la provincia en la que resida el solicitante.
 
-**c) A través de un abogado/a.**
+> [!IMPORTANT]
+> La forma más eficaz es la **vía telemática** (no necesita cita previa presencial). La atención presencial funciona con cita previa obligatoria desde el **20 de abril de 2026**.
 
-**d) Entidades del tercer sector:**
-- Las entidades inscritas en el registro de colaboradoras podrán presentar la documentación por Mercurio en nombre de las personas solicitantes.
-- Deben ser **entidades sin fines de lucro** inscritas en el Registro de Colaboradores con Extranjería.
-- Ejemplos de entidades: Red Acoge, Redes, Coordinadora de Barrios, y muchas organizaciones que trabajan con migración.
+### 11.2. Solicita tu Cita — Tres opciones
 
-Este procedimiento va directamente al Ministerio de Migración y la Secretaría de Estado de Migraciones, evitando el colapso de las oficinas de Extranjería. El mismo organismo que gestionó la regularización de la DANA en Valencia será el responsable, lo que da confianza en los plazos prometidos.
+> ⚠️ **RECUERDA:** Solicitar cita es completamente **GRATUITO**. Si alguien te pide dinero por gestionar la cita, es un fraude.
+
+| Vía | Descripción | Enlace |
+|---|---|---|
+| **Con Cl@ve** | Accede con certificado digital o Cl@ve PIN | https://sede.administracionespublicas.gob.es/pagina/index/directorio/icpplus |
+| **Por formulario** | Envía tu solicitud mediante formulario web | https://inclusion.gob.es/web/guest/formulario-cita-previa-regularizacion-extraordinaria-2026 |
+| **Por teléfono** | Llama al 060 | tel:060 |
+
+> Si dispones de Cl@ve, también puedes solicitar la cita en nombre de otra persona.
+
+### 11.3. ¿Quiénes me pueden ayudar?
+
+La solicitud la puedes hacer tú mismo, o con apoyo de:
+
+- **Abogados, graduados sociales o gestores administrativos**, que pueden actuar como representantes.
+- **Entidades inscritas en el Registro de Colaboradores de Extranjería**: entidades sociales y sindicatos con experiencia en acompañamiento de personas migrantes. Ofrecen **asesoramiento gratuito** y pueden actuar como representantes. El listado actualizado de entidades colaboradoras se puede consultar aquí: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+
+### 11.4. Contacto
+
+- **Teléfono:** 060 (también para pedir cita previa; atención en español)
+- **Horario:** de lunes a viernes, de 09:30 a 14:00 h y de 16:30 a 19:30 h
+- **Formulario de consultas:** https://www.inclusion.gob.es/formulario-consultas-regularizacion-extraordinaria-2026
+- **Simulador de requisitos:** https://inclusion.gob.es/web/guest/simulador-de-requisitos-regularizacion-extraordinaria-2026
+
+### 11.5. Representación legal
+
+Sujeto legitimado para presentar la solicitud: la persona extranjera **personalmente**, o su **representante** en los términos previstos en el art. 197.4 del Reglamento de Extranjería.
+
+Para la modificación de la autorización, también puede presentarla el **empleador**, personalmente o a través de un sujeto legitimado con representación legal empresarial.
+
+### 11.6. Tasas
+
+Las tasas se devengan en el momento de **admisión a trámite** de la solicitud y deben abonarse en el plazo de **diez días hábiles**.
+
+**Para la solicitud inicial (DA 20ª y DA 21ª):**
+
+| Modelo | Epígrafe | Concepto | Quién paga |
+|--------|----------|----------|------------|
+| 790 código 052 | 2.3.1 | "Autorización de residencia temporal por circunstancias excepcionales por arraigo" | Persona extranjera |
+
+**Para la modificación a autorización de residencia y trabajo:**
+
+| Modelo | Epígrafe | Concepto | Quién paga |
+|--------|----------|----------|------------|
+| 790 código 052 | 2.5.2 | "Modificación de la autorización de residencia temporal a autorización de residencia y trabajo" | Persona trabajadora extranjera |
+| 790 código 062 | 3.2.1 | "Autorización de trabajo para autorizaciones iniciales de residencia temporal de trabajo por cuenta ajena" | Empleador |
+
+**Para la prórroga:**
+
+| Modelo | Epígrafe | Concepto | Quién paga |
+|--------|----------|----------|------------|
+| 790 código 052 | 2.4 | "Prórroga o renovación de autorización de residencia temporal por circunstancias excepcionales" | Persona extranjera |
 
 > [!IMPORTANT]
 > La recomendación es **PRESENTAR TODO COMPLETO** desde el primer momento. Si te requieren algo después, no sabes cuánto tiempo te darán (10 días, 15 días), y si pides ampliación y no te la dan, lo pierdes.
 
 ---
 
-## 12. Admisión a trámite y derecho al trabajo
+## 12. Admisión a trámite, derecho al trabajo y resolución
 
 ### 12.1. Admisión a trámite y derechos inmediatos
 
-Una vez presentada la solicitud, la **admisión a trámite** se produce en un plazo de **15 DÍAS HÁBILES**, garantizado por el Ministerio, y tiene carácter retroactivo.
+Una vez presentada la solicitud, **desde la admisión a trámite** y hasta que se resuelva el procedimiento, se autorizará **de forma provisional** a las personas solicitantes a:
+
+- **Residir** en todo el territorio nacional.
+- **Trabajar por cuenta ajena y por cuenta propia**, en todo el territorio nacional y en cualquier ocupación o sector de actividad (siempre que se encuentren en edad laboral).
+
+> [!IMPORTANT]
+> La comunicación del inicio del procedimiento administrativo **habilita automáticamente para trabajar** en todo el territorio nacional español y en cualquier sector de actividad, en condiciones dignas tanto para el empleado como para el empleador.
 
 Tras la admisión recibes un documento con tu **NÚMERO DE IDENTIDAD DE EXTRANJERO (NIE)**, con el que puedes:
 
@@ -507,35 +654,75 @@ Tras la admisión recibes un documento con tu **NÚMERO DE IDENTIDAD DE EXTRANJE
 3. **Trabajar legalmente** desde ese mismo momento.
 4. **Acceder a la sanidad.**
 
-> [!IMPORTANT]
+> [!TIP]
 > No esperes a la resolución favorable para buscar trabajo. Desde la admisión a trámite ya tienes autorización provisional de trabajo. Empezar a trabajar y cotizar cuanto antes es clave para la renovación.
 
-### 12.2. Obtener el número de Seguridad Social
+### 12.2. Plazo de resolución
+
+El plazo máximo de resolución y notificación de la solicitud es de **tres meses**, contados a partir del día siguiente a la fecha en que haya tenido entrada en el registro del órgano competente para su tramitación.
+
+**Silencio administrativo:**
+- **Solicitud inicial:** Transcurrido el plazo de 3 meses sin notificación, se podrá entender que la solicitud ha sido **desestimada** por silencio administrativo.
+- **Prórroga:** Transcurrido el plazo sin notificación, se entenderá que la solicitud ha sido **estimada** por silencio administrativo.
+
+> [!WARNING]
+> Es importante que la persona interesada **mantenga actualizado su domicilio** a efectos de notificaciones. En caso de que la notificación resulte infructuosa, se empleará la vía edictal (publicación en tablón de anuncios).
+
+### 12.3. Obtener el número de Seguridad Social
 
 **Posibles dificultades:**
 En la práctica, para autentificarte telemáticamente necesitas la tarjeta vigente, lo que a veces genera "un laberinto" hasta que te dejan hacerlo con la cara del pasaporte. El movimiento está trabajando para facilitar estos mecanismos y preparar instrucciones claras (*"vale, tienes que decir tal, tal, tal, y a la tercera ya la tienes"*).
 
-### 12.3. Duración de la autorización
+### 12.4. Duración de la autorización
 
-- La autorización de residencia tendrá una **DURACIÓN DE 1 AÑO**. El año empieza a contar desde la admisión a trámite, **no** desde la resolución favorable.
-- Podrá **PRORROGARSE** o **MODIFICARSE** a una autorización de **4 años**.
-- Para la prórroga/renovación, es fundamental haber trabajado y cotizado durante ese año. Se estiman al menos **3 meses mínimos de cotización** como requisito básico.
-- También se contempla la situación especial de cuidado de personas con discapacidad.
+- La autorización de residencia tendrá una **DURACIÓN DE 1 AÑO** y habilitará a residir y trabajar por cuenta ajena y por cuenta propia, en cualquier parte del territorio español, ocupación o sector de actividad.
+- Podrá **MODIFICARSE** (transformarla en autorización de residencia y trabajo ordinaria, solicitándola durante los 2 meses previos a la expiración o los 3 meses posteriores) o **PRORROGARSE** (por 1 año acreditando búsqueda activa de empleo o informe de integración; o por 4 años en caso de enfermedad grave, discapacidad o jubilación).
 
+### 12.5. Tarjeta de Identidad de Extranjero (TIE)
 
-### 12.4. Notificaciones y domicilio en la solicitud
+En el plazo de **un mes** desde la notificación de la concesión de la autorización, la persona extranjera deberá solicitar **personalmente** la tarjeta de identidad de extranjero en la Comisaría de Policía o servicios policiales competentes de su lugar de residencia. La documentación a aportar se puede consultar en: https://sede.administracionespublicas.gob.es/procedimientos/index/categoria/34
 
-- Si se presenta **por cuenta propia** → se notifica por la vía indicada en la solicitud (correo postal, etc.).
+> [!NOTE]
+> Para solicitantes de protección internacional (DA 20ª), la TIE solo se solicitará si el plazo de vigencia de la autorización es superior a seis meses.
+
+### 12.6. Notificaciones y domicilio en la solicitud
+
+- Si se presenta **por cuenta propia** → se notifica por la vía indicada en la solicitud.
 - Si se presenta **a través de abogado/a** → se le notifica al profesional.
 - Si se presenta **a través de entidad colaboradora** → se notifica a la entidad, que avisa al solicitante.
 
 > [!TIP]
 > Es muy importante que el domicilio indicado en la solicitud sea **donde se vive realmente**, aunque no coincida con el del padrón, para que las notificaciones lleguen correctamente.
 
-### 12.5. Toma de huellas
+### 12.7. Modificación y prórroga de la autorización
 
-- Una vez obtenida resolución favorable, se solicita cita para la **toma de huellas** en el mes siguiente.
-- **No se exigirá estar empadronado** para la toma de huellas. Si no se tiene padrón, se puede aportar cualquier documento válido que acredite nombre y dirección.
+Una vez transcurrido el año de vigencia de la autorización, existen dos vías:
+
+#### A) Modificación (vía preferente)
+
+Se puede solicitar la **modificación** de la autorización conforme al procedimiento establecido en las Hojas Informativas 55 y 55bis. Esto permite transformarla en una autorización de residencia y trabajo ordinaria.
+
+- **Plazo de solicitud:** Durante los 2 meses previos a la expiración o dentro de los 3 meses posteriores a la finalización de la vigencia.
+- **Efecto de presentar la solicitud:** Prorroga la validez de la autorización anterior hasta la resolución del procedimiento.
+- **Alta en Seguridad Social:** En el plazo de 1 mes desde la notificación, la persona debe ser afiliada y dada de alta en el régimen de Seguridad Social correspondiente (la eficacia de la autorización está condicionada a esta alta).
+- **TIE tras modificación:** En el plazo de 1 mes desde el alta en la Seguridad Social, debe solicitar la tarjeta de identidad de extranjero.
+
+#### B) Prórroga (vía excepcional)
+
+Si **no se puede** solicitar una modificación, la autorización podrá ser prorrogada acreditando:
+
+**Prórroga por 1 año:**
+- Estar en **búsqueda activa de empleo** y debidamente inscrito/a en el servicio público de empleo, **o**
+- Aportar un **informe de esfuerzo de integración** emitido por los órganos competentes de la Comunidad Autónoma de residencia. El informe certificará, entre otros elementos, el aprendizaje de las lenguas oficiales del lugar de residencia.
+- En su caso, informe sobre escolarización de menores a cargo en España.
+
+**Prórroga por 4 años:**
+Si concurren circunstancias que impidan el acceso al empleo por razones debidamente justificadas:
+- **Enfermedad grave o discapacidad** de la persona solicitante, de su cónyuge o descendiente de primer grado (menor de edad o mayor que no sea objetivamente capaz de proveer sus propias necesidades).
+- **Haber alcanzado la edad legal de jubilación.** En este supuesto la prórroga tendrá una duración de **4 años**.
+
+> [!NOTE]
+> **Silencio administrativo en prórrogas:** Transcurrido el plazo de 3 meses sin notificación, la solicitud de prórroga se entenderá **estimada** (silencio positivo), a diferencia de la solicitud inicial donde el silencio es negativo.
 
 ---
 
@@ -561,7 +748,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **NO.**
 
-**Explicación:** Solo se requieren antecedentes penales de los países donde se haya residido legalmente (con permiso de residencia, DNI, etc.). Los países de tránsito sin residencia legal no cuentan. Una persona con ruta migratoria larga no tiene que pedir antecedentes de todos los países de paso.
+**Explicación:** Solo se requieren antecedentes penales de los países donde se haya residido durante los cinco últimos años anteriores a la entrada en España. Los países de tránsito sin residencia no cuentan. Una persona con ruta migratoria larga no tiene que pedir antecedentes de todos los países de paso.
 
 ### 13.3. Llegada en patera
 
@@ -571,7 +758,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ.**
 
-**Explicación:** La forma de entrada en España no importa. Lo único necesario es acreditar haber entrado antes del 1 de enero de 2026. Puede hacerse con cualquier documento que sitúe a la persona en territorio español en esa fecha (ver Sección 6 — El Cluedo Probatorio — para el listado de pruebas válidas).
+**Explicación:** La forma de entrada en España no importa. Lo único necesario es acreditar haber entrado antes del 1 de enero de 2026. Puede hacerse con cualquier documento que sitúe a la persona en territorio español en esa fecha: tarjetas de transporte, remesas, citas médicas, contratos de suministros, compras documentadas, documentación de entidades sociales, documentación previa de extranjería, fotografías geolocalizadas, correspondencia, contratos de alquiler, etc. Cada prueba suma.
 
 ### 13.4. Solicitante de asilo con tarjeta roja
 
@@ -581,7 +768,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **NO. NUNCA.**
 
-**Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar a su solicitud de asilo. Ambos procedimientos son totalmente compatibles. La solicitud de asilo quedará en pausa mientras se tramita la regularización y se reactivará si esta es denegada. (Ver Sección 8 para el desarrollo completo de esta situación.)
+**Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar a su solicitud de asilo. Se tramita por la vía de la **DA 20ª** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)). Ambos procedimientos son totalmente compatibles. La solicitud de asilo quedará en pausa mientras se tramita la regularización: si la regularización es favorable, la solicitud de PI decae; si es denegada, la solicitud de PI se reactiva.
 
 ### 13.5. Arraigo denegado
 
@@ -589,7 +776,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Pregunta:** "Me han denegado el arraigo sociolaboral y me piden que salga del país. Llevo casi 4 años en España. ¿Qué hago?"
 
-**Respuesta:** Acogerte a la regularización extraordinaria cuando se abra el plazo (hasta el 30 de junio de 2026).
+**Respuesta:** Acogerte a la regularización extraordinaria (plazo abierto hasta el 30 de junio de 2026).
 
 **Explicación:** Una denegatoria de arraigo no impide acceder a la regularización extraordinaria. Los requisitos de esta vía son más flexibles que los del arraigo ordinario. La denegatoria previa no penaliza tu nueva solicitud.
 
@@ -611,7 +798,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** Es una situación frecuente y denunciada.
 
-**Explicación:** Si el/la hijo/a está inscrito/a con el apellido del padre, se necesita un poder de este autorizando la regularización. El chantaje económico es denunciable. Si el padre está ausente o desaparecido, se puede intentar un procedimiento de búsqueda. Ver Sección 10 (Caso B) para los pasos concretos según cada situación familiar.
+**Explicación:** Si el/la hijo/a está inscrito/a con el apellido del padre, se necesita un **PODER** del padre otorgando la autorización para que el menor se regularice vía la madre. El chantaje económico es denunciable. Si el padre está ausente o desaparecido, se puede intentar un procedimiento de búsqueda (habeas corpus para padres ausentes). En todos los casos se necesita: pasaporte completo del menor, acta/certificado de nacimiento apostillado (traducido si procede), y padrón de convivencia histórico.
 
 ### 13.8. Persona con discapacidad o a cargo de persona con discapacidad
 
@@ -621,7 +808,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ**, pueden regularizarse.
 
-**Explicación:** Durante el año de vigencia de la autorización se tramita la documentación necesaria (informes de Servicios Sociales, etc.) para prorrogar el permiso. Existe el trámite de "enfermedad sobrevenida" aplicable a este caso. Además, los hijos/hijas mayores con discapacidad a cargo del/la solicitante son una de las vías de acceso (Vía B — unidad familiar), lo que exime de acreditar medios económicos e informe de habitabilidad.
+**Explicación:** Durante el año de vigencia de la autorización se tramita la documentación necesaria (informes de Servicios Sociales, etc.) para prorrogar el permiso. La prórroga por enfermedad grave o discapacidad del solicitante, cónyuge o descendiente de primer grado se concede por **4 años**. Para solicitarla, se acreditan las circunstancias que impiden el acceso al empleo (enfermedad grave, discapacidad o haber alcanzado la edad legal de jubilación). Además, los hijos/hijas mayores con discapacidad a cargo del/la solicitante son una de las vías de acceso (Vía B — unidad familiar), lo que exime de acreditar medios económicos e informe de habitabilidad.
 
 ### 13.9. Persona en trámite activo de arraigo
 
@@ -631,7 +818,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ**, en principio.
 
-**Explicación:** Puedes acogerte a la regularización extraordinaria aunque tengas un arraigo en curso. El trámite de arraigo quedará en pausa — no se pierde. Las solicitudes de arraigo en trámite se resolverán favorablemente si se cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación (ver Sección 9).
+**Explicación:** Puedes acogerte a la regularización extraordinaria aunque tengas un arraigo en curso. El trámite de arraigo quedará en pausa — no se pierde. Las solicitudes de arraigo en trámite se resolverán favorablemente si se cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación. No renuncies al arraigo.
 
 ### 13.10. Persona con asilo denegado y recurso de reposición
 
@@ -671,7 +858,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **DEPENDE** de si la estancia sigue o no vigente.
 
-**Explicación:** Si la tarjeta ha caducado y no se ha renovado, la persona está en situación irregular y puede acogerse. Si la estancia sigue vigente, no puede acogerse. Sobre el arraigo: las personas con arraigo en trámite pueden compatibilizar ese trámite con la regularización extraordinaria — el arraigo quedará en pausa sin perderse (ver Sección 9).
+**Explicación:** Si la tarjeta ha caducado y no se ha renovado, la persona está en situación irregular y puede acogerse. Si la estancia sigue vigente, no puede acogerse. Sobre el arraigo: las personas con arraigo en trámite pueden compatibilizar ese trámite con la regularización extraordinaria — el arraigo quedará en pausa sin perderse, y se resolverá favorablemente si se cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación.
 
 ### 13.14. Hijos menores de padres ya regularizados
 
@@ -681,7 +868,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ.**
 
-**Explicación:** La regularización extraordinaria flexibiliza los requisitos para hijos/as de padres ya regularizados. A diferencia del reglamento ordinario (que exige 2 años de permanencia en España y condiciones económicas), con esta regularización no es necesario cumplir dichas condiciones.
+**Explicación:** La regularización extraordinaria flexibiliza los requisitos para hijos/as de padres ya regularizados. Según las hojas informativas oficiales, la flexibilización (exención de permanencia de 2 años, medios económicos y vivienda) **también** podrá aplicarse a hijos e hijas cuyos progenitores sean titulares de una autorización de residencia. A diferencia del reglamento ordinario, no es necesario cumplir dichas condiciones.
 
 ### 13.15. Multa por estancia irregular
 
@@ -701,7 +888,17 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **NO. No depende del Congreso.**
 
-**Explicación:** Esta regularización se aprueba mediante un **Real Decreto (Reglamento)**, que es potestad exclusiva del Gobierno. Al no ser un Real Decreto-Ley, no necesita pasar por el Congreso para su convalidación ni votación. Lo que se vote en el Congreso no tiene implicación directa en este Real Decreto. Puedes empezar a reunir documentación ahora sin esperar.
+**Explicación:** Esta regularización se aprueba mediante un **Real Decreto (Reglamento)**, que es potestad exclusiva del Gobierno. Al no ser un Real Decreto-Ley, no necesita pasar por el Congreso para su convalidación ni votación. Lo que se vote en el Congreso no tiene implicación directa en este Real Decreto. **El RD 316/2026 ya ha sido publicado en el BOE y está en vigor desde el 16 de abril de 2026.**
+
+### 13.17. Personas con protección temporal de Ucrania
+
+**Perfil:** Persona titular o extitular de autorización de residencia por protección temporal de Ucrania.
+
+**Pregunta:** "Tengo o tuve protección temporal por el conflicto de Ucrania. ¿Puedo acogerme?"
+
+**Respuesta:** **NO.**
+
+**Explicación:** El RD 316/2026 excluye expresamente a las personas titulares o que hayan sido titulares de autorización de residencia obtenida conforme a la Decisión de Ejecución (UE) 2022/382 del Consejo de 4 de marzo de 2022 (protección temporal por desplazamiento de Ucrania). Esta exclusión aplica tanto a la DA 20ª (solicitantes de PI) como a la DA 21ª (arraigo extraordinario).
 
 ---
 
@@ -734,7 +931,7 @@ La Regularización Extraordinaria **NO** nace "de un huevo Kinder" ni de la volu
 | **2020** | El movimiento Regularización Ya impulsa una **Proposición No de Ley** en el Congreso de los Diputados. Fue rechazada por los mismos partidos que hoy "se cuelgan la medalla" de haber sacado la regularización. En aquel momento, estos partidos argumentaron que el Pacto Europeo de Migración y Asilo no lo permitía. **ERA MENTIRA.** El movimiento lo sabía y siguió insistiendo. |
 | **2021** | Se presenta la **Iniciativa Legislativa Popular (ILP)** tras un esfuerzo masivo. Se colaron tres textos que no contravenían la Ley Orgánica de Extranjería, aprovechando un artículo con el que se había hecho la primera regularización en 2001. Las portavoces eran trabajadoras del hogar y los cuidados, manteros, jornaleros, temporeros, trabajadoras sexuales: los trabajos a los que la Ley de Extranjería condena a las personas migrantes. Se organizaron **MÁS DE 18 COMITÉS TERRITORIALES** en toda España. Se recogieron **MÁS DE 700.000 FIRMAS** en la calle, en fiestas, en charlas, en todos los eventos posibles. |
 | **2023** | Los partidos que habían dicho apoyar la ILP se olvidaron durante las elecciones; en ninguna plataforma electoral aparecía el apoyo a la ILP. Estos mismos partidos votaron calladamente el traspaso de competencias propuesto por Junts per Catalunya, que definía a las personas migrantes como "peligro para la sociedad" y se sumaba al discurso de la deportación. El movimiento presionó a Podemos para que bloqueara un acuerdo de traspaso de competencias que, en la práctica, significaba traspasar delegaciones para deportar y gestionar CIE (Centros de Internamiento de Extranjeros). |
-| **2026** | Se forzó un pacto entre PSOE y Podemos. Al PSOE le interesaba volver a sentarse con Junts para trazar presupuestos. Esta vez, las personas migrantes como "moneda de cambio" salieron a cuenta. El movimiento presionó hasta el último momento. Regularización Ya estuvo redactando hasta el último momento lo que se le traspasó al Consejo de Estado. |
+| **2026** | Se forzó un pacto entre PSOE y Podemos. Al PSOE le interesaba volver a sentarse con Junts para trazar presupuestos. Esta vez, las personas migrantes como "moneda de cambio" salieron a cuenta. El movimiento presionó hasta el último momento. Regularización Ya estuvo redactando hasta el último momento lo que se le traspasó al Consejo de Estado. **El 14 de abril de 2026 se aprobó el Real Decreto 316/2026**, publicado en el BOE el 15 de abril. |
 
 ### Deconstrucción narrativa
 
@@ -795,15 +992,7 @@ Desde Regularización Ya y las entidades aliadas:
 - Se prepara **CARTELERÍA** específica con instrucciones claras.
 - Cada quince días hay un punto de asesoramiento migrante en el Círculo de Migraciones de Coòpolis.
 
-### 16.3. Próximos eventos (a fecha de compilación)
-
-📅 **28 DE MARZO DE 2026:** Manifestación de unidad contra el fascismo y el racismo. Regularización Ya habilitará:
-- Mesa de asesoramiento **PREVIA** a la manifestación
-- Mesa de asesoramiento **POSTERIOR**
-- Solo para **CONSULTAS** (no traer todos los papeles, pueden perderse).
-- Se recogerán datos para acompañamiento posterior.
-
-### 16.4. Canales de información oficiales de Regularización Ya
+### 16.3. Canales de información oficiales de Regularización Ya
 
 Regularización Ya tiene canales oficiales en:
 - Canal de difusión en **Telegram**
@@ -817,14 +1006,14 @@ Regularización Ya tiene canales oficiales en:
 > - Rumores sobre cupos o fechas
 > - Personas que cobran por "asegurar tu plaza"
 
-El texto definitivo será el publicado en el **BOLETÍN OFICIAL DEL ESTADO (BOE)**.
+El texto definitivo es el **Real Decreto 316/2026, de 14 de abril**, publicado en el BOE: https://www.boe.es/eli/es/rd/2026/04/14/316
 
-### 16.5. Entidades colaboradoras — Registro
+### 16.4. Entidades colaboradoras — Registro
 
 A partir del 5 de marzo de 2026 se ha abierto un registro (orden publicada en BOE) para que entidades puedan inscribirse como **COLABORADORAS DE EXTRANJERÍA**. Esto les permitirá:
 - Acceder a la plataforma **MERCURIO**
 - Presentar solicitudes telemáticamente
-- Emitir informes
+- Emitir informes / certificados de vulnerabilidad
 
 No solo entidades grandes: también entidades pequeñas pueden registrarse.
 
@@ -836,34 +1025,99 @@ No solo entidades grandes: también entidades pequeñas pueden registrarse.
 - Declaración jurada de protección de datos.
 - Deben ser **entidades sin fines de lucro**.
 
-### 16.6. Coordinaciones territoriales activas
+**Listado actualizado de entidades colaboradoras:** https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+
+
+### 16.5. Coordinaciones territoriales activas
 
 Regularización Ya tiene coordinaciones activas en:
 - Canarias, Cataluña, Valencia, Málaga, Galicia, Aragón, Asturias, Murcia
 - Partes de Andalucía
 - Comunidad de Madrid
 
-### 16.7. Llamamiento contra estafas
+### 16.6. Llamamiento contra estafas
 
 > [!CAUTION]
 > **No paguen por este procedimiento.** Hay personas que cobran 500, 600, 700, 800 euros por hacer el expediente cuando va a ser un **proceso gratuito** a través de las entidades colaboradoras oficiales. Acudan a las entidades colaboradoras oficiales.
 
 ---
 
-## 17. Resumen rápido
+## 17. Documentos de interés, formularios y vídeos
+
+### Documentos de interés
+
+| Documento | Enlace |
+|---|---|
+| Preguntas y respuestas (PDF) | https://inclusion.gob.es/documents/20121/7817425/Preguntas%20y%20respuestas.pdf |
+| Modelo de certificado de vulnerabilidad (PDF) | https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf |
+| Entidades colaboradoras (PDF, actualizado 16/04/2026) | https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf |
+| BOE — Real Decreto 316/2026, de 14 de abril | https://www.boe.es/eli/es/rd/2026/04/14/316 |
+
+### Hojas informativas
+
+| Documento | Enlace |
+|---|---|
+| 28 Ter. Arraigo extraordinario (DA21ª) — Personas en situación irregular | https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf |
+| 28 bis. Solicitantes de Protección Internacional (DA20ª) | https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf |
+
+### Formularios
+
+| Formulario | Enlace |
+|---|---|
+| EX-31. Solicitantes PI (DA20ª) | https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf |
+| EX-31. Ídem — versión **Editable** | https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.%20Editable.pdf |
+| EX-32. Arraigo extraordinario (DA21ª) | https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf |
+| EX-32. Ídem — versión **Editable** | https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.%20Editable.pdf |
+
+### Acciones principales
+
+| Acción | Enlace |
+|---|---|
+| Iniciar el trámite *(requiere Certificado Digital)* | https://mercurio.delegaciondelgobierno.gob.es/mercurio/inicioMercurio.html |
+| Verificar si cumples los requisitos (simulador) | https://inclusion.gob.es/web/guest/simulador-de-requisitos-regularizacion-extraordinaria-2026 |
+| Consultar entidades colaboradoras | https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf |
+| Formulario de consultas | https://www.inclusion.gob.es/formulario-consultas-regularizacion-extraordinaria-2026 |
+| Solicitud de TIE (documentación) | https://sede.administracionespublicas.gob.es/procedimientos/index/categoria/34 |
+
+### Vídeo tutoriales
+
+| Título | Duración | Enlace |
+|---|---|---|
+| ¿Cómo solicitar cita previa? | 1:12 min | https://youtube.com/watch?v=LDsOYJCwGsc |
+| ¿Las personas con Protección Temporal deben acogerse a la regularización? | 0:56 min | https://youtube.com/watch?v=tXCC0HcWGhg |
+
+> Para dudas específicas, puedes usar el **formulario de consultas**: https://www.inclusion.gob.es/formulario-consultas-regularizacion-extraordinaria-2026
+
+---
+
+## 18. Normativa básica de referencia
+
+| Norma | Descripción |
+|---|---|
+| **Ley Orgánica 4/2000**, de 11 de enero | Sobre derechos y libertades de los extranjeros en España y su integración social (art. 31.3) |
+| **Real Decreto 1155/2024**, de 19 de noviembre | Reglamento de la Ley Orgánica 4/2000 (DT6ª, DA20ª, DA21ª) |
+| **Real Decreto 316/2026**, de 14 de abril | Modifica el RD 1155/2024. **Texto base de esta regularización extraordinaria.** [BOE](https://www.boe.es/eli/es/rd/2026/04/14/316) |
+| **Orden PJC/617/2025**, de 13 de junio | Tasas por tramitación de autorizaciones administrativas en materia de extranjería |
+
+---
+
+## 19. Resumen rápido
 
 ### ✅ Requisitos básicos (debes cumplir TODOS)
 
-1. Entrar en España **ANTES** o el 31/12/2025
-2. Llevar al menos **5 meses SEGUIDOS** viviendo en España
-3. **No** tener antecedentes penales (si los has tenido, deben estar cancelados; ver [sección 7](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
+1. Ser **mayor de edad**
+2. Entrar en España **ANTES** o el 31/12/2025
+3. Estar en España en el **momento de solicitar**
+4. Llevar al menos **5 meses SEGUIDOS** viviendo en España
+5. **No** tener antecedentes penales (si los has tenido, deben estar cancelados: los penales ante el Ministerio de Justicia, los policiales ante el cuerpo policial correspondiente; solicita la cancelación ANTES de iniciar trámites)
+6. **No** ser titular de autorización de estancia o residencia vigente
 
 **+ Estar en al menos UNA de estas situaciones:**
 
 | Vía | Descripción                                                            |
 |-----|------------------------------------------------------------------------|
-| **A** | Oferta de empleo / haber trabajado (contrato >90 días o declaración responsable)             |
-| **B** | Unidad familiar: hijos menores, mayores con discapacidad o ascendientes de primer grado                |
+| **A** | Oferta de empleo / haber trabajado (o declaración responsable para cuenta propia) |
+| **B** | Unidad familiar: hijos menores, mayores con discapacidad o ascendientes de primer grado |
 | **C** | Situación de vulnerabilidad (incluida la irregularidad administrativa) |
 
 ### 📅 Plazos
@@ -871,29 +1125,34 @@ Regularización Ya tiene coordinaciones activas en:
 | Concepto | Fecha                                            |
 |----------|--------------------------------------------------|
 | Fecha de corte | 31 de diciembre de 2025                          |
-| Presentación | Abril – 30 de junio de 2026 |
-| Admisión a trámite | 15 días hábiles desde la presentación                    |
-| Duración del permiso | 1 año (modificable a 4 años)                              |
+| Apertura del plazo | **16 de abril de 2026** |
+| Cierre del plazo | **30 de junio de 2026** |
+| Plazo de resolución | 3 meses desde entrada en registro |
+| Duración del permiso | 1 año (modificable o prorrogable)                |
 
 ### 📄 Documentos mínimos
 
-- Pasaporte **COMPLETO** (o cédula de inscripción o título de viaje)
-- Antecedentes penales del país de origen (apostillados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**)
-- Cancelación de antecedentes penales/policiales en España si procede (ver [sección 7](#7-cancelación-de-antecedentes-penales-y-policiales-en-españa))
+- Pasaporte **COMPLETO** — todas las páginas — (en vigor o caducado), cédula de inscripción o título de viaje
+- Antecedentes penales de los países de residencia de los últimos 5 años (apostillados/legalizados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**). Si no se reciben en 1 mes: Anexo I-1 y Anexo I-2.
+- Cancelación de antecedentes penales/policiales en España si procede (penales ante el Ministerio de Justicia; policiales ante el cuerpo policial correspondiente; solicitar la cancelación ANTES de iniciar trámites)
 - Padrón histórico **O** pruebas de estancia (el "cluedo")
-- Informe de vulnerabilidad (para la vía C)
-- Oferta de empleo (para la vía A)
+- Certificado de vulnerabilidad — Anexo II (para la vía C)
+- Oferta de empleo o documentación laboral (para la vía A)
+- Documentación de vínculo familiar y convivencia (para la vía B)
 - Certificados de nacimiento de menores (para la vía B)
+- Formulario **EX-31** (solicitantes PI) o **EX-32** (arraigo extraordinario)
+- Justificante del abono de la tasa
 
 ### ❌ Lo que NO debes hacer
 
 - Renunciar a tu solicitud de asilo
-- Pagar a abogados por explicaciones de borradores
-- Dar crédito a bulos que circular por internet.
-- Tomar decisiones irreversibles antes del BOE
+- Pagar cantidades abusivas por "gestionar" el expediente
+- Dar crédito a bulos que circulan por internet
+- Dejar pasar el plazo (30 de junio de 2026)
 
 ### ✅ Lo que SÍ debes hacer YA
 
+- **Solicitar la regularización** (el plazo ya está abierto desde el 16 de abril)
 - Pedir cita para el padrón histórico
 - Recopilar pruebas de estancia (el "cluedo")
 - Solicitar antecedentes penales del país de origen
@@ -901,6 +1160,7 @@ Regularización Ya tiene coordinaciones activas en:
 - Verificar que el traductor jurado esté reconocido en España
 - Informarte solo por canales oficiales
 - Contactar con entidades de confianza para asesoramiento
+- Usar el **simulador de requisitos**: https://inclusion.gob.es/web/guest/simulador-de-requisitos-regularizacion-extraordinaria-2026
 
 ---
 
@@ -912,14 +1172,22 @@ Este manual ha sido compilado a partir de las siguientes fuentes:
 - El Tablero, 6 marzo 2026 (Redwan Baddouh, Regularización Ya)
 - El Tablero, 27 febrero 2026 (Redwan Baddouh, Regularización Ya)
 - El Tablero, 13-14 marzo 2026 (Redwan Baddouh, Regularización Ya)
-- **El Tablero, 27 marzo 2026 (Redwan Baddouh, Regularización Ya)**
-- **Webinar 30 marzo 2026 (Regularización Ya — Silvana Cabrera, Belinda Entutumu, Victoria Columba, Redwan Baddouh, Edith Espínola)**
+- El Tablero, 27 marzo 2026 (Redwan Baddouh, Regularización Ya)
+- Webinar 30 marzo 2026 (Regularización Ya — Silvana Cabrera, Belinda Entutumu, Victoria Columba, Redwan Baddouh, Edith Espínola)
 - Material informativo: "Cómo cancelar antecedentes penales y policiales" (Regularización Ya)
+- **Página oficial de preguntas frecuentes del Gobierno de España (abril 2026)**
+- **Hoja informativa 28 bis — DA20ª: Solicitantes de Protección Internacional (abril 2026)**
+- **Hoja informativa 28 Ter — DA21ª: Arraigo extraordinario (abril 2026)**
+- **Real Decreto 316/2026, de 14 de abril (BOE 15/04/2026)**
 
-Toda la información se ha cruzado y verificado entre las ocho fuentes. En caso de aparentes contradicciones, se han integrado las aclaraciones más recientes y se ha indicado cuando un punto está pendiente de confirmación en el BOE.
+Toda la información se ha cruzado y verificado entre las once fuentes. En caso de contradicciones entre las fuentes anteriores (charlas, webinars) y los documentos oficiales publicados, **prevalece la normativa oficial del RD 316/2026 y las hojas informativas del Ministerio**.
 
 ---
 
 ### ¡REGULARIZACIÓN YA!
 
 > *"No estamos pidiendo favores, estamos exigiendo justicia social."*
+
+## Nota legal
+
+> Estos materiales son **informativos y orientativos**. Para información oficial definitiva, consulta siempre las fuentes gubernamentales y el **Real Decreto 316/2026, de 14 de abril**, publicado en el BOE: https://www.boe.es/eli/es/rd/2026/04/14/316
