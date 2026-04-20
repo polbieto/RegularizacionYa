@@ -32,7 +32,7 @@
 Hay abogados y abogadas privados que están cobrando cantidades abusivas por "gestionar" el procedimiento. **CUIDADO:**
 
 - **NO** es necesario contratar un abogado para presentar la solicitud. Puedes presentarla tú mismo/a.
-- Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: entidades del tercer sector, ONG, organizaciones como Regularización Ya, Sembrar, Bloque Anticolonial de Barcelona, Tic Tac Antirracista, y muchas más están articulando redes de asesoramiento gratuito.
+- Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: las **entidades colaboradoras de extranjería** están articulando redes de asesoramiento gratuito. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
 - Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
 
 > [!CAUTION]
@@ -434,7 +434,7 @@ Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
 > [!TIP]
 > - **Solicita la cancelación de tus antecedentes ANTES de iniciar trámites de extranjería.** No esperes a que se abra el plazo.
 > - **Guarda siempre todos los justificantes y las resoluciones** de la cancelación.
-> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito**: Regularización Ya, Círculo de Migraciones, AILA Ilegal, Sembrar, Bloque Anticolonial de Barcelona, Tic Tac Antirracista, Red Acoge, entre otras. Consulta el listado actualizado de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito**. Consulta el listado actualizado de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
 
 ---
 
@@ -981,21 +981,9 @@ El movimiento denuncia explícitamente a la **DGAIA** (Dirección General de Ate
 
 ## 16. Recursos y acompañamiento
 
-### 16.1. Organizaciones y entidades de referencia
+### 16.1. Entidades colaboradoras con Extranjería
 
-- **REGULARIZACIÓN YA** (movimiento impulsor)
-- **CÍRCULO DE MIGRACIONES** (Coòpolis, Barcelona)
-- **AILA ILEGAL** (asesoría en extranjería)
-- **SEMBRAR**
-- **BLOQUE ANTICOLONIAL DE BARCELONA**
-- **TIC TAC ANTIRRACISTA**
-- **RED ACOGE**
-- **REDES**
-- **COORDINADORA DE BARRIOS**
-- **LA TREGUA**
-- **ESPAI LA DRETA**
-- **MIGRES**
-- **ÒPOLIS**
+Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes para presentar tu solicitud. Consulta el **listado oficial actualizado** de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
 
 ### 16.2. Asesoramiento gratuito
 
