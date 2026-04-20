@@ -709,11 +709,11 @@ En el plazo de **un mes** desde la notificación de la concesión de la autoriza
 
 ### 12.7. Modificación y prórroga de la autorización
 
-Una vez transcurrido el año de vigencia de la autorización, existen dos vías:
+Una vez transcurrido el año de vigencia de la autorización, existen dos vías para mantener los papeles:
 
 #### A) Modificación (vía preferente)
 
-Se puede solicitar la **modificación** de la autorización conforme al procedimiento establecido en las Hojas Informativas 55 y 55bis. Esto permite transformarla en una autorización de residencia y trabajo ordinaria.
+Se puede solicitar la **modificación** de la autorización. Esto permite transformarla en una autorización de residencia y trabajo ordinaria.
 
 - **Plazo de solicitud:** Durante los 2 meses previos a la expiración o dentro de los 3 meses posteriores a la finalización de la vigencia.
 - **Efecto de presentar la solicitud:** Prorroga la validez de la autorización anterior hasta la resolución del procedimiento.
