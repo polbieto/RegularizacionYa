@@ -1,7 +1,7 @@
 # MANUAL SOBRE LA REGULARIZACIÓN EXTRAORDINARIA
 
 
-**Fuentes:** Transcripciones de charlas informativas, webinars y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero – marzo 2026). Hojas informativas oficiales del Ministerio de Inclusión, Seguridad Social y Migraciones (28 bis — DA20ª y 28 Ter — DA21ª). Página oficial de preguntas frecuentes del Gobierno de España (abril 2026). Material informativo elaborado por Regularización Ya sobre cancelación de antecedentes penales y policiales.
+**Fuentes:** Transcripciones de charlas informativas, webinars y entrevistas del movimiento "Regularización Ya" y el "Círculo de Migraciones" (enero – marzo 2026). Hojas informativas oficiales del Ministerio de Inclusión, Seguridad Social y Migraciones (28 bis — arraigo para solicitantes de protección internacional y 28 Ter — arraigo extraordinario). Página oficial de preguntas frecuentes del Gobierno de España (abril 2026). Material informativo elaborado por Regularización Ya sobre cancelación de antecedentes penales y policiales.
 
 **Fecha de compilación:** 18 de abril de 2026 (actualizado conforme al **Real Decreto 316/2026, de 14 de abril**, publicado en el BOE el 15 de abril de 2026).
 
@@ -71,10 +71,10 @@ Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (ser
 
 El RD 316/2026 establece **dos disposiciones adicionales** al Reglamento de Extranjería:
 
-| Disposición | Dirigida a | Formulario | Hoja informativa |
+| Vía | Dirigida a | Formulario | Hoja informativa |
 |---|---|---|---|
-| **DA 20ª** | Solicitantes de **Protección Internacional** (asilo) | [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) | [28 bis](https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) |
-| **DA 21ª** | Personas en **situación administrativa irregular** | [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) | [28 Ter](https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) |
+| **arraigo para solicitantes de protección internacional** | Solicitantes de **Protección Internacional** (asilo) | [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) | [28 bis](https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) |
+| **arraigo extraordinario** | Personas en **situación administrativa irregular** | [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) | [28 Ter](https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) |
 
 ### Personas que SÍ pueden acogerse ✅
 
@@ -120,7 +120,7 @@ Se deben cumplir **TODOS** los siguientes:
    Si se ha solicitado el certificado de antecedentes penales y transcurre **un mes sin recibirlo**, la Unidad de Tramitación de Expedientes de Extranjería solicitará al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes que lo recabe **por vía diplomática** a través de las Misiones Diplomáticas de España. El procedimiento quedará **suspendido un máximo de 3 meses** mientras se espera la respuesta. Para ello, se deben presentar el **Anexo I-1** y el **Anexo I-2** adjuntos al formulario.
 
 6. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI ENCONTRARSE EN TRÁMITE DE UNA**
-   Si ya tienes una autorización vigente o un trámite activo de concesión, prórroga, renovación o modificación, no puedes acogerte. **Excepción — régimen transitorio (DT 2ª):** Las solicitudes de arraigo presentadas **entre el 20 de mayo de 2025 y el 16 de abril de 2026** que se hallen en tramitación se resolverán con los requisitos simplificados de la DA 21ª, sin necesidad de volver a presentar documentación.
+   Si ya tienes una autorización vigente o un trámite activo de concesión, prórroga, renovación o modificación, no puedes acogerte. **Excepción — régimen transitorio (DT 2ª):** Las solicitudes de arraigo presentadas **entre el 20 de mayo de 2025 y el 16 de abril de 2026** que se hallen en tramitación se resolverán con los requisitos simplificados del arraigo extraordinario, sin necesidad de volver a presentar documentación.
 
 7. **NO REPRESENTAR AMENAZA AL ORDEN PÚBLICO, LA SEGURIDAD PÚBLICA O LA SALUD PÚBLICA**
    Se revisa caso por caso a través de antecedentes policiales.
@@ -290,7 +290,7 @@ No solo serán entidades grandes; también entidades pequeñas pueden registrars
 > [!WARNING]
 > **Sobre el informe de vulnerabilidad:** Aunque la situación administrativa irregular se presume vulnerable, **Regularización Ya recomienda intentar obtener el certificado igualmente**. Si la administración lo requiere posteriormente, solo dará un plazo de **10 días hábiles** para aportarlo. Es mejor tenerlo preparado que arriesgarse a no poder conseguirlo en ese plazo. El modelo de certificado de vulnerabilidad se puede descargar aquí: https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf
 
-### 5.5. Documentación para solicitantes de protección internacional (DA 20ª — Formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf))
+### 5.5. Documentación para solicitantes de protección internacional (arraigo para solicitantes de protección internacional — Formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf))
 
 Si eres solicitante de protección internacional (asilo), la documentación específica es:
 
@@ -301,7 +301,7 @@ Si eres solicitante de protección internacional (asilo), la documentación espe
 5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
 6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
 
-### 5.6. Documentación para arraigo extraordinario (DA 21ª — Formulario [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf))
+### 5.6. Documentación para arraigo extraordinario (arraigo extraordinario — Formulario [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf))
 
 Si estás en situación administrativa irregular, la documentación depende de la vía de acceso elegida:
 
@@ -440,7 +440,7 @@ Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
 
 ## 8. Solicitantes de protección internacional (asilo / tarjeta roja)
 
-Los solicitantes de asilo **sí pueden** acogerse a la regularización extraordinaria **sin renunciar previamente** a su solicitud en trámite. El RD 316/2026 establece una **vía específica** para ellos a través de la **Disposición Adicional 20ª** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)).
+Los solicitantes de asilo **sí pueden** acogerse a la regularización extraordinaria **sin renunciar previamente** a su solicitud en trámite. El RD 316/2026 establece una **vía específica** para ellos a través del **arraigo para solicitantes de protección internacional** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)).
 
 > [!IMPORTANT]
 > Este es un punto **FUNDAMENTAL** que el movimiento puso "en el centro de la negociación".
@@ -456,7 +456,7 @@ Los solicitantes de asilo **sí pueden** acogerse a la regularización extraordi
 ### ¿Qué ocurre con la solicitud de protección internacional?
 
 - La solicitud de protección internacional se mantiene **activa** mientras se tramita la regularización extraordinaria.
-- **Si la regularización se CONCEDE favorablemente:** la persona **deberá desistir** de su solicitud de protección internacional (o del recurso que tuviera pendiente). Esto es una **obligación legal** establecida en la DA 20ª.4 del RD 316/2026. El desistimiento es un acto que debe realizar activamente el solicitante; la solicitud de PI no decae automáticamente.
+- **Si la regularización se CONCEDE favorablemente:** la persona **deberá desistir** de su solicitud de protección internacional (o del recurso que tuviera pendiente). Esto es una **obligación legal** establecida en el RD 316/2026 (apartado 4 de la regulación del arraigo para solicitantes de protección internacional). El desistimiento es un acto que debe realizar activamente el solicitante; la solicitud de PI no decae automáticamente.
 - **Si la regularización es DENEGADA:** la solicitud de protección internacional se mantiene y continúa su tramitación ordinaria.
 
 > [!WARNING]
@@ -487,7 +487,7 @@ Las oficinas que habían estado "mudas" ahora están agilizando muchas denegator
 ## 9. Compatibilidad con otros trámites en curso
 
 > [!WARNING]
-> **Requisito legal:** Para acogerte a la regularización extraordinaria, la norma exige **no ostentar la condición de persona interesada en procedimientos de concesión, prórroga, renovación o modificación de autorizaciones de estancia o residencia** (DA 20ª.1.b y DA 21ª.1.b). Esto significa que, como regla general, **no se puede tener otro trámite de extranjería activo** al presentar la solicitud de regularización extraordinaria.
+> **Requisito legal:** Para acogerte a la regularización extraordinaria, la norma exige **no ostentar la condición de persona interesada en procedimientos de concesión, prórroga, renovación o modificación de autorizaciones de estancia o residencia** (arraigo para solicitantes de protección internacional, apartado 1.b y arraigo extraordinario, apartado 1.b). Esto significa que, como regla general, **no se puede tener otro trámite de extranjería activo** al presentar la solicitud de regularización extraordinaria.
 
 **Excepción — Régimen transitorio (DT 2ª):**
 
@@ -495,7 +495,7 @@ El RD 316/2026 establece un régimen especial para solicitudes de arraigo **ya p
 
 > [!IMPORTANT]
 > **Solicitudes de arraigo presentadas entre el 20 de mayo de 2025 y el 16 de abril de 2026:**
-> Las solicitudes de autorización de residencia temporal por circunstancias excepcionales (Título VII del Reglamento) que se hallen en tramitación y hubieran sido presentadas **desde el 20 de mayo de 2025 hasta la entrada en vigor del RD 316/2026** se resolverán con los requisitos simplificados de la DA 21ª. Para su concesión se requerirá **únicamente** que la persona solicitante se encontrara en España antes del 1 de enero de 2026 y cumpla los requisitos generales del apartado primero de la DA 21ª. **No hay que volver a presentar documentación ni renunciar al trámite.**
+> Las solicitudes de autorización de residencia temporal por circunstancias excepcionales (Título VII del Reglamento) que se hallen en tramitación y hubieran sido presentadas **desde el 20 de mayo de 2025 hasta la entrada en vigor del RD 316/2026** se resolverán con los requisitos simplificados del arraigo extraordinario. Para su concesión se requerirá **únicamente** que la persona solicitante se encontrara en España antes del 1 de enero de 2026 y cumpla los requisitos generales del apartado primero del arraigo extraordinario. **No hay que volver a presentar documentación ni renunciar al trámite.**
 
 > [!IMPORTANT]
 > **Solicitudes presentadas al amparo de la antigua DT 5ª del RD 1155/2024** (antes de la entrada en vigor del RD 316/2026): requerirán para su concesión **únicamente** que las personas solicitantes acrediten carecer de antecedentes penales y que no representen una amenaza al orden público, seguridad pública y salud pública.
@@ -621,7 +621,7 @@ Para la modificación de la autorización, también puede presentarla el **emple
 
 Las tasas se devengan en el momento de **admisión a trámite** de la solicitud y deben abonarse en el plazo de **diez días hábiles**.
 
-**Para la solicitud inicial (DA 20ª y DA 21ª):**
+**Para la solicitud inicial (arraigo para solicitantes de protección internacional y arraigo extraordinario):**
 
 | Modelo | Epígrafe | Concepto | Quién paga |
 |--------|----------|----------|------------|
@@ -696,7 +696,7 @@ En la práctica, para autentificarte telemáticamente necesitas la tarjeta vigen
 En el plazo de **un mes** desde la notificación de la concesión de la autorización, la persona extranjera deberá solicitar **personalmente** la tarjeta de identidad de extranjero en la Comisaría de Policía o servicios policiales competentes de su lugar de residencia. La documentación a aportar se puede consultar en: https://sede.administracionespublicas.gob.es/procedimientos/index/categoria/34
 
 > [!NOTE]
-> Para solicitantes de protección internacional (DA 20ª), la TIE solo se solicitará si el plazo de vigencia de la autorización es superior a seis meses.
+> Para solicitantes de protección internacional, la TIE solo se solicitará si el plazo de vigencia de la autorización es superior a seis meses.
 
 ### 12.6. Notificaciones y domicilio en la solicitud
 
@@ -781,7 +781,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **NO. NUNCA.**
 
-**Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar previamente a su solicitud de asilo. Se tramita por la vía de la **DA 20ª** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)). Ambos procedimientos son compatibles durante la tramitación. Si la regularización se concede favorablemente, el solicitante **deberá desistir** de su solicitud de PI (obligación legal de la DA 20ª.4). Si la regularización es denegada, la solicitud de PI continúa su tramitación ordinaria.
+**Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar previamente a su solicitud de asilo. Se tramita por la vía del **arraigo para solicitantes de protección internacional** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)). Ambos procedimientos son compatibles durante la tramitación. Si la regularización se concede favorablemente, el solicitante **deberá desistir** de su solicitud de PI (obligación legal del RD 316/2026, apartado 4). Si la regularización es denegada, la solicitud de PI continúa su tramitación ordinaria.
 
 ### 13.5. Arraigo denegado
 
@@ -911,7 +911,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **NO.**
 
-**Explicación:** El RD 316/2026 excluye expresamente a las personas titulares o que hayan sido titulares de autorización de residencia obtenida conforme a la Decisión de Ejecución (UE) 2022/382 del Consejo de 4 de marzo de 2022 (protección temporal por desplazamiento de Ucrania). Esta exclusión aplica tanto a la DA 20ª (solicitantes de PI) como a la DA 21ª (arraigo extraordinario).
+**Explicación:** El RD 316/2026 excluye expresamente a las personas titulares o que hayan sido titulares de autorización de residencia obtenida conforme a la Decisión de Ejecución (UE) 2022/382 del Consejo de 4 de marzo de 2022 (protección temporal por desplazamiento de Ucrania). Esta exclusión aplica tanto al arraigo para solicitantes de protección internacional como al arraigo extraordinario.
 
 ---
 
@@ -1058,16 +1058,16 @@ Regularización Ya tiene coordinaciones activas en:
 
 | Documento | Enlace |
 |---|---|
-| 28 Ter. Arraigo extraordinario (DA21ª) — Personas en situación irregular | https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf |
-| 28 bis. Solicitantes de Protección Internacional (DA20ª) | https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf |
+| 28 Ter. Arraigo extraordinario (arraigo extraordinario) — Personas en situación irregular | https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf |
+| 28 bis. Solicitantes de Protección Internacional (arraigo para solicitantes de protección internacional) | https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf |
 
 ### Formularios
 
 | Formulario | Enlace |
 |---|---|
-| EX-31. Solicitantes PI (DA20ª) | https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf |
+| EX-31. Solicitantes PI (arraigo para solicitantes de protección internacional) | https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf |
 | EX-31. Ídem — versión **Editable** | https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.%20Editable.pdf |
-| EX-32. Arraigo extraordinario (DA21ª) | https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf |
+| EX-32. Arraigo extraordinario (arraigo extraordinario) | https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf |
 | EX-32. Ídem — versión **Editable** | https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.%20Editable.pdf |
 
 ### Acciones principales
@@ -1091,18 +1091,7 @@ Regularización Ya tiene coordinaciones activas en:
 
 ---
 
-## 18. Normativa básica de referencia
-
-| Norma | Descripción |
-|---|---|
-| **Ley Orgánica 4/2000**, de 11 de enero | Sobre derechos y libertades de los extranjeros en España y su integración social (art. 31.3) |
-| **Real Decreto 1155/2024**, de 19 de noviembre | Reglamento de la Ley Orgánica 4/2000 (DT6ª, DA20ª, DA21ª) |
-| **Real Decreto 316/2026**, de 14 de abril | Modifica el RD 1155/2024. **Texto base de esta regularización extraordinaria.** [BOE](https://www.boe.es/eli/es/rd/2026/04/14/316) |
-| **Orden PJC/617/2025**, de 13 de junio | Tasas por tramitación de autorizaciones administrativas en materia de extranjería |
-
----
-
-## 19. Resumen rápido
+## 18. Resumen rápido
 
 ### ✅ Requisitos básicos (debes cumplir TODOS)
 
@@ -1177,8 +1166,8 @@ Este manual ha sido compilado a partir de las siguientes fuentes:
 - Webinar 30 marzo 2026 (Regularización Ya — Silvana Cabrera, Belinda Entutumu, Victoria Columba, Redwan Baddouh, Edith Espínola)
 - Material informativo: "Cómo cancelar antecedentes penales y policiales" (Regularización Ya)
 - **Página oficial de preguntas frecuentes del Gobierno de España (abril 2026)**
-- **Hoja informativa 28 bis — DA20ª: Solicitantes de Protección Internacional (abril 2026)**
-- **Hoja informativa 28 Ter — DA21ª: Arraigo extraordinario (abril 2026)**
+- **Hoja informativa 28 bis — arraigo para solicitantes de protección internacional: Solicitantes de Protección Internacional (abril 2026)**
+- **Hoja informativa 28 Ter — arraigo extraordinario: Arraigo extraordinario (abril 2026)**
 - **Real Decreto 316/2026, de 14 de abril (BOE 15/04/2026)**
 
 Toda la información se ha cruzado y verificado entre las once fuentes. En caso de contradicciones entre las fuentes anteriores (charlas, webinars) y los documentos oficiales publicados, **prevalece la normativa oficial del RD 316/2026 y las hojas informativas del Ministerio**.
