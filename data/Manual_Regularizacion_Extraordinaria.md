@@ -73,13 +73,13 @@ El RD 316/2026 establece **dos disposiciones adicionales** al Reglamento de Extr
 
 | Disposición | Dirigida a | Formulario | Hoja informativa |
 |---|---|---|---|
-| **DA 20ª** | Solicitantes de **Protección Internacional** (asilo / apatridia) | EX-31 | [28 bis](https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) |
-| **DA 21ª** | Personas en **situación administrativa irregular** | EX-32 | [28 Ter](https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) |
+| **DA 20ª** | Solicitantes de **Protección Internacional** (asilo) | [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) | [28 bis](https://inclusion.gob.es/documents/20121/7817425/28%20bis.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) |
+| **DA 21ª** | Personas en **situación administrativa irregular** | [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) | [28 Ter](https://inclusion.gob.es/documents/20121/7817425/28%20Ter.%20Autorizaci%C3%B3n%20residencia%20temporal%20por%20circunstancias%20excepcionales.%20Arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) |
 
 ### Personas que SÍ pueden acogerse ✅
 
 - Personas en situación administrativa irregular que hayan entrado en España **antes del 1 de enero de 2026**.
-- Solicitantes de protección internacional (asilo) o apatridia cuya solicitud se presentó **antes del 1 de enero de 2026**.
+- Solicitantes de protección internacional (asilo) cuya solicitud se presentó **antes del 1 de enero de 2026**.
 - Menores en situación irregular (a través de la solicitud simultánea de sus progenitores).
 - Personas que hayan llegado en patera (u otra vía de entrada irregular), siempre que puedan acreditar haber entrado antes del 1 de enero de 2026.
 - Personas a las que se les ha denegado un arraigo (sociolaboral, socioformativo, social), siempre que cumplan los requisitos de esta regularización extraordinaria.
@@ -111,15 +111,16 @@ Se deben cumplir **TODOS** los siguientes:
 
 5. **NO TENER ANTECEDENTES PENALES**
    Se requieren antecedentes penales limpios en España, en el país de origen y en los países donde se haya residido durante los **cinco últimos años anteriores a la fecha de entrada en España**, por delitos existentes en el ordenamiento español. **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** Los antecedentes penales se cancelan ante el **Ministerio de Justicia** (plazos según gravedad: desde 6 meses para penas leves hasta 10 años para penas graves, contados desde el cumplimiento completo de la pena); los policiales se cancelan por vía administrativa solicitando acceso y posterior cancelación al cuerpo policial correspondiente (respuesta en 1-2 meses). **Solicita la cancelación ANTES de iniciar trámites de extranjería.**
-   - Los antecedentes de España **NO** los tienes que pedir tú; los solicita directamente la Administración.
-   - **Si llevas más de 5 años en España, no es necesario aportar antecedentes de terceros países.**
+   - Los antecedentes de España **NO** los tienes que pedir tú; los solicita directamente la Administración (la Unidad de Tramitación recaba de oficio el informe del Registro Central de Penados, las bases de datos de la UE y el informe policial; estos informes deben emitirse en el plazo de **15 días**).
+   - Los antecedentes del **país de origen** son **SIEMPRE obligatorios**, independientemente del tiempo que lleves en España.
+   - Además, debes aportar antecedentes de los países donde hayas **residido** durante los **5 años anteriores a tu fecha de entrada en España** (ojo: el cómputo se hace desde la fecha de **entrada**, no desde la fecha de solicitud ni desde la fecha actual).
    - Los antecedentes de terceros países deben estar **traducidos** por traductor jurado reconocido en España y **legalizados o apostillados**.
 
    **Excepcionalidad — Antecedentes no recibidos a tiempo:**
-   Si se ha solicitado el certificado de antecedentes penales y transcurre **un mes sin recibirlo**, la Unidad de Tramitación de Expedientes de Extranjería solicitará al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes que lo recabe **por vía diplomática** a través de las Misiones Diplomáticas de España. Para ello, se deben presentar el **Anexo I-1** y el **Anexo I-2** adjuntos al formulario.
+   Si se ha solicitado el certificado de antecedentes penales y transcurre **un mes sin recibirlo**, la Unidad de Tramitación de Expedientes de Extranjería solicitará al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes que lo recabe **por vía diplomática** a través de las Misiones Diplomáticas de España. El procedimiento quedará **suspendido un máximo de 3 meses** mientras se espera la respuesta. Para ello, se deben presentar el **Anexo I-1** y el **Anexo I-2** adjuntos al formulario.
 
 6. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI ENCONTRARSE EN TRÁMITE DE UNA**
-   Si ya tienes una autorización vigente o un trámite activo de concesión, prórroga, renovación o modificación, no puedes acogerte. Excepción: las personas con un arraigo en trámite (sociolaboral, socioformativo, etc.) no deben renunciar; sus solicitudes se resolverán favorablemente si cumplen los requisitos de la regularización extraordinaria, sin necesidad de volver a presentar documentación. El trámite de arraigo queda en pausa, no se pierde.
+   Si ya tienes una autorización vigente o un trámite activo de concesión, prórroga, renovación o modificación, no puedes acogerte. **Excepción — régimen transitorio (DT 2ª):** Las solicitudes de arraigo presentadas **entre el 20 de mayo de 2025 y el 16 de abril de 2026** que se hallen en tramitación se resolverán con los requisitos simplificados de la DA 21ª, sin necesidad de volver a presentar documentación.
 
 7. **NO REPRESENTAR AMENAZA AL ORDEN PÚBLICO, LA SEGURIDAD PÚBLICA O LA SALUD PÚBLICA**
    Se revisa caso por caso a través de antecedentes policiales.
@@ -155,6 +156,7 @@ Si tienes una oferta de empleo, puedes presentar tu solicitud acompañada de dic
 - Haber trabajado por cuenta ajena o propia **durante su permanencia en España**, **o** acreditar intención de trabajar presentando:
   - Una **oferta de trabajo** (o compromiso de actividad laboral), o
   - Una **declaración responsable** (para trabajo por cuenta propia), presentada a través de modelo específico incorporado a la solicitud.
+- Se admiten **todas las modalidades contractuales** previstas en la normativa, siempre que el contrato o la **suma de contratos** tengan una **duración superior a 90 días en un año**.
 
 **Documentación específica para esta vía:**
 - Documentación acreditativa de haber tenido actividad laboral, oferta de empleo o compromiso de actividad.
@@ -243,8 +245,8 @@ Si tu país de origen demora más de un mes en expedirlos, se activa el mecanism
 3. Debe presentar el **Anexo I-1** (justificante de la solicitud y declaración responsable de no haber recibido respuesta) y el **Anexo I-2** (autorización a las autoridades españolas para recabar los antecedentes), adjuntos al formulario. El Anexo I-2 debe presentarse en **español y en el idioma del país** en que deba surtir efecto.
 
 **¿De qué países pedir antecedentes?**
-- De tu **PAÍS DE ORIGEN** obligatoriamente.
-- De países donde hayas **RESIDIDO** (con residencia legal o de hecho) **durante los cinco últimos años anteriores a la fecha de entrada en España**.
+- De tu **PAÍS DE ORIGEN**: **SIEMPRE obligatorio**, independientemente de cuánto tiempo lleves en España.
+- De países donde hayas **RESIDIDO** (con residencia legal o de hecho) **durante los cinco últimos años anteriores a la fecha de entrada en España**. (Ojo: el cómputo de los 5 años se calcula desde la **fecha de entrada en España**, no desde la fecha de solicitud ni desde la fecha actual.)
 - **NO** de países por los que solo hayas **TRANSITADO** durante tu ruta migratoria sin residencia.
 
 > **Ejemplo práctico — Caso Venezuela/Argentina:**
@@ -288,23 +290,23 @@ No solo serán entidades grandes; también entidades pequeñas pueden registrars
 > [!WARNING]
 > **Sobre el informe de vulnerabilidad:** Aunque la situación administrativa irregular se presume vulnerable, **Regularización Ya recomienda intentar obtener el certificado igualmente**. Si la administración lo requiere posteriormente, solo dará un plazo de **10 días hábiles** para aportarlo. Es mejor tenerlo preparado que arriesgarse a no poder conseguirlo en ese plazo. El modelo de certificado de vulnerabilidad se puede descargar aquí: https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf
 
-### 5.5. Documentación para solicitantes de protección internacional (DA 20ª — Formulario EX-31)
+### 5.5. Documentación para solicitantes de protección internacional (DA 20ª — Formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf))
 
-Si eres solicitante de protección internacional o apatridia, la documentación específica es:
+Si eres solicitante de protección internacional (asilo), la documentación específica es:
 
-1. Impreso de solicitud **EX-31**, debidamente cumplimentado y firmado.
+1. Impreso de solicitud [**EX-31**](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf), debidamente cumplimentado y firmado.
 2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
 3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o Anexo I-1 y I-2 si no se ha recibido en un mes).
 4. Documentación acreditativa de haber presentado solicitud de protección internacional antes del 1 de enero de 2026.
 5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
 6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
 
-### 5.6. Documentación para arraigo extraordinario (DA 21ª — Formulario EX-32)
+### 5.6. Documentación para arraigo extraordinario (DA 21ª — Formulario [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf))
 
 Si estás en situación administrativa irregular, la documentación depende de la vía de acceso elegida:
 
 **Común a todas las vías:**
-1. Impreso de solicitud **EX-32**, debidamente cumplimentado y firmado.
+1. Impreso de solicitud [**EX-32**](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf), debidamente cumplimentado y firmado.
 2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
 3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o Anexo I-1 y I-2).
 4. Justificante del abono de la tasa.
@@ -436,33 +438,35 @@ Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
 
 ---
 
-## 8. Solicitantes de protección internacional / apatridia (asilo / tarjeta roja)
+## 8. Solicitantes de protección internacional (asilo / tarjeta roja)
 
-Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularización extraordinaria **sin renunciar** a su solicitud en trámite. El RD 316/2026 establece una **vía específica** para ellos a través de la **Disposición Adicional 20ª** (formulario EX-31).
+Los solicitantes de asilo **sí pueden** acogerse a la regularización extraordinaria **sin renunciar previamente** a su solicitud en trámite. El RD 316/2026 establece una **vía específica** para ellos a través de la **Disposición Adicional 20ª** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)).
 
 > [!IMPORTANT]
 > Este es un punto **FUNDAMENTAL** que el movimiento puso "en el centro de la negociación".
 
-- Los solicitantes de protección internacional o **apatridia** **SÍ PUEDEN** acogerse a la regularización extraordinaria.
-- **NO TIENES QUE RENUNCIAR A TU SOLICITUD DE ASILO. NUNCA. JAMÁS.**
-- **No hay que renunciar** a las solicitudes que ya se tengan en trámite; ambas solicitudes son **compatibles**.
+- Los solicitantes de protección internacional **SÍ PUEDEN** acogerse a la regularización extraordinaria.
+- **NO tienes que renunciar a tu solicitud de asilo ANTES ni DURANTE el trámite** de la regularización extraordinaria. Ambas solicitudes son **compatibles** mientras se tramita la regularización.
 
 > Redwan Baddouh: *"Renunciar NUNCA. No hay que renunciar a la protección internacional."*
 
-- Tu solicitud de asilo o apatridia debe haber sido presentada **antes del 1 de enero de 2026** (confirmado por el RD 316/2026).
+- Tu solicitud de asilo debe haber sido presentada **antes del 1 de enero de 2026** (confirmado por el RD 316/2026).
 - El plazo de solicitud ya está abierto: desde el **16 de abril** hasta el **30 de junio de 2026**.
 
 ### ¿Qué ocurre con la solicitud de protección internacional?
 
-- La solicitud de protección internacional quedará **en pausa** hasta la resolución de la regularización extraordinaria.
-- **Si la regularización es favorable:** la solicitud de protección internacional decaería.
-- **Si la regularización es denegada:** la solicitud de protección internacional se reactivaría.
+- La solicitud de protección internacional se mantiene **activa** mientras se tramita la regularización extraordinaria.
+- **Si la regularización se CONCEDE favorablemente:** la persona **deberá desistir** de su solicitud de protección internacional (o del recurso que tuviera pendiente). Esto es una **obligación legal** establecida en la DA 20ª.4 del RD 316/2026. El desistimiento es un acto que debe realizar activamente el solicitante; la solicitud de PI no decae automáticamente.
+- **Si la regularización es DENEGADA:** la solicitud de protección internacional se mantiene y continúa su tramitación ordinaria.
+
+> [!WARNING]
+> **Obligación tras la concesión:** Si la regularización se concede, al solicitar la **Tarjeta de Identidad de Extranjero (TIE)**, deberás acreditar que has presentado el desistimiento de tu solicitud de protección internacional, aportando el **correspondiente resguardo** de la solicitud de desistimiento. Sin este resguardo, no podrás obtener la TIE.
 
 ### Caso práctico — Persona con tarjeta roja
 
 > *"Mi hermano vino hace tres años, pidió asilo, tiene tarjeta roja, lleva dos años trabajando con contrato indefinido, piso arrendado, carné de conducir, casi tres años empadronado. ¿Debe renunciar al asilo?"*
 >
-> **RESPUESTA: NO.** No tiene que renunciar. Puede solicitar la regularización extraordinaria **SIN** renunciar a la protección internacional.
+> **RESPUESTA: NO tiene que renunciar para solicitar la regularización.** Puede solicitar la regularización extraordinaria sin renunciar previamente a la protección internacional. Solo si la regularización se concede favorablemente, deberá entonces desistir de la solicitud de asilo.
 
 ### Caso práctico — Colombiana con hijo y tarjeta roja
 
@@ -473,7 +477,7 @@ Los solicitantes de asilo y apatridia **sí pueden** acogerse a la regularizaci�
 ### Advertencia importante
 
 > [!WARNING]
-> Esta regularización extraordinaria **NO** garantiza que, una vez otorgada, se pueda seguir con la protección internacional. Esto es un riesgo: sería una pena que personas que pudieran acogerse a la protección internacional y a sus beneficios se queden con una regularización que al año siguiente se tenga que renovar solo probando que se ha trabajado. Hay que estar *"muy expectantes"* con este punto.
+> Esta regularización extraordinaria **NO** garantiza que, una vez otorgada, se pueda seguir con la protección internacional. **Si se concede la regularización, estarás obligado/a a desistir de tu solicitud de PI.** Esto es un riesgo a valorar: personas que pudieran acogerse a la protección internacional y a sus beneficios (protección más amplia, no caduca al año) se quedarán con una autorización de 1 año que después requiere modificación o prórroga. Hay que estar *"muy expectantes"* con este punto.
 
 **Contexto sobre denegaciones de asilo:**
 Las oficinas que habían estado "mudas" ahora están agilizando muchas denegatorias de solicitudes de asilo, aprovechando la existencia de esta vía extraordinaria. Las personas con denegatoria **SÍ** podrán acogerse a la regularización extraordinaria.
@@ -482,19 +486,25 @@ Las oficinas que habían estado "mudas" ahora están agilizando muchas denegator
 
 ## 9. Compatibilidad con otros trámites en curso
 
-Si tienes otro trámite de extranjería activo (arraigo, asilo, etc.), puedes acogerte igualmente a la regularización extraordinaria. El trámite activo queda **en pausa** — no se pierde — y se resolverá favorablemente si se cumplen los requisitos de la regularización extraordinaria.
+> [!WARNING]
+> **Requisito legal:** Para acogerte a la regularización extraordinaria, la norma exige **no ostentar la condición de persona interesada en procedimientos de concesión, prórroga, renovación o modificación de autorizaciones de estancia o residencia** (DA 20ª.1.b y DA 21ª.1.b). Esto significa que, como regla general, **no se puede tener otro trámite de extranjería activo** al presentar la solicitud de regularización extraordinaria.
 
-- **AUNQUE YA TENGAS OTRA SOLICITUD EN CURSO**, puedes acogerte a la regularización extraordinaria.
-- El otro trámite quedará **EN PAUSA** hasta que se resuelva el procedimiento de regularización extraordinaria.
-- **EL TRÁMITE EN PAUSA NO SE PIERDE:** simplemente se suspende.
+**Excepción — Régimen transitorio (DT 2ª):**
 
-**Caso del arraigo en trámite:**
+El RD 316/2026 establece un régimen especial para solicitudes de arraigo **ya presentadas** antes de su entrada en vigor:
 
 > [!IMPORTANT]
-> Las personas con un arraigo en trámite (sociolaboral, socioformativo, etc.) **no deben renunciar**. Sus solicitudes se resolverán **favorablemente** si cumplen los requisitos de la regularización extraordinaria. **No hay que volver a presentar documentación.**
+> **Solicitudes de arraigo presentadas entre el 20 de mayo de 2025 y el 16 de abril de 2026:**
+> Las solicitudes de autorización de residencia temporal por circunstancias excepcionales (Título VII del Reglamento) que se hallen en tramitación y hubieran sido presentadas **desde el 20 de mayo de 2025 hasta la entrada en vigor del RD 316/2026** se resolverán con los requisitos simplificados de la DA 21ª. Para su concesión se requerirá **únicamente** que la persona solicitante se encontrara en España antes del 1 de enero de 2026 y cumpla los requisitos generales del apartado primero de la DA 21ª. **No hay que volver a presentar documentación ni renunciar al trámite.**
+
+> [!IMPORTANT]
+> **Solicitudes presentadas al amparo de la antigua DT 5ª del RD 1155/2024** (antes de la entrada en vigor del RD 316/2026): requerirán para su concesión **únicamente** que las personas solicitantes acrediten carecer de antecedentes penales y que no representen una amenaza al orden público, seguridad pública y salud pública.
+
+> [!CAUTION]
+> **Atención:** Las solicitudes de arraigo presentadas **antes del 20 de mayo de 2025** no están cubiertas por este régimen transitorio.
 
 **Caso del arraigo denegado:**
-Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te piden que salgas del país, puedes acogerte a esta regularización extraordinaria. Los requisitos son *"mucho más flexibles."*
+Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te piden que salgas del país, puedes acogerte a esta regularización extraordinaria. Una denegatoria de arraigo no impide acceder a la regularización. Los requisitos son *"mucho más flexibles."*
 
 
 ---
@@ -659,7 +669,7 @@ Tras la admisión recibes un documento con tu **NÚMERO DE IDENTIDAD DE EXTRANJE
 
 ### 12.2. Plazo de resolución
 
-El plazo máximo de resolución y notificación de la solicitud es de **tres meses**, contados a partir del día siguiente a la fecha en que haya tenido entrada en el registro del órgano competente para su tramitación.
+El plazo máximo de resolución y notificación de la solicitud es de **tres meses**, contados a partir del día siguiente a la fecha en que haya tenido entrada en el registro del órgano competente para su tramitación. Este plazo podrá ser **suspendido** en los términos del artículo 22 de la Ley 39/2015 (por ejemplo, mientras se esperan informes preceptivos). Durante la suspensión, la **habilitación provisional para trabajar sigue siendo válida**.
 
 **Silencio administrativo:**
 - **Solicitud inicial:** Transcurrido el plazo de 3 meses sin notificación, se podrá entender que la solicitud ha sido **desestimada** por silencio administrativo.
@@ -667,6 +677,9 @@ El plazo máximo de resolución y notificación de la solicitud es de **tres mes
 
 > [!WARNING]
 > Es importante que la persona interesada **mantenga actualizado su domicilio** a efectos de notificaciones. En caso de que la notificación resulte infructuosa, se empleará la vía edictal (publicación en tablón de anuncios).
+
+> [!CAUTION]
+> **CADUCIDAD POR PARALIZACIÓN:** Si el procedimiento se paraliza **por causa imputable al solicitante** (por ejemplo, no atender un requerimiento de subsanación), el órgano tramitador advertirá que, transcurridos **tres meses** de paralización, se producirá la **caducidad del procedimiento** y se archivará el expediente. **Responde siempre a los requerimientos dentro del plazo indicado.**
 
 ### 12.3. Obtener el número de Seguridad Social
 
@@ -768,7 +781,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **NO. NUNCA.**
 
-**Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar a su solicitud de asilo. Se tramita por la vía de la **DA 20ª** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)). Ambos procedimientos son totalmente compatibles. La solicitud de asilo quedará en pausa mientras se tramita la regularización: si la regularización es favorable, la solicitud de PI decae; si es denegada, la solicitud de PI se reactiva.
+**Explicación:** Los solicitantes de protección internacional pueden acogerse a la regularización extraordinaria sin renunciar previamente a su solicitud de asilo. Se tramita por la vía de la **DA 20ª** (formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)). Ambos procedimientos son compatibles durante la tramitación. Si la regularización se concede favorablemente, el solicitante **deberá desistir** de su solicitud de PI (obligación legal de la DA 20ª.4). Si la regularización es denegada, la solicitud de PI continúa su tramitación ordinaria.
 
 ### 13.5. Arraigo denegado
 
@@ -1140,7 +1153,7 @@ Regularización Ya tiene coordinaciones activas en:
 - Oferta de empleo o documentación laboral (para la vía A)
 - Documentación de vínculo familiar y convivencia (para la vía B)
 - Certificados de nacimiento de menores (para la vía B)
-- Formulario **EX-31** (solicitantes PI) o **EX-32** (arraigo extraordinario)
+- Formulario [**EX-31**](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf) (solicitantes PI) o [**EX-32**](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf) (arraigo extraordinario)
 - Justificante del abono de la tasa
 
 ### ❌ Lo que NO debes hacer
