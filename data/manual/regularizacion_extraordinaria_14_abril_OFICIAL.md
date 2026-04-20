@@ -18,7 +18,7 @@ El programa reconoce la contribución de miles de personas que ya forman parte d
 
 | Acción | Enlace |
 |---|---|
-| Iniciar el trámite *(requiere Certificado Digital)* | https://mercurio.delegaciondelgobierno.gob.es/mercurio/inicioMercurio.html |
+| Iniciar el trámite *(requiere Certificado Digital)* | https://delgobierno.gob.es/mercurio/inicioMercurio.html |
 | Verificar si cumples los requisitos (simulador) | https://inclusion.gob.es/web/guest/simulador-de-requisitos-regularizacion-extraordinaria-2026 |
 | Consultar listado de entidades colaboradoras en extranjería | https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf |
 
