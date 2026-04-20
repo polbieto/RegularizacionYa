@@ -35,8 +35,7 @@ async def start():
         "¡Hola!\n\n"
         "Estoy aquí para acompañarte y resolver tus dudas basándome en el "
         "**Manual sobre la Regularización Extraordinaria**. "
-        "Recuerda que esta información es **estrictamente orientativa y no tiene valor legal** "
-        "(el texto definitivo será el que se publique en el BOE).\n\n"
+        "Recuerda que esta información es **estrictamente orientativa y no tiene valor legal**.\n\n"
         "¿En qué te puedo orientar hoy?"
     )
     await cl.Message(content=welcome_message).send()

@@ -32,8 +32,8 @@
 Hay abogados y abogadas privados que están cobrando cantidades abusivas por "gestionar" el procedimiento. **CUIDADO:**
 
 - **NO** es necesario contratar un abogado para presentar la solicitud. Puedes presentarla tú mismo/a.
-- Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: las **entidades colaboradoras de extranjería** están articulando redes de asesoramiento gratuito. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
-- Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+- Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: las **entidades colaboradoras de extranjería** están articulando redes de asesoramiento gratuito. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
+- Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
 > [!CAUTION]
 > **⚠️ Las citas presenciales son GRATUITAS.** Nadie puede cobrarte por reservar o disponer de una cita presencial. Si alguien te pide dinero por gestionar la cita, es un fraude.
@@ -117,7 +117,7 @@ Se deben cumplir **TODOS** los siguientes:
    - Los antecedentes de terceros países deben estar **traducidos** por traductor jurado reconocido en España y **legalizados o apostillados**.
 
    **Excepcionalidad — Antecedentes no recibidos a tiempo:**
-   Si se ha solicitado el certificado de antecedentes penales y transcurre **un mes sin recibirlo**, la Unidad de Tramitación de Expedientes de Extranjería solicitará al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes que lo recabe **por vía diplomática** a través de las Misiones Diplomáticas de España. El procedimiento quedará **suspendido un máximo de 3 meses** mientras se espera la respuesta. Para ello, se deben presentar el **Anexo I-1** y el **Anexo I-2** adjuntos al formulario.
+   Si se ha solicitado el certificado de antecedentes penales y transcurre **un mes sin recibirlo**, la Unidad de Tramitación de Expedientes de Extranjería solicitará al Ministerio de la Presidencia, Justicia y Relaciones con las Cortes que lo recabe **por vía diplomática** a través de las Misiones Diplomáticas de España. El procedimiento quedará **suspendido un máximo de 3 meses** mientras se espera la respuesta. Para ello, se deben presentar dos documentos adjuntos al formulario: el **Anexo I-1** (justificante de haber solicitado los antecedentes penales y declaración responsable de no haber recibido respuesta) y el **Anexo I-2** (autorización a las autoridades españolas para recabar los antecedentes por vía diplomática; debe presentarse en español y en el idioma del país donde deba surtir efecto).
 
 6. **NO SER TITULAR DE UNA AUTORIZACIÓN DE RESIDENCIA O ESTANCIA VIGENTE NI ENCONTRARSE EN TRÁMITE DE UNA**
    Si ya tienes una autorización vigente o un trámite activo de concesión, prórroga, renovación o modificación, no puedes acogerte. **Excepción — régimen transitorio (DT 2ª):** Las solicitudes de arraigo presentadas **entre el 20 de mayo de 2025 y el 16 de abril de 2026** que se hallen en tramitación se resolverán con los requisitos simplificados del arraigo extraordinario, sin necesidad de volver a presentar documentación.
@@ -193,7 +193,7 @@ Se aplica también a:
 
 Encontrarse en situación de vulnerabilidad. **IMPORTANTE:** la propia situación administrativa irregular **YA SE CONSIDERA** vulnerable. Todas las personas en situación administrativa irregular se consideran en situación de vulnerabilidad.
 
-Para acreditar esta vía, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido en el modelo incorporado como **Anexo II** en la solicitud. Puede ser emitido por:
+Para acreditar esta vía, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido en el **modelo oficial de certificado de vulnerabilidad** (Anexo II, incorporado a la solicitud; descargable en https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf). Puede ser emitido por:
 - **Servicios sociales municipales**, **o**
 - **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
 
@@ -277,7 +277,7 @@ Si **no tienes padrón**, puedes acreditar la estancia con **cualquier prueba v�
 
 ### 5.4. Informe de vulnerabilidad
 
-Para la vía de vulnerabilidad, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido conforme al modelo incorporado como **Anexo II** a la solicitud. Puede ser emitido por:
+Para la vía de vulnerabilidad, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido conforme al **modelo oficial de certificado de vulnerabilidad** (Anexo II, incorporado a la solicitud; descargable en https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf). Puede ser emitido por:
 - **Servicios sociales municipales** de la zona de residencia, **o**
 - **Entidades del tercer sector inscritas en el Registro de Colaboradores con Extranjería** (no cualquier asociación).
 
@@ -296,7 +296,7 @@ Si eres solicitante de protección internacional (asilo), la documentación espe
 
 1. Impreso de solicitud [**EX-31**](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf), debidamente cumplimentado y firmado.
 2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
-3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o Anexo I-1 y I-2 si no se ha recibido en un mes).
+3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el justificante de haberlos solicitado con declaración responsable — Anexo I-1 — y la autorización para recabarlos por vía diplomática — Anexo I-2).
 4. Documentación acreditativa de haber presentado solicitud de protección internacional antes del 1 de enero de 2026.
 5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
 6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
@@ -308,7 +308,7 @@ Si estás en situación administrativa irregular, la documentación depende de l
 **Común a todas las vías:**
 1. Impreso de solicitud [**EX-32**](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf), debidamente cumplimentado y firmado.
 2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
-3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o Anexo I-1 y I-2).
+3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: justificante de solicitud con declaración responsable — Anexo I-1 — y autorización para recabarlos por vía diplomática — Anexo I-2).
 4. Justificante del abono de la tasa.
 
 **Adicional según vía:**
@@ -317,7 +317,7 @@ Si estás en situación administrativa irregular, la documentación depende de l
 |-----|------------------------|
 | **A — Laboral** | Documentación acreditativa de actividad laboral, oferta de empleo o compromiso de actividad |
 | **B — Familiar** | Documentación del vínculo familiar + documentación de convivencia con la unidad familiar |
-| **C — Vulnerabilidad** | Documentación acreditativa de permanencia 5 meses + certificado de vulnerabilidad (**Anexo II**) |
+| **C — Vulnerabilidad** | Documentación acreditativa de permanencia 5 meses + **certificado de vulnerabilidad** (modelo oficial — Anexo II) |
 | **Familiar de solicitante de arraigo** | Documentación del vínculo familiar + convivencia + permanencia 5 meses |
 
 5. En su caso, **informe sobre escolarización de menores** a cargo en España.
@@ -434,7 +434,7 @@ Se cancelan por **VÍA ADMINISTRATIVA** ante el cuerpo policial correspondiente.
 > [!TIP]
 > - **Solicita la cancelación de tus antecedentes ANTES de iniciar trámites de extranjería.** No esperes a que se abra el plazo.
 > - **Guarda siempre todos los justificantes y las resoluciones** de la cancelación.
-> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito**. Consulta el listado actualizado de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+> - Para dudas o consultas, dirígete a **entidades sociales que cuenten con asesoramiento jurídico gratuito**. Consulta el listado actualizado de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
 ---
 
@@ -602,7 +602,7 @@ Se habilitarán oficinas públicas en todo el territorio nacional, incluidas:
 La solicitud la puedes hacer tú mismo, o con apoyo de:
 
 - **Abogados, graduados sociales o gestores administrativos**, que pueden actuar como representantes.
-- **Entidades inscritas en el Registro de Colaboradores de Extranjería**: entidades sociales y sindicatos con experiencia en acompañamiento de personas migrantes. Ofrecen **asesoramiento gratuito** y pueden actuar como representantes. El listado actualizado de entidades colaboradoras se puede consultar aquí: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+- **Entidades inscritas en el Registro de Colaboradores de Extranjería**: entidades sociales y sindicatos con experiencia en acompañamiento de personas migrantes. Ofrecen **asesoramiento gratuito** y pueden actuar como representantes. El listado actualizado de entidades colaboradoras se puede consultar aquí: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
 ### 11.4. Contacto
 
@@ -983,7 +983,7 @@ El movimiento denuncia explícitamente a la **DGAIA** (Dirección General de Ate
 
 ### 16.1. Entidades colaboradoras con Extranjería
 
-Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes para presentar tu solicitud. Consulta el **listado oficial actualizado** de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes para presentar tu solicitud. Consulta el **listado oficial actualizado** de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
 ### 16.2. Asesoramiento gratuito
 
@@ -1026,7 +1026,7 @@ No solo entidades grandes: también entidades pequeñas pueden registrarse.
 - Declaración jurada de protección de datos.
 - Deben ser **entidades sin fines de lucro**.
 
-**Listado actualizado de entidades colaboradoras:** https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf
+**Listado actualizado de entidades colaboradoras:** https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
 
 ### 16.5. Coordinaciones territoriales activas
@@ -1051,7 +1051,7 @@ Regularización Ya tiene coordinaciones activas en:
 |---|---|
 | Preguntas y respuestas (PDF) | https://inclusion.gob.es/documents/20121/7817425/Preguntas%20y%20respuestas.pdf |
 | Modelo de certificado de vulnerabilidad (PDF) | https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf |
-| Entidades colaboradoras (PDF, actualizado 16/04/2026) | https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf |
+| Entidades colaboradoras (PDF, actualizado 16/04/2026) | https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras |
 | BOE — Real Decreto 316/2026, de 14 de abril | https://www.boe.es/eli/es/rd/2026/04/14/316 |
 
 ### Hojas informativas
@@ -1076,7 +1076,7 @@ Regularización Ya tiene coordinaciones activas en:
 |---|---|
 | Iniciar el trámite *(requiere Certificado Digital)* | https://mercurio.delegaciondelgobierno.gob.es/mercurio/inicioMercurio.html |
 | Verificar si cumples los requisitos (simulador) | https://inclusion.gob.es/web/guest/simulador-de-requisitos-regularizacion-extraordinaria-2026 |
-| Consultar entidades colaboradoras | https://www.inclusion.gob.es/documents/d/guest/pdf-entidades-colaboradoras-16042026.pdf |
+| Consultar entidades colaboradoras | https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras |
 | Formulario de consultas | https://www.inclusion.gob.es/formulario-consultas-regularizacion-extraordinaria-2026 |
 | Solicitud de TIE (documentación) | https://sede.administracionespublicas.gob.es/procedimientos/index/categoria/34 |
 
@@ -1123,10 +1123,10 @@ Regularización Ya tiene coordinaciones activas en:
 ### 📄 Documentos mínimos
 
 - Pasaporte **COMPLETO** — todas las páginas — (en vigor o caducado), cédula de inscripción o título de viaje
-- Antecedentes penales de los países de residencia de los últimos 5 años (apostillados/legalizados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**). Si no se reciben en 1 mes: Anexo I-1 y Anexo I-2.
+- Antecedentes penales de los países de residencia de los últimos 5 años (apostillados/legalizados + traducidos por traductor/a jurado/a reconocido/a **EN ESPAÑA**). Si no se reciben en 1 mes: justificante de solicitud y declaración responsable (Anexo I-1) + autorización para recabarlos por vía diplomática (Anexo I-2).
 - Cancelación de antecedentes penales/policiales en España si procede (penales ante el Ministerio de Justicia; policiales ante el cuerpo policial correspondiente; solicitar la cancelación ANTES de iniciar trámites)
 - Padrón histórico **O** pruebas de estancia (el "cluedo")
-- Certificado de vulnerabilidad — Anexo II (para la vía C)
+- Certificado de vulnerabilidad — modelo oficial (Anexo II) — (para la vía C)
 - Oferta de empleo o documentación laboral (para la vía A)
 - Documentación de vínculo familiar y convivencia (para la vía B)
 - Certificados de nacimiento de menores (para la vía B)

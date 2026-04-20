@@ -20,7 +20,7 @@ class DocumentService:
         self._repository = repository
         self._embedding_provider = embedding_provider
 
-    def search_documents(self, query: str, limit: int = 5) -> str:
+    def search_documents(self, query: str, limit: int = 7) -> str:
         logger.info("Searching for documents. limit=%s, query=%s", limit, query)
         query_embedding = self._embedding_provider.embed_query(query)
 
@@ -32,7 +32,7 @@ class DocumentService:
             self._format_result(item) for item in knowledge_results
         ]
 
-        logger.info("Retrieved %s documents.", len(knowledge_results))
+        logger.debug("Retrieved %s documents.", len(knowledge_results))
         return "\n\n---\n\n".join(formatted_results) if formatted_results else ""
 
     @staticmethod

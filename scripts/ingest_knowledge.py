@@ -123,8 +123,8 @@ def _split_markdown(source_path: Path, pages: list) -> list:
         strip_headers=False,
     )
     recursive_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,
-        chunk_overlap=100,
+        chunk_size=1200,
+        chunk_overlap=150,
     )
 
     full_text = "\n\n".join(page.page_content for page in pages)
@@ -140,7 +140,18 @@ def _split_markdown(source_path: Path, pages: list) -> list:
     for chunk in final_chunks:
         chunk.metadata.setdefault("source", source_path.name)
 
-    return final_chunks
+    # Merge micro-chunks (bare headers, slogans) into the preceding chunk
+    # to avoid wasting embedding space and retrieval slots.
+    min_chunk_chars = 150
+    merged_chunks = []
+    for chunk in final_chunks:
+        if len(chunk.page_content.strip()) < min_chunk_chars and merged_chunks:
+            prev = merged_chunks[-1]
+            prev.page_content += "\n\n" + chunk.page_content
+        else:
+            merged_chunks.append(chunk)
+
+    return merged_chunks
 
 
 def ingest_file(
@@ -184,8 +195,20 @@ def ingest_file(
     )
 
     # Clean chunks for embedding while preserving original content for storage.
-    raw_texts = [chunk.page_content for chunk in chunks]
-    cleaned_texts = [_clean_for_embedding(text) for text in raw_texts]
+    valid_chunks = []
+    cleaned_texts = []
+    for chunk in chunks:
+        cleaned = _clean_for_embedding(chunk.page_content)
+        if cleaned:
+            valid_chunks.append(chunk)
+            cleaned_texts.append(cleaned)
+            
+    chunks = valid_chunks
+    
+    if not chunks:
+        logger.warning("No valid chunks remaining to embed from file: %s", source_path)
+        return
+
     embeddings = _embed_documents(embeddings_client, cleaned_texts)
 
     logger.info("Generated %s embeddings", len(embeddings))
@@ -224,13 +247,14 @@ def ingest_file(
         metadata_sql = _sql_quote(json.dumps(metadata, ensure_ascii=True))
         value_rows.append(f"({content_sql}, {embedding_sql}, {metadata_sql})")
 
+    values_sql = ",\n".join(value_rows)
     statements.append(
         f"""INSERT INTO document_base_knowledge (document, content, embedding, metadata)
 SELECT d.id, v.content, v.embedding::vector, v.metadata::jsonb
 FROM document d
 JOIN (
 VALUES
-{",\n".join(value_rows)}
+{values_sql}
 ) AS v(content, embedding, metadata) ON TRUE
 WHERE d.id = {escaped_document_id}::uuid;"""
     )
