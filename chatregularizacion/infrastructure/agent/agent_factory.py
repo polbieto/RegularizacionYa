@@ -5,8 +5,11 @@ from infrastructure.repository.sqlalchemy_document_repository import \
 from infrastructure.google_embedding_provider import GoogleGenerativeAIEmbeddingProvider
 from application.services.document_service import DocumentService
 from infrastructure.agent.langgraph_agent_orchestrator import LangGraphAgentOrchestrator
-from infrastructure.agent.llm_provider import build_llm
+from infrastructure.agent.llm_provider import build_llm_with_tools
 from infrastructure.agent.mappers.chat_history import ChatHistoryMapper
+from infrastructure.agent.tools_registry import build_tools
+from infrastructure.repository.csv_entidad_colaboradora_repository import CsvEntidadColaboradoraRepositoryAdapter
+from infrastructure.agent.tool_runtime import LangChainToolRuntime
 
 
 def build_agent_orchestrator(session_factory) -> DomainAgentOrchestrator:
@@ -16,10 +19,14 @@ def build_agent_orchestrator(session_factory) -> DomainAgentOrchestrator:
         document_repository, embedding_provider=embedding_provider
     )
 
-    llm = build_llm()
+    entidad_colaboradora_repository = CsvEntidadColaboradoraRepositoryAdapter()
+    tools = build_tools(entidad_colaboradora_repository)
+    tool_runtime = LangChainToolRuntime(tools)
+
+    llm = build_llm_with_tools(tools)
     return LangGraphAgentOrchestrator(
         llm_with_tools=llm,
-        tool_runtime=None,
+        tool_runtime=tool_runtime,
         history_mapper=ChatHistoryMapper(),
         retriever=document_service.search_documents,
     )

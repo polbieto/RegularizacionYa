@@ -30,7 +30,16 @@ class TestIngestKnowledgeIntegration:
         """
         # 1. Setup real file
         md_file = tmp_path / "test_document.md"
-        md_content = "# Section 1\nThis is the first section.\n\n# Section 2\nThis is the second section."
+        md_content = (
+            "# Section 1\n"
+            "This is the first section with enough content to exceed the minimum chunk "
+            "threshold used by the micro-chunk merging step in the ingestion script. "
+            "We need at least one hundred and fifty characters of meaningful text here.\n\n"
+            "# Section 2\n"
+            "This is the second section which also contains enough content to be treated "
+            "as a standalone chunk by the merging logic. Adding extra text so that the "
+            "character count comfortably surpasses the one hundred and fifty char limit."
+        )
         md_file.write_text(md_content)
 
         # 2. Setup mocks to avoid real API calls.
@@ -58,8 +67,8 @@ class TestIngestKnowledgeIntegration:
         assert f"WHERE d.id = '{FAKE_UUID}'::uuid;" in sql_content
 
         # Verify content was inserted
-        assert "This is the first section." in sql_content
-        assert "This is the second section." in sql_content
+        assert "This is the first section with enough content" in sql_content
+        assert "This is the second section which also contains" in sql_content
 
         # Verify metadata
         assert '"source": "test_document.md"' in sql_content
@@ -74,8 +83,14 @@ class TestIngestKnowledgeIntegration:
         md_file = tmp_path / "test_sections.md"
         md_content = (
             "# Main Title\n\n"
-            "## Introduction\nSome introductory text.\n\n"
-            "## Requirements\nSome requirements text."
+            "## Introduction\n"
+            "Some introductory text that is long enough to exceed the minimum chunk "
+            "threshold of one hundred and fifty characters used by the micro-chunk "
+            "merging step in the ingestion pipeline so this chunk is not collapsed.\n\n"
+            "## Requirements\n"
+            "Some requirements text that is also long enough to stand on its own as "
+            "a separate chunk after the merging logic runs. This ensures the test "
+            "correctly validates that section metadata is preserved per chunk."
         )
         md_file.write_text(md_content)
 

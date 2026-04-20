@@ -1,32 +1,43 @@
-from application.services.document_service import DocumentService
-from langchain_core.tools import BaseTool
-from langchain_core.tools import tool
+from typing import Literal
+from langchain_core.tools import BaseTool, tool
 from pydantic import BaseModel, Field
 
+from domain.ports.entidad_colaboradora_repository_port import EntidadColaboradoraRepositoryPort
 
-class SearchOnDocumentsInput(BaseModel):
-    query: str = Field(
-        description="Specific question to search in the base knowledge.",
+class SearchEntidadColaboradoraInput(BaseModel):
+    provincia: Literal[
+        'A CORUÑA', 'ALBACETE', 'ALMERÍA', 'ASTURIAS', 'BADAJOZ', 'BARCELONA', 'BIZKAIA', 
+        'CASTELLÓN /CASTELLÓ', 'CÁDIZ', 'CÓRDOBA', 'GIRONA', 'GRANADA', 'GUIPUZKOA', 
+        'HUELVA', 'JAÉN', 'LAS PALMAS', 'LLEIDA', 'LUGO', 'MADRID', 'MELILLA', 'MURCIA', 
+        'MÁLAGA', 'NAVARRA', 'ORENSE / OURENSE', 'PALENCIA', 'PONTEVEDRA', 'SALAMANCA', 
+        'SANTA CRUZ DE TENERIFE', 'SEVILLA', 'TARRAGONA', 'TOLEDO', 'VALENCIA / VALÈNCIA', 
+        'VALLADOLID', 'ZARAGOZA', 'ÁLABA / ARABA', 'ÁLAVA / ARABA'
+    ] = Field(
+        description="Nombre de la provincia donde buscar entidades colaboradoras."
     )
 
 def build_tools(
-        document_service: DocumentService
+        entidad_colaboradora_repository: EntidadColaboradoraRepositoryPort
 )-> list[BaseTool]:
 
-    @tool("search_on_documents", args_schema=SearchOnDocumentsInput)
-    def search_on_documents(query: str) -> str:
+    @tool("search_entidades_colaboradoras", args_schema=SearchEntidadColaboradoraInput)
+    def search_entidades_colaboradoras(provincia: str) -> str:
         """
-        Base knowledge to answer any question.
+        Busca entidades colaboradoras en una provincia específica.
         
-        This knowledge base contains the context, requirements, deadlines, 
-        documentation needed, situations for access (like labor, family, vulnerability), 
-        asylum seeker information, procedures to prove stay in Spain without a 'padrón' ,
-        how to present the application, and general
-        warnings about scams, among other topics.
-
-        Always use this tool to answer questions.
-
+        Usa siempre esta herramienta cuando el usuario pregunte por asociaciones, organizaciones 
+        o entidades que puedan ayudar en su proceso de regularización en una provincia de España.
+        Devuelve una lista de entidades y sus páginas web si están disponibles.
         """
-        return document_service.search_documents(query=query)
+        entities = entidad_colaboradora_repository.get_by_provincia(provincia)
+        if not entities:
+            return f"No se encontraron entidades colaboradoras en {provincia}."
+        
+        result = [f"Entidades colaboradoras en {provincia}:"]
+        for entity in entities:
+            web_info = f" - Web: {entity.web_page}" if entity.web_page else ""
+            result.append(f"- {entity.nombre}{web_info}")
+        
+        return "\n".join(result)
     
-    return [search_on_documents]
+    return [search_entidades_colaboradoras]
