@@ -23,6 +23,8 @@ asyncpg = "^0.29.0"
 litellm = "^1.82.6"
 langchain-litellm = "^0.6.2"
 email-validator = "^2.3.0"
+pdfplumber = "^0.11.9"
+pandas = "^3.0.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"

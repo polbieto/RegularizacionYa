@@ -5,15 +5,8 @@ from pydantic import BaseModel, Field
 from domain.ports.entidad_colaboradora_repository_port import EntidadColaboradoraRepositoryPort
 
 class SearchEntidadColaboradoraInput(BaseModel):
-    provincia: Literal[
-        'A CORUÑA', 'ALBACETE', 'ALMERÍA', 'ASTURIAS', 'BADAJOZ', 'BARCELONA', 'BIZKAIA', 
-        'CASTELLÓN /CASTELLÓ', 'CÁDIZ', 'CÓRDOBA', 'GIRONA', 'GRANADA', 'GUIPUZKOA', 
-        'HUELVA', 'JAÉN', 'LAS PALMAS', 'LLEIDA', 'LUGO', 'MADRID', 'MELILLA', 'MURCIA', 
-        'MÁLAGA', 'NAVARRA', 'ORENSE / OURENSE', 'PALENCIA', 'PONTEVEDRA', 'SALAMANCA', 
-        'SANTA CRUZ DE TENERIFE', 'SEVILLA', 'TARRAGONA', 'TOLEDO', 'VALENCIA / VALÈNCIA', 
-        'VALLADOLID', 'ZARAGOZA', 'ÁLABA / ARABA', 'ÁLAVA / ARABA'
-    ] = Field(
-        description="Nombre de la provincia donde buscar entidades colaboradoras."
+    provincia: str = Field(
+        description="Nombre de la provincia donde buscar entidades. El país tiene provincias como: A CORUÑA, ALBACETE, ALMERÍA, ARABA, ASTURIAS, BADAJOZ, BARCELONA, BIZKAIA, CASTELLÓ, CÁDIZ, CÓRDOBA, GIRONA, GRANADA, GUIPUZKOA, HUELVA, JAÉN, LAS PALMAS, LLEIDA, LUGO, MADRID, MELILLA, MURCIA, MÁLAGA, NAVARRA, OURENSE, PALENCIA, PONTEVEDRA, SALAMANCA, SANTA CRUZ DE TENERIFE, SEVILLA, TARRAGONA, TOLEDO, VALENCIA, VALLADOLID, ZARAGOZA. Trata de enviar la que más se parezca a lo que pide el usuario."
     )
 
 def build_tools(

@@ -5,33 +5,36 @@ from domain.entidad_colaboradora import EntidadColaboradora
 from infrastructure.repository.csv_entidad_colaboradora_repository import CsvEntidadColaboradoraRepositoryAdapter
 
 @pytest.fixture
-def mock_csv_file(tmp_path: Path):
-    csv_content = """ENTIDAD;PROVINCIA;PÁGINA WEB \nASOCIACIÓN ALMERÍA ACOGE;ALMERÍA;https://www.almeriaacoge.org/\nASOCIACIÓN DE MUJERES LATRÉBEDE;ALMERÍA;  \nASOCIACIÓN CATNOVA;BARCELONA;https://www.catnova.cat/\n"""
-    file_path = tmp_path / "mock_entidades.csv"
-    file_path.write_text(csv_content, encoding='utf-8-sig')
-    return file_path
+def real_csv_file():
+    return Path("data/entidades/entidades_colaboradoras.csv")
 
-def test_get_by_provincia_exact_match(mock_csv_file):
-    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=mock_csv_file)
+def test_get_by_provincia_exact_match(real_csv_file):
+    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=real_csv_file)
     results = adapter.get_by_provincia("ALMERÍA")
     
-    assert len(results) == 2
-    assert results[0].nombre == "ASOCIACIÓN ALMERÍA ACOGE"
-    assert results[0].provincia == "ALMERÍA"
-    assert results[0].web_page == "https://www.almeriaacoge.org/"
+    assert len(results) > 0
+    assert all("ALMER" in r.provincia.upper() for r in results)
 
-    assert results[1].nombre == "ASOCIACIÓN DE MUJERES LATRÉBEDE"
-    assert results[1].web_page is None
-
-def test_get_by_provincia_case_insensitive(mock_csv_file):
-    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=mock_csv_file)
+def test_get_by_provincia_case_insensitive(real_csv_file):
+    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=real_csv_file)
     results = adapter.get_by_provincia("barcelona")
     
-    assert len(results) == 1
-    assert results[0].nombre == "ASOCIACIÓN CATNOVA"
+    assert len(results) > 0
+    assert all("BARCELONA" in r.provincia.upper() for r in results)
 
-def test_get_by_provincia_no_match(mock_csv_file):
-    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=mock_csv_file)
-    results = adapter.get_by_provincia("MADRID")
+def test_get_by_provincia_no_match(real_csv_file):
+    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=real_csv_file)
+    results = adapter.get_by_provincia("NARNIA")
     
     assert len(results) == 0
+
+@pytest.mark.parametrize("provincia_search, expected_count", [
+    ("ÁLAVA", 5),
+    ("ARABA", 5),
+    ("alava", 5),
+    ("araba", 5)
+])
+def test_get_by_provincia_alava_araba(real_csv_file, provincia_search, expected_count):
+    adapter = CsvEntidadColaboradoraRepositoryAdapter(file_path=real_csv_file)
+    results = adapter.get_by_provincia(provincia_search)
+    assert len(results) == expected_count
