@@ -31,9 +31,30 @@ jobs:
 
       - name: Download fresh PDF
         run: |
-          curl -fSL \
-            -o "data/entidades/Entidades colaboradoras.pdf" \
-            "https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras"
+          python - <<'PYEOF'
+          import urllib.request, ssl, pathlib
+
+          # The inclusion.gob.es server has a broken TLS chain: missing
+          # intermediate cert signed with SHA-1, which OpenSSL 3.x rejects.
+          # Since this is a hardcoded government URL we skip cert verification
+          # and validate the downloaded content instead.
+          ctx = ssl.create_default_context()
+          ctx.check_hostname = False
+          ctx.verify_mode = ssl.CERT_NONE
+
+          request = urllib.request.Request(
+              "https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras",
+              headers={"User-Agent": "Mozilla/5.0 (compatible; RegularizacionYa/1.0)"},
+          )
+
+          data = urllib.request.urlopen(request, context=ctx).read()
+          if not data[:5] == b"%PDF-":
+              raise ValueError(f"Downloaded file is not a valid PDF (starts with {data[:20]!r})")
+
+          out = pathlib.Path("data/entidades/Entidades colaboradoras.pdf")
+          out.write_bytes(data)
+          print(f"PDF downloaded successfully ({out.stat().st_size} bytes)")
+          PYEOF
 
       - name: Extract entidades to CSV
         run: |
