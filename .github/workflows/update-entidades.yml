@@ -1,0 +1,58 @@
+name: Update Entidades Colaboradoras
+
+on:
+  schedule:
+    # Runs twice a day: 8:00 and 20:00 UTC
+    - cron: "0 8 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update-entidades:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Install dependencies
+        run: poetry install --no-interaction
+
+      - name: Download fresh PDF
+        run: |
+          curl -fSL \
+            -o "data/entidades/Entidades colaboradoras.pdf" \
+            "https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras"
+
+      - name: Extract entidades to CSV
+        run: |
+          poetry run python scripts/extract_entidades_colaboradoras.py \
+            --input "data/entidades/Entidades colaboradoras.pdf" \
+            --output "data/entidades/entidades_colaboradoras.csv"
+
+      - name: Run tests
+        run: poetry run pytest tests/scripts/test_extract_entidades_colaboradoras.py -v
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "data/entidades/Entidades colaboradoras.pdf" \
+                  "data/entidades/entidades_colaboradoras.csv"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update entidades colaboradoras data [skip ci]"
+            git push
+          fi
