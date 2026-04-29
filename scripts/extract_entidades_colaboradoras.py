@@ -50,20 +50,79 @@ def normalize_key(text: str) -> str:
     )
 
 
-def load_reference_provinces(reference_csv: Path) -> dict[str, str]:
+# All 50 Spanish provinces + 2 autonomous cities (Ceuta, Melilla).
+# Canonical names match the most common form used in official documents.
+ALL_PROVINCES = [
+    # Andalucía
+    "ALMERÍA", "CÁDIZ", "CÓRDOBA", "GRANADA",
+    "HUELVA", "JAÉN", "MÁLAGA", "SEVILLA",
+    # Aragón
+    "HUESCA", "TERUEL", "ZARAGOZA",
+    # Asturias
+    "ASTURIAS",
+    # Illes Balears
+    "ILLES BALEARS",
+    # Canarias
+    "LAS PALMAS", "SANTA CRUZ DE TENERIFE",
+    # Cantabria
+    "CANTABRIA",
+    # Castilla-La Mancha
+    "ALBACETE", "CIUDAD REAL", "CUENCA", "GUADALAJARA", "TOLEDO",
+    # Castilla y León
+    "ÁVILA", "BURGOS", "LEÓN", "PALENCIA", "SALAMANCA",
+    "SEGOVIA", "SORIA", "VALLADOLID", "ZAMORA",
+    # Cataluña
+    "BARCELONA", "GIRONA", "LLEIDA", "TARRAGONA",
+    # Comunidad Valenciana
+    "ALICANTE", "CASTELLÓN", "VALENCIA",
+    # Extremadura
+    "BADAJOZ", "CÁCERES",
+    # Galicia
+    "A CORUÑA", "LUGO", "ORENSE", "PONTEVEDRA",
+    # La Rioja
+    "LA RIOJA",
+    # Madrid
+    "MADRID",
+    # Murcia
+    "MURCIA",
+    # Navarra
+    "NAVARRA",
+    # País Vasco
+    "ÁLAVA", "BIZKAIA", "GIPUZKOA",
+    # Ciudades autónomas
+    "CEUTA", "MELILLA",
+]
+
+# Variant names used in co-official languages or alternative spellings.
+# Maps normalized alias -> canonical province name from ALL_PROVINCES.
+_PROVINCE_ALIASES: dict[str, str] = {
+    # País Vasco — Basque variants
+    "ARABA": "ÁLAVA",
+    "ALABA": "ÁLAVA",
+    "VIZCAYA": "BIZKAIA",
+    "GUIPUZCOA": "GIPUZKOA",
+    # Galicia — Galician / alternative Spanish
+    "OURENSE": "ORENSE",
+    "LA CORUÑA": "A CORUÑA",
+    # Cataluña — Spanish variants
+    "GERONA": "GIRONA",
+    "LERIDA": "LLEIDA",
+    # Illes Balears — Spanish variant
+    "ISLAS BALEARES": "ILLES BALEARS",
+    # Comunidad Valenciana — alternative names
+    "CASTELLON DE LA PLANA": "CASTELLÓN",
+    # Navarra — Basque variant
+    "NAFARROA": "NAVARRA",
+}
+
+
+def build_province_lookup() -> dict[str, str]:
     province_by_key: dict[str, str] = {}
-    with reference_csv.open("r", encoding="utf-8-sig", newline="") as csv_file:
-        reader = csv.DictReader(csv_file, delimiter=";")
-        for row in reader:
-            province = row.get("PROVINCIA", "").strip()
-            if province:
-                key = normalize_key(province)
-                province_by_key[key] = province
-                if key == "ALAVA":
-                    province_by_key["ALABA"] = province
-                    province_by_key["ARABA"] = province
-    if not province_by_key:
-        raise ValueError(f"No provinces found in reference CSV: {reference_csv}")
+    for province in ALL_PROVINCES:
+        key = normalize_key(province)
+        province_by_key[key] = province
+    for alias, canonical in _PROVINCE_ALIASES.items():
+        province_by_key[normalize_key(alias)] = canonical
     return province_by_key
 
 
@@ -365,9 +424,9 @@ def apply_known_fixes(rows: list[EntidadRow]) -> list[EntidadRow]:
     return fixed_rows
 
 
-def extract_rows(pdf_path: Path, reference_csv: Path = DEFAULT_OUTPUT) -> list[EntidadRow]:
+def extract_rows(pdf_path: Path) -> list[EntidadRow]:
     rows: list[EntidadRow] = []
-    province_by_key = load_reference_provinces(reference_csv)
+    province_by_key = build_province_lookup()
 
     with pdfplumber.open(pdf_path) as pdf:
         for page_number, page in enumerate(pdf.pages, start=1):
@@ -407,21 +466,13 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_OUTPUT,
         help=f"CSV path to write. Defaults to {DEFAULT_OUTPUT}.",
     )
-    parser.add_argument(
-        "--reference-csv",
-        type=Path,
-        default=DEFAULT_OUTPUT,
-        help=(
-            "CSV used to infer the canonical province names. "
-            f"Defaults to {DEFAULT_OUTPUT}."
-        ),
-    )
+
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    rows = extract_rows(args.input, args.reference_csv)
+    rows = extract_rows(args.input)
     write_csv(rows, args.output)
     print(f"Wrote {len(rows)} rows to {args.output}")
 
