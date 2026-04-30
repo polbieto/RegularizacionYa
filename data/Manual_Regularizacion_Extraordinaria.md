@@ -165,38 +165,94 @@ Para acreditar esta vía, se necesitará un **certificado de la autoridad compet
 
 ## 5. Documentación necesaria
 
+### 5.1. Documentación COMÚN a TODAS las vías
+
+Independientemente de la vía que elijas (protección internacional o arraigo extraordinario, y dentro de este último, laboral, familiar o vulnerabilidad), **siempre** debes presentar los siguientes documentos:
+
+| # | Documento | Detalle |
+|---|-----------|---------|
+| 1 | **Formulario de solicitud** | **[EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)** si eres solicitante de protección internacional · **[EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf)** si estás en situación administrativa irregular. Debidamente cumplimentado y firmado. |
+| 2 | **Pasaporte completo** | Copia completa del pasaporte (**todas sus hojas**), en vigor o caducado. También se acepta cédula de inscripción o título de viaje (en vigor o caducado). |
+| 3 | **Antecedentes penales** | Certificado de antecedentes penales expedido por las autoridades de los países donde hayas residido durante los **5 últimos años anteriores a tu fecha de entrada en España**. Deben estar apostillados o legalizados y traducidos por traductor/a jurado/a reconocido/a en España. |
+| 4 | **Acreditación de estancia** | Documentación acreditativa de encontrarse en España **antes del 1 de enero de 2026** y de haber permanecido de forma ininterrumpida al menos **5 meses** antes de la solicitud. Puede acreditarse con cualquier prueba válida en derecho que incluya datos personales que permitan acreditar tu identidad. |
+| 5 | **Tasa** | Justificante del abono de la tasa: modelo **790 código 052**, epígrafe 2.3.1 («Autorización de residencia temporal por circunstancias excepcionales por arraigo»). Se abona en el plazo de **10 días hábiles** desde la admisión a trámite. ⚠️ Si **no tienes NIE**, no abones la tasa hasta que te la requieran con la comunicación de admisión a trámite. |
+
+> [!NOTE]
+> Con carácter general se deberán aportar **copias** de los documentos y **exhibir los originales** en el momento de presentar la solicitud.
+
 > [!TIP]
-> **RECOMENDACIÓN OFICIAL:** Se recomienda la aportación de **cualquier documentación previa** del solicitante que acredite su estancia en territorio nacional, **aunque sea denegatoria**, lo que permitiría **agilizar** la tramitación de su autorización. Ejemplos: solicitudes previas, acuerdos de devolución, certificados de estancia en Centros Temporales de Internamiento, Cartas de Invitación, denegaciones de solicitudes de protección internacional previas, expedientes de expulsión por estancia irregular…
+> **RECOMENDACIÓN OFICIAL:** Se recomienda aportar **cualquier documentación previa** que acredite tu estancia en España, **aunque sea denegatoria**, para agilizar la tramitación: solicitudes previas, acuerdos de devolución, certificados de estancia en Centros Temporales de Internamiento, Cartas de Invitación, denegaciones de solicitudes de protección internacional, expedientes de expulsión por estancia irregular…
 
-### 5.1. Documentación para solicitantes de protección internacional (arraigo para solicitantes de protección internacional — Formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf))
+**Si no has recibido los antecedentes penales en un mes:**
+Se activa el mecanismo excepcional del RD 316/2026. Debes presentar, adjuntos al formulario:
+- **Anexo I-1:** Justificante oficial de haber solicitado los antecedentes + declaración responsable de no haberlos recibido.
+- **Anexo I-2:** Autorización expresa para que España los recabe por vía diplomática (debe presentarse en español y en el idioma del país donde deba surtir efecto).
+La Unidad de Tramitación de Expedientes de Extranjería los solicitará al Ministerio de la Presidencia, que los recabará por vía diplomática a través de las Misiones Diplomáticas de España.
 
-Si eres solicitante de protección internacional (asilo), la documentación específica es:
+### 5.2. Documentación ESPECÍFICA según tu situación
 
-1. Impreso de solicitud [**EX-31**](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf), debidamente cumplimentado y firmado.
-2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
-3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el justificante oficial de haberlos solicitado junto con tu declaración jurada de retraso — Anexo I-1 — y el documento de autorización para que España los pida por ti — Anexo I-2).
-4. Documentación acreditativa de haber presentado solicitud de protección internacional antes del 1 de enero de 2026.
-5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
-6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
+Además de la documentación común (sección 5.1), debes aportar documentación adicional en función de tu vía concreta. Hay **5 supuestos posibles**, agrupados en dos bloques:
 
-### 5.2. Documentación para arraigo extraordinario (arraigo extraordinario — Formulario [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf))
+---
 
-Si estás en situación administrativa irregular, la documentación depende de la vía de acceso elegida:
+#### 🔵 BLOQUE A — Solicitantes de protección internacional (formulario EX-31)
 
-**Común a todas las vías:**
-1. Impreso de solicitud [**EX-32**](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf), debidamente cumplimentado y firmado.
-2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
-3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el comprobante de solicitud con tu declaración jurada de retraso — Anexo I-1 — y el documento de autorización para que España los pida por ti — Anexo I-2).
-4. Justificante del abono de la tasa.
+**Caso 1: Solicitante directo de protección internacional**
 
-**Adicional según vía:**
+Persona que presentó solicitud de protección internacional (asilo) antes del 1 de enero de 2026.
 
-| Vía | Documentación adicional |
-|-----|------------------------|
-| **A — Laboral** | Documentación acreditativa de actividad laboral, oferta de empleo o compromiso de actividad |
-| **B — Familiar** | Documentación del vínculo familiar + documentación de convivencia con la unidad familiar |
-| **C — Vulnerabilidad** | Documentación acreditativa de permanencia 5 meses + **certificado de vulnerabilidad** (el formulario oficial también llamado Anexo II) |
-| **Familiar de solicitante de arraigo** | Documentación del vínculo familiar + convivencia + permanencia 5 meses |
+| Documentación adicional |
+|------------------------|
+| Documentación acreditativa de **ser o haber sido solicitante de protección internacional** antes del 1 de enero de 2026 (resguardo de la solicitud, resolución, tarjeta roja, etc.). |
+
+> [!NOTE]
+> Pueden acceder personas que hayan perdido la condición de solicitantes de PI, incluso si su solicitud fue denegada o si desistieron de ella o del recurso interpuesto.
+
+**Caso 2: Familiar de solicitante de protección internacional**
+
+Ascendientes de primer grado, cónyuge o pareja registrada que formen parte de la unidad de convivencia del solicitante de PI, y soliciten la autorización simultáneamente.
+
+| Documentación adicional |
+|------------------------|
+| Documentación acreditativa del **vínculo familiar** (certificado de matrimonio, pareja registrada, certificado de nacimiento, etc.). |
+
+---
+
+#### 🟢 BLOQUE B — Arraigo extraordinario (formulario EX-32)
+
+Para personas en situación administrativa irregular. Según la vía de acceso elegida:
+
+**Caso 3: Vía laboral — Actividad laboral u oferta de empleo**
+
+| Documentación adicional |
+|------------------------|
+| Documentación acreditativa de **haber tenido actividad laboral**, **oferta de empleo**, o **declaración responsable** de que va a realizar actividad por cuenta propia. |
+| En su caso, informe sobre **escolarización de menores** a cargo en España. |
+
+**Caso 4: Vía familiar — Unidad familiar**
+
+| Documentación adicional |
+|------------------------|
+| Documentación acreditativa del **vínculo familiar** (certificados de nacimiento, matrimonio, etc.). |
+| Documentación acreditativa de **convivencia con la unidad familiar** (padrón de convivencia, etc.). |
+
+**Caso 5: Vía de vulnerabilidad**
+
+| Documentación adicional |
+|------------------------|
+| **Certificado de vulnerabilidad** emitido por servicios sociales o entidad colaboradora de extranjería, en el modelo oficial (**Anexo II**; [descargable aquí](https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf)). |
+
+---
+
+#### Resumen visual — Documentación por caso
+
+| | Formulario | Pasaporte | Antecedentes | Estancia 5 meses | Tasa | Acreditación PI | Vínculo familiar | Convivencia | Actividad laboral / oferta | Certificado vulnerabilidad |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Caso 1** — PI directo | EX-31 | ✅ | ✅ | ✅ | ✅ | ✅ | — | — | — | — |
+| **Caso 2** — Familiar de PI | EX-31 | ✅ | ✅ | ✅ | ✅ | — | ✅ | — | — | — |
+| **Caso 3** — Laboral | EX-32 | ✅ | ✅ | ✅ | ✅ | — | — | — | ✅ | — |
+| **Caso 4** — Familiar | EX-32 | ✅ | ✅ | ✅ | ✅ | — | ✅ | ✅ | — | — |
+| **Caso 5** — Vulnerabilidad | EX-32 | ✅ | ✅ | ✅ | ✅ | — | — | — | — | ✅ |
 
 ### 5.3. Pasaporte (o cédula de inscripción o título de viaje)
 
