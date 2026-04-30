@@ -164,6 +164,10 @@ def build_lines(page) -> list[Line]:
         x = float(word["x0"])
         y = float(word["top"])
         text = word["text"]
+        
+        if y < 100:
+            continue
+            
         target_line = None
         for line in lines:
             if abs(line.y - y) <= LINE_Y_TOLERANCE:
