@@ -11,42 +11,6 @@
 
 ---
 
-## 0. ¡¡ALERTAS URGENTES: BULOS, ESTAFAS Y ADVERTENCIAS!!
-
-> [!WARNING]
-> **LÉELO ANTES QUE NADA.** Esta sección es la más importante para protegerte.
-
-### BULO 1: "Solo hay 600.000 plazas / cupo limitado"
-
-**❌ FALSO.** Completamente falso. La regularización **NO** tiene un cupo limitado. Lo que tiene es un **PLAZO**. Todas las personas que presenten su solicitud y cumplan con los requisitos **DENTRO DEL PLAZO** establecido (antes del 30 de junio de 2026) podrán regularizarse.
-
-> Redwan Baddouh, portavoz de Regularización Ya, lo desmintió textualmente:
-> *"Lo de los seiscientos mil es un bulo que ha estado circulando y tenemos que desmentirlo. No hay cupo, no hay límite. Si presentas tu solicitud el día 29 de junio o el día 30 de junio, va a acceder igual a la regularización, siempre y cuando se cumplan los requisitos establecidos."*
-
-### BULO 2: "No se sabe la fecha de inicio"
-
-**❌ YA RESUELTO.** El Real Decreto 316/2026 fue publicado en el BOE el **15 de abril de 2026**. El plazo de solicitud se abrió el **16 de abril de 2026** y permanecerá abierto hasta el **30 de junio de 2026**.
-
-### Estafas de abogados privados
-
-Hay abogados y abogadas privados que están cobrando cantidades abusivas por "gestionar" el procedimiento. **CUIDADO:**
-
-- **NO** es necesario contratar un abogado para presentar la solicitud. Puedes presentarla tú mismo/a.
-- Es **RECOMENDABLE** asesorarse, pero existen opciones gratuitas: las **entidades colaboradoras de extranjería** están articulando redes de asesoramiento gratuito. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
-- Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes. Consulta el listado oficial: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
-
-> [!CAUTION]
-> **⚠️ Las citas presenciales son GRATUITAS.** Nadie puede cobrarte por reservar o disponer de una cita presencial. Si alguien te pide dinero por gestionar la cita, es un fraude.
-
-### No tomes decisiones irreversibles
-
-> [!CAUTION]
-> - **NO** renuncies a una solicitud de asilo/protección internacional.
-> - **NO** abandones otros trámites en curso sin estar seguro/a.
-> - **NO** firmes nada ni pagues a nadie por "asegurar tu plaza" (no hay cupo).
-
----
-
 ## 1. Fechas clave y plazos
 
 | Concepto | Fecha / Plazo |
@@ -204,7 +168,37 @@ Para acreditar esta vía, se necesitará un **certificado de la autoridad compet
 > [!TIP]
 > **RECOMENDACIÓN OFICIAL:** Se recomienda la aportación de **cualquier documentación previa** del solicitante que acredite su estancia en territorio nacional, **aunque sea denegatoria**, lo que permitiría **agilizar** la tramitación de su autorización. Ejemplos: solicitudes previas, acuerdos de devolución, certificados de estancia en Centros Temporales de Internamiento, Cartas de Invitación, denegaciones de solicitudes de protección internacional previas, expedientes de expulsión por estancia irregular…
 
-### 5.1. Pasaporte (o cédula de inscripción o título de viaje)
+### 5.1. Documentación para solicitantes de protección internacional (arraigo para solicitantes de protección internacional — Formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf))
+
+Si eres solicitante de protección internacional (asilo), la documentación específica es:
+
+1. Impreso de solicitud [**EX-31**](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf), debidamente cumplimentado y firmado.
+2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
+3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el justificante oficial de haberlos solicitado junto con tu declaración jurada de retraso — Anexo I-1 — y el documento de autorización para que España los pida por ti — Anexo I-2).
+4. Documentación acreditativa de haber presentado solicitud de protección internacional antes del 1 de enero de 2026.
+5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
+6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
+
+### 5.2. Documentación para arraigo extraordinario (arraigo extraordinario — Formulario [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf))
+
+Si estás en situación administrativa irregular, la documentación depende de la vía de acceso elegida:
+
+**Común a todas las vías:**
+1. Impreso de solicitud [**EX-32**](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf), debidamente cumplimentado y firmado.
+2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
+3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el comprobante de solicitud con tu declaración jurada de retraso — Anexo I-1 — y el documento de autorización para que España los pida por ti — Anexo I-2).
+4. Justificante del abono de la tasa.
+
+**Adicional según vía:**
+
+| Vía | Documentación adicional |
+|-----|------------------------|
+| **A — Laboral** | Documentación acreditativa de actividad laboral, oferta de empleo o compromiso de actividad |
+| **B — Familiar** | Documentación del vínculo familiar + documentación de convivencia con la unidad familiar |
+| **C — Vulnerabilidad** | Documentación acreditativa de permanencia 5 meses + **certificado de vulnerabilidad** (el formulario oficial también llamado Anexo II) |
+| **Familiar de solicitante de arraigo** | Documentación del vínculo familiar + convivencia + permanencia 5 meses |
+
+### 5.3. Pasaporte (o cédula de inscripción o título de viaje)
 
 - Se debe presentar el pasaporte **COMPLETO**: **TODAS** las páginas (todas sus hojas), no solo la página con la foto y los datos. Extranjería necesita revisar página por página para comprobar sellos de entrada y salida, especialmente para verificar los 5 meses de estancia.
 
@@ -221,7 +215,7 @@ Para acreditar esta vía, se necesitará un **certificado de la autoridad compet
   4. Con ese extracto se puede solicitar la cédula de inscripción.
   5. La cédula de inscripción tiene una validez de 1 año y se puede renovar demostrando que se sigue en la misma situación que impedía obtener el pasaporte.
 
-### 5.2. Antecedentes penales del país de origen
+### 5.4. Antecedentes penales del país de origen
 
 - Deben estar **APOSTILLADOS** (Apostilla de La Haya) o legalizados por la Oficina Consular de España con jurisdicción en el país en el que se ha expedido.
 - Deben estar **TRADUCIDOS** por un/una traductor/a jurado/a **RECONOCIDO/A EN ESPAÑA** al castellano o a la lengua cooficial del territorio donde se presente la solicitud.
@@ -258,7 +252,7 @@ Los de España **NO** los tienes que pedir tú. Los pide directamente Extranjer�
 **¿Cómo solicitar los antecedentes penales del país de origen?**
 Depende del país al que se vayan a solicitar. La recomendación es **dirigirse a las autoridades** del país correspondiente — normalmente el consulado o la embajada en España — para informarse del procedimiento específico de cada país. Algunos países permiten la solicitud telemática; otros requieren presencia física o un apoderado.
 
-### 5.2.1. Problemas con la Apostilla de La Haya: plan de acción
+### 5.4.1. Problemas con la Apostilla de La Haya: plan de acción
 
 Si no consigues cita para la Apostilla de La Haya antes de la fecha límite (30 de junio de 2026):
 
@@ -269,7 +263,7 @@ Si no consigues cita para la Apostilla de La Haya antes de la fecha límite (30 
 > [!NOTE]
 > **Alternativa a la Apostilla:** Los documentos públicos extranjeros también pueden ser **legalizados por la Oficina Consular de España** con jurisdicción en el país emisor, o por el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. Si el documento está exento de legalización en virtud de Convenio Internacional, no es necesaria ni la apostilla ni la legalización.
 
-### 5.3. Acreditación de la estancia de 5 meses
+### 5.5. Acreditación de la estancia de 5 meses
 
 La forma principal de acreditar la estancia es el **padrón histórico**. Si tienes padrón, solícitalo lo antes posible, ya que las citas son difíciles de conseguir. **¡Empieza a pedir cita ya!** Para familias se necesita el **padrón de convivencia histórico**, aún más difícil de obtener.
 
@@ -339,7 +333,7 @@ Si **NO** tienes padrón municipal, la estrategia consiste en construir un exped
 - Pídele que traiga todo lo que tenga.
 - Organiza la documentación cronológicamente para cubrir los 5 meses.
 
-### 5.4. Informe de vulnerabilidad
+### 5.6. Informe de vulnerabilidad
 
 Para la vía de vulnerabilidad, se necesitará un **certificado de la autoridad competente o entidad colaboradora** que acredite la situación de vulnerabilidad, emitido conforme al **modelo oficial de certificado de vulnerabilidad** (también conocido como Anexo II, que es el formulario concreto que debes adjuntar a la solicitud; descargable en https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf). Puede ser emitido por:
 - **Servicios sociales municipales** de la zona de residencia, **o**
@@ -354,35 +348,6 @@ No solo serán entidades grandes; también entidades pequeñas pueden registrars
 > [!WARNING]
 > **Sobre el informe de vulnerabilidad:** Aunque la situación administrativa irregular se presume vulnerable, **Regularización Ya recomienda intentar obtener el certificado igualmente**. Si la administración lo requiere posteriormente, solo dará un plazo de **10 días hábiles** para aportarlo. Es mejor tenerlo preparado que arriesgarse a no poder conseguirlo en ese plazo. El modelo de certificado de vulnerabilidad se puede descargar aquí: https://inclusion.gob.es/documents/20121/7817425/Modelo%20de%20certificado%20de%20vulnerabilidad.pdf
 
-### 5.5. Documentación para solicitantes de protección internacional (arraigo para solicitantes de protección internacional — Formulario [EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf))
-
-Si eres solicitante de protección internacional (asilo), la documentación específica es:
-
-1. Impreso de solicitud [**EX-31**](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf), debidamente cumplimentado y firmado.
-2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
-3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el justificante oficial de haberlos solicitado junto con tu declaración jurada de retraso — Anexo I-1 — y el documento de autorización para que España los pida por ti — Anexo I-2).
-4. Documentación acreditativa de haber presentado solicitud de protección internacional antes del 1 de enero de 2026.
-5. Documentación acreditativa de la permanencia en España al menos 5 meses continuados.
-6. Justificante del abono de la tasa (modelo **790 código 052**, epígrafe 2.3.1, «Autorización de residencia temporal por circunstancias excepcionales por arraigo», a cargo de la persona extranjera; se abona en el plazo de 10 días hábiles desde la admisión a trámite).
-
-### 5.6. Documentación para arraigo extraordinario (arraigo extraordinario — Formulario [EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf))
-
-Si estás en situación administrativa irregular, la documentación depende de la vía de acceso elegida:
-
-**Común a todas las vías:**
-1. Impreso de solicitud [**EX-32**](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf), debidamente cumplimentado y firmado.
-2. Copia completa del pasaporte (en vigor o caducado), cédula de inscripción o título de viaje (todas sus hojas).
-3. Certificado de antecedentes penales de los países donde se haya residido los últimos 5 años antes de la entrada en España (o, si no se ha recibido en un mes: el comprobante de solicitud con tu declaración jurada de retraso — Anexo I-1 — y el documento de autorización para que España los pida por ti — Anexo I-2).
-4. Justificante del abono de la tasa.
-
-**Adicional según vía:**
-
-| Vía | Documentación adicional |
-|-----|------------------------|
-| **A — Laboral** | Documentación acreditativa de actividad laboral, oferta de empleo o compromiso de actividad |
-| **B — Familiar** | Documentación del vínculo familiar + documentación de convivencia con la unidad familiar |
-| **C — Vulnerabilidad** | Documentación acreditativa de permanencia 5 meses + **certificado de vulnerabilidad** (el formulario oficial también llamado Anexo II) |
-| **Familiar de solicitante de arraigo** | Documentación del vínculo familiar + convivencia + permanencia 5 meses |
 
 ---
 
@@ -904,25 +869,9 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 ---
 
-## 13. Nota sobre el lenguaje
-
-El movimiento Regularización Ya ha trabajado en deconstruir narrativas discriminatorias. Este manual respeta ese espíritu:
-
-| ❌ Prohibido | ✅ Correcto                                                  |
-|---|-------------------------------------------------------------|
-| "Trabajo en negro" | **"Economía en B"** o **"trabajo sin contrato"**            |
-| "Personas ilegales" | **"Personas en situación de irregularidad administrativa"** |
-| "Regularización masiva" | **"Regularización EXTRAORDINARIA"**                         |
-
-> *"No hay nada más blanco que la economía en B. Así que dejemos de llamar trabajo en negro. Es trabajo en blanco. Así crece la blanquitud, con la explotación, con el extractivismo, con el saqueo y con la invisibilización de las personas."*
-
-> *"No son las personas ilegales. Es el Estado el que no quiere que las personas tengan una regularización."*
-
-> *"Nuestra regularización es extraordinaria, no masiva."*
-
 ---
 
-## 14. Contexto sociopolítico y lucha del movimiento
+## 13. Contexto sociopolítico y lucha del movimiento
 
 La Regularización Extraordinaria **NO** nace "de un huevo Kinder" ni de la voluntad de los partidos políticos. Nace de más de **cinco años de lucha continuada, autoorganizada, anticolonial y antirracista** del movimiento Regularización Ya y de las comunidades migrantes.
 
@@ -968,13 +917,13 @@ El movimiento denuncia explícitamente a la **DGAIA** (Dirección General de Ate
 
 ---
 
-## 15. Recursos y acompañamiento
+## 14. Recursos y acompañamiento
 
-### 15.1. Entidades colaboradoras con Extranjería
+### 14.1. Entidades colaboradoras con Extranjería
 
 Las **entidades colaboradoras de extranjería** ofrecen **asesoramiento gratuito** y pueden actuar como representantes para presentar tu solicitud. Consulta el **listado oficial actualizado** de entidades colaboradoras: https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
-### 15.2. Asesoramiento gratuito
+### 14.2. Asesoramiento gratuito
 
 Desde Regularización Ya y las entidades aliadas:
 - Se está organizando un **LISTADO** de abogados/as y asesores/as legales que puedan orientar y, en algunos casos, llevar expedientes.
@@ -982,7 +931,7 @@ Desde Regularización Ya y las entidades aliadas:
 - Se prepara **CARTELERÍA** específica con instrucciones claras.
 - Cada quince días hay un punto de asesoramiento migrante en el Círculo de Migraciones de Coòpolis.
 
-### 15.3. Canales de información oficiales de Regularización Ya
+### 14.3. Canales de información oficiales de Regularización Ya
 
 Regularización Ya tiene canales oficiales en:
 - Canal de difusión en **Telegram**
@@ -998,7 +947,7 @@ Regularización Ya tiene canales oficiales en:
 
 El texto definitivo es el **Real Decreto 316/2026, de 14 de abril**, publicado en el BOE: https://www.boe.es/eli/es/rd/2026/04/14/316
 
-### 15.4. Entidades colaboradoras — Registro
+### 14.4. Entidades colaboradoras — Registro
 
 A partir del 5 de marzo de 2026 se ha abierto un registro (orden publicada en BOE) para que entidades puedan inscribirse como **COLABORADORAS DE EXTRANJERÍA**. Esto les permitirá:
 - Acceder a la plataforma **MERCURIO**
@@ -1018,21 +967,18 @@ No solo entidades grandes: también entidades pequeñas pueden registrarse.
 **Listado actualizado de entidades colaboradoras:** https://www.inclusion.gob.es/documents/d/guest/entidades-colaboradoras
 
 
-### 15.5. Coordinaciones territoriales activas
+### 14.5. Coordinaciones territoriales activas
 
 Regularización Ya tiene coordinaciones activas en:
 - Canarias, Cataluña, Valencia, Málaga, Galicia, Aragón, Asturias, Murcia
 - Partes de Andalucía
 - Comunidad de Madrid
 
-### 15.6. Llamamiento contra estafas
 
-> [!CAUTION]
-> **No paguen por este procedimiento.** Hay personas que cobran 500, 600, 700, 800 euros por hacer el expediente cuando va a ser un **proceso gratuito** a través de las entidades colaboradoras oficiales. Acudan a las entidades colaboradoras oficiales.
 
 ---
 
-## 16. Documentos de interés, formularios y vídeos
+## 15. Documentos de interés, formularios y vídeos
 
 ### Documentos de interés
 
@@ -1080,7 +1026,7 @@ Regularización Ya tiene coordinaciones activas en:
 
 ---
 
-## 17. Resumen rápido
+## 16. Resumen rápido
 
 ### ✅ Requisitos básicos (debes cumplir TODOS)
 
