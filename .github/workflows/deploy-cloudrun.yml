@@ -30,6 +30,7 @@ jobs:
         with:
           service: regularizacionya-git
           region: europe-west1
+          project_id: chatregularizacionya
           source: .
 
       - name: Show Output
