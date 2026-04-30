@@ -151,7 +151,7 @@ class LangGraphAgentOrchestrator(AgentOrchestrator):
                 "messages": [
                     AIMessage(
                         content=(
-                            "I cannot reach LLM Model right now. Ensure LLM is running"
+                            "Lo siento, en este momento estoy experimentando problemas técnicos y no puedo responder a tu consulta. Por favor, inténtalo de nuevo en unos instantes."
                         )
                     )
                 ]
