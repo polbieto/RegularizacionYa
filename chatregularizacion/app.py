@@ -78,6 +78,7 @@ EXAMPLE_QUESTIONS = [
 ]
 
 
+
 async def _process_message(content: str):
     """Shared logic: sends user content to the agent orchestrator and replies."""
     user_id = cl.user_session.get("user_id")
