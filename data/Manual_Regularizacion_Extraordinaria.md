@@ -961,18 +961,6 @@ Uno de los trabajos más importantes del movimiento fue **DECONSTRUIR LA NARRATI
 - Incorporar la lucha migrante en la agenda feminista.
 - Poner en la agenda la quita de custodia de hijos e hijas a madres migrantes como cuestión sistemática.
 
-### Denuncia a la DGAIA (DGPPIA)
-
-El movimiento denuncia explícitamente a la **DGAIA** (Dirección General de Atención a la Infancia y la Adolescencia de Cataluña, ahora DGPPIA):
-
-- La DGAIA deja a jóvenes con pasaportes de menores y decretos de Fiscalía **EN LA CALLE Y SIN PAPELES**.
-- Los jóvenes extutelados llenan los parques y son expulsados de espacios públicos por el "progresista Colboni".
-- Los CIE son *"el paso previo a una deportación y un castigo por desafiar el orden colonial de las fronteras."*
-- El tutelaje de menores migrantes es denunciado como *"el negocio más grande que tiene Cataluña."*
-- El interés superior del menor está por encima de ser migrante: *"La infancia no es un problema del departamento tal de la Generalitat. Es un problema de todas."*
-
----
-
 ## 14. Recursos y acompañamiento
 
 ### 14.1. Entidades colaboradoras con Extranjería
