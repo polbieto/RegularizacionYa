@@ -113,6 +113,8 @@ _PROVINCE_ALIASES: dict[str, str] = {
     "CASTELLON DE LA PLANA": "CASTELLÓN",
     # Navarra — Basque variant
     "NAFARROA": "NAVARRA",
+    # Typos in official document
+    "CÓRODBA": "CÓRDOBA",
 }
 
 
