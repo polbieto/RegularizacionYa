@@ -1,0 +1,11 @@
+# .gcloudignore
+# Controls what gcloud run deploy --source . uploads to Cloud Build.
+# Without this file, gcloud falls back to .gitignore which doesn't
+# correctly handle negation patterns like !.chainlit/config.toml
+
+# Use .gitignore as the base
+#!include:.gitignore
+
+# Explicitly UN-ignore the Chainlit config (overrides .gitignore rule)
+!.chainlit/
+!.chainlit/config.toml
