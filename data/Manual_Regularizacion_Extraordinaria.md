@@ -20,9 +20,9 @@
 | **Apertura del plazo de solicitud** | **16 de abril de 2026** (solicitudes telemáticas y obtención de cita previa) |
 | **Atención presencial** | Desde el **20 de abril de 2026** (con cita previa) |
 | **Fin del plazo de solicitud** | **30 de junio de 2026** |
-| **Estancia mínima** | 5 meses continuados antes de la presentación de la solicitud |
-| **Plazo máximo de resolución** | **3 meses** desde la entrada en el registro del órgano competente |
-| **Duración de la autorización** | 1 año, modificable o prorrogable |
+| **Estancia mínima** | 5 meses ININTERRUMPIDOS antes de la presentación de la solicitud |
+| **Plazo máximo de resolución** | **3 meses** desde la entrada en el registro del órgano competente (en la práctica, es completamente habitual que se extienda más; no hay motivo de alarma) |
+| **Duración de la autorización** | 1 año desde la admisión a trámite con autorización provisional de trabajo. Dos meses antes de su fin, debe iniciarse la modificación a residencia y trabajo de 4 años (art. 191 RD 1155/2024). Si no se cumplen esos requisitos, cabe prórroga de 1 año o prórroga excepcional de 4 años (jubilación, enfermedad grave o discapacidad) |
 
 > [!IMPORTANT]
 > La vía **telemática** está disponible de forma ininterrumpida, **24 horas al día, 7 días a la semana** durante todo el plazo de solicitud. No es necesario esperar a la atención presencial.
@@ -31,7 +31,7 @@
 
 ## 2. ¿Quién puede acogerse a la regularización extraordinaria?
 
-Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (ser mayor de edad, haber entrado en España antes del 1 de enero de 2026, encontrarse en España al presentar la solicitud, llevar al menos 5 meses seguidos viviendo en España, no tener antecedentes penales, no tener autorización vigente ni trámite en curso, no suponer amenaza al orden público, no figurar como rechazable en Schengen, no estar en periodo de compromiso de no retorno, no ser titular de protección temporal de Ucrania, y abonar la tasa) y que se encuentren en **AL MENOS UNA** de las dos vías de acceso: vía laboral (oferta de empleo o haber trabajado), vía familiar (hijos menores, mayores con discapacidad o ascendientes de primer grado) o vía de vulnerabilidad (la propia irregularidad administrativa ya se considera vulnerable).
+Pueden acogerse las personas que cumplan **TODOS** los requisitos generales (ser mayor de edad, haber entrado en España antes del 1 de enero de 2026, encontrarse en España al presentar la solicitud, llevar al menos 5 meses ininterrumpidos viviendo en España, no tener antecedentes penales, no tener autorización vigente ni trámite en curso, no suponer amenaza al orden público, no figurar como rechazable en Schengen, no estar en periodo de compromiso de no retorno, no ser titular de protección temporal de Ucrania, y abonar la tasa) y que se encuentren en **AL MENOS UNA** de las tres vías de acceso: vía laboral (oferta de empleo o haber trabajado), vía familiar (hijos menores, mayores con discapacidad o ascendientes de primer grado) o vía de vulnerabilidad (la propia irregularidad administrativa ya se considera vulnerable). En el caso de las personas que hayan solicitado **Protección Internacional**, el acceso se articula a través de una vía específica propia (arraigo para solicitantes de PI), por lo que no necesitan acreditar ninguna de las tres vías anteriores.
 
 El RD 316/2026 establece **dos disposiciones adicionales** al Reglamento de Extranjería:
 
@@ -63,15 +63,15 @@ El RD 316/2026 establece **dos disposiciones adicionales** al Reglamento de Extr
 Se deben cumplir **TODOS** los siguientes:
 
 1. **SER MAYOR DE EDAD**
-   Es un requisito explícito del Real Decreto. Los menores se regularizan a través de la solicitud simultánea de sus progenitores, quienes pueden solicitar una autorización de residencia para ellos conforme a los artículos 159 o 160 del Reglamento de Extranjería. Los menores obtienen una autorización de hasta 5 años. Los progenitores que acceden por vía familiar están exentos de acreditar medios económicos e informe de habitabilidad.
+   Es un requisito explícito del Real Decreto. Los menores se regularizan a través de la solicitud simultánea de sus progenitores, quienes pueden solicitar una autorización de residencia para ellos conforme a los artículos 159 o 160 del Reglamento de Extranjería. Los menores obtienen una autorización de hasta 5 años. Los progenitores que acceden por vía familiar están exentos de cumplir los requisitos de los artículos 159 y 160 del Reglamento de Extranjería; en concreto, no se les exigirá presentar la solicitud dentro de los primeros 6 meses posteriores al nacimiento (art. 159), ni tampoco acreditar los 2 años de permanencia previa, los medios económicos ni el informe de alojamiento adecuado (art. 160).
 
 2. **HABER ENTRADO EN ESPAÑA ANTES DEL 1 DE ENERO DE 2026**
    Es decir, estar presente en territorio español a fecha 31/12/2025 o antes. Si entraste el mismo 31 de diciembre, también cuentas.
 
 3. **ENCONTRARSE EN ESPAÑA EN EL MOMENTO DE PRESENTAR LA SOLICITUD**
 
-4. **HABER VIVIDO EN ESPAÑA AL MENOS 5 MESES SEGUIDOS**
-   Permanencia continuada de al menos cinco meses anteriores a la presentación de la solicitud. Si entraste el 31 de diciembre de 2025, contando los cinco meses llegarías a finales de mayo de 2026, dentro del plazo de presentación. La estancia puede acreditarse mediante **cualquier prueba válida en derecho** que incluya datos personales que permitan acreditar la identidad: padrón histórico, tarjetas de transporte, recibos de envíos de dinero (remesas), citas médicas, contratos de suministros, compras documentadas, certificados de entidades y organizaciones, documentación previa de extranjería, fotografías geolocalizadas, correspondencia, contratos de alquiler, etc. Cuantas más pruebas se aporten, mejor.
+4. **HABER VIVIDO EN ESPAÑA AL MENOS 5 MESES ININTERRUMPIDOS**
+   Permanencia ininterrumpida de al menos cinco meses anteriores a la presentación de la solicitud. Si entraste el 31 de diciembre de 2025, contando los cinco meses llegarías a finales de mayo de 2026, dentro del plazo de presentación. La estancia puede acreditarse mediante **cualquier prueba válida en derecho** que incluya datos personales que permitan acreditar la identidad: padrón histórico, tarjetas de transporte, recibos de envíos de dinero (remesas), citas médicas, contratos de suministros, compras documentadas, certificados de entidades y organizaciones, documentación previa de extranjería, fotografías geolocalizadas, correspondencia, contratos de alquiler, etc. Cuantas más pruebas se aporten, mejor.
 
 5. **NO TENER ANTECEDENTES PENALES**
    Se requieren antecedentes penales limpios en España, en el país de origen y en los países donde se haya residido durante los **cinco últimos años anteriores a la fecha de entrada en España**, por delitos existentes en el ordenamiento español. **Si has tenido antecedentes pero ya se han cancelado, puedes presentar la acreditación de su cancelación.** Los antecedentes penales se cancelan ante el **Ministerio de Justicia** (plazos según gravedad: desde 6 meses para penas leves hasta 10 años para penas graves, contados desde el cumplimiento completo de la pena); los policiales se cancelan por vía administrativa solicitando acceso y posterior cancelación al cuerpo policial correspondiente (respuesta en 1-2 meses). **Solicita la cancelación ANTES de iniciar trámites de extranjería.**
@@ -100,7 +100,7 @@ Se deben cumplir **TODOS** los siguientes:
 11. **ABONAR LA TASA CORRESPONDIENTE**
     La tasa se devenga en el momento de admisión a trámite y debe abonarse en el plazo de **diez días hábiles**. El modelo de tasa para la solicitud inicial es el **790 código 052**, epígrafe 2.3.1 («Autorización de residencia temporal por circunstancias excepcionales por arraigo»), a cargo de la persona extranjera.
 
-Además, debes acreditar que te encuentras en **AL MENOS UNA** de las siguientes situaciones — **vías de acceso**:
+Además, si **no** eres solicitante de Protección Internacional, debes acreditar que te encuentras en **AL MENOS UNA** de las siguientes situaciones — **vías de acceso** (las personas solicitantes de PI acceden por su vía específica propia y no necesitan acreditar ninguna de estas tres):
 
 - **A)** Tener oferta de empleo o haber trabajado.
 - **B)** Tener familia compuesta por hijos/hijas menores, mayores en situación de discapacidad, o **ascendientes de primer grado** con quienes se conviva.
@@ -110,7 +110,7 @@ Además, debes acreditar que te encuentras en **AL MENOS UNA** de las siguientes
 
 ## 4. Las vías de acceso (situaciones)
 
-Además de los requisitos generales, debes encontrarte en **AL MENOS UNA** de estas situaciones:
+Además de los requisitos generales, si estás en situación administrativa irregular (arraigo extraordinario), debes encontrarte en **AL MENOS UNA** de las siguientes tres situaciones. Las personas que hayan solicitado **Protección Internacional** acceden por su vía específica (arraigo para solicitantes de PI) y no necesitan acreditar ninguna de estas tres vías:
 
 ### 4.1. Vía laboral: oferta de empleo o haber trabajado
 
@@ -134,12 +134,15 @@ Personas progenitoras que tienen menores a su cargo y están en situación irreg
 - Hijos/as mayores con discapacidad que requieran de apoyo o que no sean objetivamente capaces de proveer a sus propias necesidades.
 - **Ascendientes de primer grado** con quienes se conviva.
 
-**Beneficios de esta vía:**
-- **EXENTAS** de demostrar medios económicos.
-- **EXENTAS** de presentar el costoso informe de habitabilidad.
+**Beneficios de esta vía (exenciones legales):**
+Los progenitores que acceden por esta vía están **exentos** de cumplir los requisitos habituales de los artículos 159 y 160 del Reglamento de Extranjería. En concreto:
+- **No** se les exigirá presentar la solicitud dentro de los primeros **6 meses posteriores al nacimiento** del menor (exención del art. 159).
+- **No** se les exigirá acreditar **2 años de permanencia previa** en España (exención del art. 160).
+- **No** se les exigirá acreditar **medios económicos** suficientes (exención del art. 160).
+- **No** se les exigirá presentar **informe de alojamiento adecuado** (exención del art. 160).
 
 Se aplica también a:
-- Padre o madre de un menor que aún no había cumplido los 2 años necesarios para hacer un arraigo social: también están exentos de demostrar medios económicos e informe de habitabilidad.
+- Padre o madre de un menor que aún no había cumplido los 2 años necesarios para hacer un arraigo social: también están exentos de los requisitos de los artículos 159 y 160 mencionados arriba.
 
 **Documentación específica para esta vía:**
 - Documentación acreditativa del vínculo familiar.
@@ -174,7 +177,7 @@ Independientemente de la vía que elijas (protección internacional o arraigo ex
 | 1 | **Formulario de solicitud** | **[EX-31](https://inclusion.gob.es/documents/20121/7817425/EX31.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo.%20Solicitantes%20PI%20%28DA20%C2%BA%29.pdf)** si eres solicitante de protección internacional · **[EX-32](https://inclusion.gob.es/documents/20121/7817425/EX32.%20Formulario%20autorizaci%C3%B3n%20de%20residencia%20por%20circunstancias%20excepcionales%20por%20raz%C3%B3n%20de%20arraigo%20extraordinario%20%28DA21%C2%BA%29.pdf)** si estás en situación administrativa irregular. Debidamente cumplimentado y firmado. |
 | 2 | **Pasaporte completo** | Copia completa del pasaporte (**todas sus hojas**), en vigor o caducado. También se acepta cédula de inscripción o título de viaje (en vigor o caducado). |
 | 3 | **Antecedentes penales** | Certificado de antecedentes penales expedido por las autoridades de los países donde hayas residido durante los **5 últimos años anteriores a tu fecha de entrada en España**. Deben estar apostillados o legalizados y traducidos por traductor/a jurado/a reconocido/a en España. |
-| 4 | **Acreditación de estancia** | Documentación acreditativa de encontrarse en España **antes del 1 de enero de 2026** y de haber permanecido de forma ininterrumpida al menos **5 meses** antes de la solicitud. Puede acreditarse con cualquier prueba válida en derecho que incluya datos personales que permitan acreditar tu identidad. |
+| 4 | **Acreditación de estancia** | Documentación acreditativa de encontrarse en España **antes del 1 de enero de 2026** y de haber permanecido de forma ininterrumpida al menos **5 meses ininterrumpidos** antes de la solicitud. Puede acreditarse con cualquier prueba válida en derecho que incluya datos personales que permitan acreditar tu identidad. |
 | 5 | **Tasa** | Justificante del abono de la tasa: modelo **790 código 052**, epígrafe 2.3.1 («Autorización de residencia temporal por circunstancias excepcionales por arraigo»). Se abona en el plazo de **10 días hábiles** desde la admisión a trámite. ⚠️ Si **no tienes NIE**, no abones la tasa hasta que te la requieran con la comunicación de admisión a trámite. |
 
 > [!NOTE]
@@ -525,14 +528,14 @@ Si te acaban de denegar un arraigo (sociolaboral, socioformativo, social) y te p
 
 ## 9. Regularización de menores
 
-La regularización extraordinaria permite regularizar simultáneamente a los hijos e hijas menores en situación irregular. Los menores obtienen una autorización de **hasta 5 años** (frente a 1 año para adultos). Los progenitores que acceden por vía familiar están **exentos** de acreditar medios económicos e informe de habitabilidad.
+La regularización extraordinaria permite regularizar simultáneamente a los hijos e hijas menores en situación irregular. Los menores obtienen una autorización de **hasta 5 años** (frente a 1 año para adultos). Los progenitores que acceden por vía familiar están **exentos** de cumplir los requisitos de los artículos 159 y 160 del Reglamento de Extranjería (ver detalle a continuación).
 
 **Confirmado por el RD 316/2026 y las hojas informativas oficiales:**
 
 - La persona solicitante que tenga hijas o hijos menores de edad, o mayores con discapacidad que requieran apoyo, podrá solicitar **simultáneamente** una autorización de residencia para ellos conforme a los artículos **159** o **160** del Reglamento de Extranjería (las normas legales que fijan las reglas para menores), resolviéndose ambas solicitudes de **manera conjunta**.
-- **Flexibilizaciones durante la vigencia de esta medida:**
+- **Flexibilizaciones durante la vigencia de esta medida (exenciones de los arts. 159 y 160):**
   - Art. 159: Se exime del requisito de presentar la solicitud dentro de los **6 meses posteriores al nacimiento**.
-  - Art. 160: Se exime del requisito de **permanencia previa de 2 años**, así como de la acreditación de **medios económicos y vivienda adecuados** exigidos para la reagrupación familiar.
+  - Art. 160: Se exime del requisito de **permanencia previa de 2 años**, así como de la acreditación de **medios económicos** e **informe de alojamiento adecuado** exigidos para la reagrupación familiar.
 - Estas autorizaciones se concederán teniendo en cuenta el **interés superior del menor** y podrán tener una vigencia de **hasta cinco años**, conforme a la normativa aplicable a menores extranjeros.
 - Esta flexibilización **también** podrá aplicarse a hijos e hijas cuyos progenitores **ya sean titulares de una autorización de residencia** (es decir, padres ya regularizados con hijos sin papeles).
 - Si solo hay un progenitor presente y no tiene la patria potestad completa, se necesita **autorización del otro progenitor** para residir en España.
@@ -681,6 +684,9 @@ Tras la admisión recibes un documento con tu **NÚMERO DE IDENTIDAD DE EXTRANJE
 
 El plazo máximo de resolución y notificación de la solicitud es de **tres meses**, contados a partir del día siguiente a la fecha en que haya tenido entrada en el registro del órgano competente para su tramitación. Este plazo podrá ser **suspendido** en los términos del artículo 22 de la Ley 39/2015 (por ejemplo, mientras se esperan informes preceptivos). Durante la suspensión, la **habilitación provisional para trabajar sigue siendo válida**.
 
+> [!NOTE]
+> **Sobre el plazo de 3 meses en la práctica:** Es completamente habitual que la resolución del trámite se extienda más allá de los 3 meses indicados. Dado el volumen de solicitudes previsto, es muy probable que la Administración necesite más tiempo del estipulado. **No hay motivo de alarma si no recibes respuesta dentro de ese plazo.** Mientras tanto, tu autorización provisional de residencia y trabajo sigue vigente y puedes seguir trabajando con normalidad. Ten paciencia y mantén tu domicilio actualizado para no perder ninguna notificación.
+
 **Silencio administrativo:**
 - **Solicitud inicial:** Transcurrido el plazo de 3 meses sin notificación, se podrá entender que la solicitud ha sido **desestimada** por silencio administrativo.
 - **Prórroga:** Transcurrido el plazo sin notificación, se entenderá que la solicitud ha sido **estimada** por silencio administrativo.
@@ -698,8 +704,10 @@ En la práctica, para autentificarte telemáticamente necesitas la tarjeta vigen
 
 ### 11.4. Duración de la autorización
 
-- La autorización de residencia tendrá una **DURACIÓN DE 1 AÑO** y habilitará a residir y trabajar por cuenta ajena y por cuenta propia, en cualquier parte del territorio español, ocupación o sector de actividad.
-- Podrá **MODIFICARSE** (transformarla en autorización de residencia y trabajo ordinaria, solicitándola durante los 2 meses previos a la expiración o los 3 meses posteriores) o **PRORROGARSE** (por 1 año acreditando búsqueda activa de empleo o informe de integración; o por 4 años en caso de enfermedad grave, discapacidad o jubilación).
+- La autorización de residencia tendrá una **DURACIÓN DE 1 AÑO**. **IMPORTANTE:** la vigencia comienza a contar desde la fecha de **notificación de la admisión a trámite con autorización provisional de trabajo**, NO desde la resolución definitiva. Habilitará a residir y trabajar por cuenta ajena y por cuenta propia, en cualquier parte del territorio español, ocupación o sector de actividad.
+- **Dos meses antes de que finalice ese año**, debe iniciarse la **modificación** a una autorización de residencia y trabajo de **4 años**, cumpliendo los requisitos del artículo 191 del RD 1155/2024.
+- Si no se cumplen los requisitos para la modificación, se puede solicitar una **prórroga de 1 año**, acreditando estar inscrito/a como demandante de empleo o aportando un informe de integración de la Comunidad Autónoma de residencia.
+- Existe además una **prórroga excepcional de 4 años** sin necesidad de cumplir los requisitos ordinarios, destinada a personas que hayan alcanzado la **edad legal de jubilación**, o que padezcan **enfermedad grave o discapacidad** que les impida trabajar. A esta prórroga excepcional también podrán acceder los **familiares ascendientes de primer grado** o los **cónyuges/parejas registradas** de estas personas dependientes.
 
 ### 11.5. Tarjeta de Identidad de Extranjero (TIE)
 
@@ -719,30 +727,32 @@ En el plazo de **un mes** desde la notificación de la concesión de la autoriza
 
 ### 11.7. Modificación y prórroga de la autorización
 
-Una vez transcurrido el año de vigencia de la autorización, existen dos vías para mantener los papeles:
+Recuerda que la vigencia de 1 año de la autorización se cuenta desde la **notificación de la admisión a trámite con autorización provisional de trabajo**, no desde la resolución definitiva. Al acercarse el fin de ese año, existen dos vías para mantener los papeles:
 
-#### A) Modificación (vía preferente)
+#### A) Modificación (vía preferente) — Autorización de residencia y trabajo de 4 años
 
-Se puede solicitar la **modificación** de la autorización. Esto permite transformarla en una autorización de residencia y trabajo ordinaria.
+Se puede solicitar la **modificación** de la autorización conforme al **artículo 191 del RD 1155/2024**. Esto permite transformarla en una autorización de residencia y trabajo ordinaria de **4 años de duración**.
 
-- **Plazo de solicitud:** Durante los 2 meses previos a la expiración o dentro de los 3 meses posteriores a la finalización de la vigencia.
+- **Plazo de solicitud:** Debe iniciarse durante los **2 meses previos a la expiración** del año de vigencia, o dentro de los 3 meses posteriores a la finalización de la vigencia.
 - **Efecto de presentar la solicitud:** Prorroga la validez de la autorización anterior hasta la resolución del procedimiento.
+- **Requisitos:** Los establecidos en el art. 191 del RD 1155/2024 para la modificación de autorizaciones de residencia.
 - **Alta en Seguridad Social:** En el plazo de 1 mes desde la notificación, la persona debe ser afiliada y dada de alta en el régimen de Seguridad Social correspondiente (la eficacia de la autorización está condicionada a esta alta).
 - **TIE tras modificación:** En el plazo de 1 mes desde el alta en la Seguridad Social, debe solicitar la tarjeta de identidad de extranjero.
 
-#### B) Prórroga (vía excepcional)
+#### B) Prórroga (vía alternativa si no se cumplen los requisitos de modificación)
 
-Si **no se puede** solicitar una modificación, la autorización podrá ser prorrogada acreditando:
+Si **no se cumplen los requisitos** para solicitar la modificación del art. 191, la autorización podrá ser prorrogada. Existen dos modalidades:
 
-**Prórroga por 1 año:**
-- Estar en **búsqueda activa de empleo** y debidamente inscrito/a en el servicio público de empleo, **o**
+**Prórroga ordinaria por 1 año:**
+- Estar en **búsqueda activa de empleo** y debidamente inscrito/a como **demandante de empleo** en el servicio público de empleo, **o**
 - Aportar un **informe de esfuerzo de integración** emitido por los órganos competentes de la Comunidad Autónoma de residencia. El informe certificará, entre otros elementos, el aprendizaje de las lenguas oficiales del lugar de residencia.
 - En su caso, informe sobre escolarización de menores a cargo en España.
 
-**Prórroga por 4 años:**
+**Prórroga excepcional por 4 años (sin requisitos ordinarios):**
 Si concurren circunstancias que impidan el acceso al empleo por razones debidamente justificadas:
 - **Enfermedad grave o discapacidad** de la persona solicitante, de su cónyuge o descendiente de primer grado (menor de edad o mayor que no sea objetivamente capaz de proveer sus propias necesidades).
-- **Haber alcanzado la edad legal de jubilación.** En este supuesto la prórroga tendrá una duración de **4 años**.
+- **Haber alcanzado la edad legal de jubilación.**
+- **Acceso de familiares:** A esta prórroga excepcional de 4 años también podrán acceder los **familiares ascendientes de primer grado** o los **cónyuges/parejas registradas** de las personas que se encuentren en las situaciones anteriores (enfermedad grave, discapacidad o jubilación) y dependan de ellas.
 
 > [!NOTE]
 > **Silencio administrativo en prórrogas:** Transcurrido el plazo de 3 meses sin notificación, la solicitud de prórroga se entenderá **estimada** (silencio positivo), a diferencia de la solicitud inicial donde el silencio es negativo.
@@ -871,7 +881,7 @@ Esta sección recoge situaciones frecuentes en formato de caso. Cada subsección
 
 **Respuesta:** **SÍ.**
 
-**Explicación:** Las personas que presentaron solicitud de protección internacional antes del 1 de enero de 2026, o que la han tenido, pueden acogerse a la regularización extraordinaria. La denegación no impide el acceso. Con casi dos años en España, es probable que también se cumpla el requisito de 5 meses de estancia continuada.
+**Explicación:** Las personas que presentaron solicitud de protección internacional antes del 1 de enero de 2026, o que la han tenido, pueden acogerse a la regularización extraordinaria. La denegación no impide el acceso. Con casi dos años en España, es probable que también se cumpla el requisito de 5 meses de estancia ininterrumpida.
 
 ### 12.13. Estudiante con tarjeta de residencia caducada
 
@@ -1077,7 +1087,7 @@ Regularización Ya tiene coordinaciones activas en:
 1. Ser **mayor de edad**
 2. Entrar en España **ANTES** o el 31/12/2025
 3. Estar en España en el **momento de solicitar**
-4. Llevar al menos **5 meses SEGUIDOS** viviendo en España
+4. Llevar al menos **5 meses ININTERRUMPIDOS** viviendo en España
 5. **No** tener antecedentes penales (si los has tenido, deben estar cancelados: los penales ante el Ministerio de Justicia, los policiales ante el cuerpo policial correspondiente; solicita la cancelación ANTES de iniciar trámites)
 6. **No** ser titular de autorización de estancia o residencia vigente
 
@@ -1096,8 +1106,8 @@ Regularización Ya tiene coordinaciones activas en:
 | Fecha de corte | 31 de diciembre de 2025                          |
 | Apertura del plazo | **16 de abril de 2026** |
 | Cierre del plazo | **30 de junio de 2026** |
-| Plazo de resolución | 3 meses desde entrada en registro |
-| Duración del permiso | 1 año (modificable o prorrogable)                |
+| Plazo de resolución | 3 meses desde entrada en registro (en la práctica suele extenderse más) |
+| Duración del permiso | 1 año desde la admisión a trámite; modificable a 4 años (art. 191 RD 1155/2024) o prorrogable |
 
 ### 📄 Documentos mínimos
 
