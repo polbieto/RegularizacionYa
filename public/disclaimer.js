@@ -1,6 +1,6 @@
-// Replace Chainlit's default watermark with the legal disclaimer
+// Inyecta el aviso legal directamente en el DOM, sin depender de .watermark
 (function () {
-  var SELECTOR = ".watermark";
+  var BANNER_ID = "ry-legal-disclaimer";
   var DISCLAIMER_HTML =
     "⚠️ <strong>¡IMPORTANTE!</strong> " +
     "Este asistente virtual brinda información general y no sustituye el asesoramiento legal individualizado. " +
@@ -8,30 +8,33 @@
     '<a href="https://www.inclusion.gob.es/regularizacion" target="_blank" rel="noopener noreferrer">' +
     "inclusion.gob.es/regularizacion</a>.";
 
-  function replaceWatermark() {
-    var el = document.querySelector(SELECTOR);
-    if (!el || el.dataset.replaced) return;
+  function injectBanner() {
+    if (document.getElementById(BANNER_ID)) return;
 
-    el.dataset.replaced = "true";
-
-    // Clear all inline styles and children
-    el.removeAttribute("style");
-    el.innerHTML = DISCLAIMER_HTML;
+    var banner = document.createElement("div");
+    banner.id = BANNER_ID;
+    banner.innerHTML = DISCLAIMER_HTML;
+    document.body.appendChild(banner);
   }
 
-  // Watch for the watermark to be rendered by React
-  var observer = new MutationObserver(function () {
-    replaceWatermark();
-  });
+  // Ocultar el watermark original de Chainlit para evitar duplicados
+  function hideWatermark() {
+    var style = document.getElementById("ry-hide-watermark");
+    if (style) return;
+    var s = document.createElement("style");
+    s.id = "ry-hide-watermark";
+    s.textContent = ".watermark { display: none !important; }";
+    document.head.appendChild(s);
+  }
 
-  observer.observe(document.documentElement, {
-    childList: true,
-    subtree: true,
-  });
+  function init() {
+    hideWatermark();
+    injectBanner();
+  }
 
-  if (document.readyState !== "loading") {
-    replaceWatermark();
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
   } else {
-    document.addEventListener("DOMContentLoaded", replaceWatermark);
+    init();
   }
 })();

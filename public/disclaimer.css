@@ -1,43 +1,39 @@
-/* ─── Legal Disclaimer (via Chainlit watermark slot) ─── */
-
-/* Hide the old fixed banner — no longer needed */
-#legal-disclaimer {
+/* ─── Ocultar watermark original de Chainlit ─── */
+.watermark {
   display: none !important;
 }
 
-/* Alert-style box for the watermark slot */
-.watermark {
-  display: block !important;
+/* ─── Aviso Legal (banner fijo en la parte inferior) ─── */
+#ry-legal-disclaimer {
+  position: fixed !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 9999 !important;
   width: 100% !important;
-  margin-top: 8px !important;
-  padding: 8px 12px !important;
+  box-sizing: border-box !important;
+  padding: 8px 16px !important;
   background: #fff8f0 !important;
-  border: 1px solid #f8c89a !important;
+  border-top: 1px solid #f8c89a !important;
   border-left: 4px solid #e65100 !important;
-  border-radius: 8px !important;
   font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif !important;
   font-size: 11.5px !important;
   line-height: 1.5 !important;
   color: #4a3000 !important;
-  text-decoration: none !important;
+  text-align: center !important;
 }
 
-.watermark strong {
+#ry-legal-disclaimer strong {
   color: #c84b00 !important;
   font-weight: 700 !important;
 }
 
-.watermark a {
+#ry-legal-disclaimer a {
   color: #c84b00 !important;
   text-decoration: underline !important;
   text-underline-offset: 2px !important;
 }
 
-.watermark a:hover {
+#ry-legal-disclaimer a:hover {
   color: #e65100 !important;
-}
-
-/* Neutralise Chainlit's inner prose wrappers */
-.watermark > * {
-  all: unset !important;
 }
