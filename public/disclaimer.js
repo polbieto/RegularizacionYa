@@ -1,43 +1,37 @@
-// Persistent legal disclaimer banner for Regularización Ya chatbot
+// Replace Chainlit's default watermark with the legal disclaimer
 (function () {
-  function injectBanner() {
-    if (document.getElementById("legal-disclaimer")) return;
+  var SELECTOR = ".watermark";
+  var DISCLAIMER_HTML =
+    "⚠️ <strong>¡IMPORTANTE!</strong> " +
+    "Este asistente virtual brinda información general y no sustituye el asesoramiento legal individualizado. " +
+    "Encuentra la información oficial más actualizada en " +
+    '<a href="https://www.inclusion.gob.es/regularizacion" target="_blank" rel="noopener noreferrer">' +
+    "inclusion.gob.es/regularizacion</a>.";
 
-    const banner = document.createElement("div");
-    banner.id = "legal-disclaimer";
-    banner.innerHTML =
-      '<div class="disclaimer-inner">' +
-        '<span class="disclaimer-icon">⚠️</span>' +
-        '<p><strong>¡IMPORTANTE!</strong> Este asistente virtual brinda información general y no sustituye el asesoramiento legal individualizado. ' +
-        'Encuentra la información oficial más actualizada en ' +
-        '<a href="https://www.inclusion.gob.es/regularizacion" target="_blank" rel="noopener noreferrer">inclusion.gob.es/regularizacion</a>.</p>' +
-        '<button class="disclaimer-close" aria-label="Cerrar aviso" title="Cerrar">✕</button>' +
-      "</div>";
+  function replaceWatermark() {
+    var el = document.querySelector(SELECTOR);
+    if (!el || el.dataset.replaced) return;
 
-    // Close button hides the banner
-    banner.querySelector(".disclaimer-close").addEventListener("click", function () {
-      banner.style.display = "none";
-    });
+    el.dataset.replaced = "true";
 
-    document.body.appendChild(banner);
+    // Clear all inline styles and children
+    el.removeAttribute("style");
+    el.innerHTML = DISCLAIMER_HTML;
   }
 
-  // Inject as soon as possible
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", injectBanner);
-  } else {
-    injectBanner();
-  }
-
-  // Fallback: re-inject if the banner gets removed (SPA re-renders)
-  const observer = new MutationObserver(function () {
-    if (!document.getElementById("legal-disclaimer")) {
-      injectBanner();
-    }
+  // Watch for the watermark to be rendered by React
+  var observer = new MutationObserver(function () {
+    replaceWatermark();
   });
 
-  observer.observe(document.body || document.documentElement, {
+  observer.observe(document.documentElement, {
     childList: true,
-    subtree: false,
+    subtree: true,
   });
+
+  if (document.readyState !== "loading") {
+    replaceWatermark();
+  } else {
+    document.addEventListener("DOMContentLoaded", replaceWatermark);
+  }
 })();

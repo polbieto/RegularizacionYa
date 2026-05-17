@@ -1,93 +1,43 @@
-/* ─── Legal Disclaimer Banner ─── */
+/* ─── Legal Disclaimer (via Chainlit watermark slot) ─── */
 
+/* Hide the old fixed banner — no longer needed */
 #legal-disclaimer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  z-index: 10000;
-  background: #ffffff;
-  border-top: 2px solid #f57c00;
-  box-shadow: 0 -1px 8px rgba(0, 0, 0, 0.08);
-  padding: 8px 16px;
-  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
-  font-size: 11.5px;
-  line-height: 1.45;
-  color: #333333;
-  pointer-events: auto;
+  display: none !important;
 }
 
-#legal-disclaimer .disclaimer-inner {
-  max-width: 960px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  gap: 10px;
+/* Alert-style box for the watermark slot */
+.watermark {
+  display: block !important;
+  width: 100% !important;
+  margin-top: 8px !important;
+  padding: 8px 12px !important;
+  background: #fff8f0 !important;
+  border: 1px solid #f8c89a !important;
+  border-left: 4px solid #e65100 !important;
+  border-radius: 8px !important;
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif !important;
+  font-size: 11.5px !important;
+  line-height: 1.5 !important;
+  color: #4a3000 !important;
+  text-decoration: none !important;
 }
 
-#legal-disclaimer .disclaimer-icon {
-  font-size: 18px;
-  flex-shrink: 0;
+.watermark strong {
+  color: #c84b00 !important;
+  font-weight: 700 !important;
 }
 
-#legal-disclaimer p {
-  margin: 0;
-  flex: 1;
+.watermark a {
+  color: #c84b00 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px !important;
 }
 
-#legal-disclaimer strong {
-  color: #e65100;
-  letter-spacing: 0.02em;
+.watermark a:hover {
+  color: #e65100 !important;
 }
 
-#legal-disclaimer a {
-  color: #e65100;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  transition: color 0.2s ease;
-}
-
-#legal-disclaimer a:hover {
-  color: #f57c00;
-}
-
-#legal-disclaimer .disclaimer-close {
-  flex-shrink: 0;
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 18px;
-  line-height: 1;
-  color: #888;
-  padding: 2px 4px;
-  border-radius: 4px;
-  transition: color 0.15s ease, background 0.15s ease;
-}
-
-#legal-disclaimer .disclaimer-close:hover {
-  color: #333;
-  background: rgba(0, 0, 0, 0.06);
-}
-
-/* Push the Chainlit chat input area above the banner */
-.cl-chat-body,
-main {
-  padding-bottom: 80px !important;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 600px) {
-  #legal-disclaimer {
-    font-size: 10.5px;
-    padding: 6px 12px;
-  }
-
-  #legal-disclaimer .disclaimer-icon {
-    font-size: 15px;
-  }
-
-  .cl-chat-body,
-  main {
-    padding-bottom: 90px !important;
-  }
+/* Neutralise Chainlit's inner prose wrappers */
+.watermark > * {
+  all: unset !important;
 }
